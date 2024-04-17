@@ -1,10 +1,10 @@
 local Pl = game.PlaceId
 
-if Pl == 2753915549 or Pl == 4442272183 or Pl == 7449423635 then
+if Pl == 2753915549 then ------------Bloxfruit---------------------
 
-elseif Pl == 10534865425 then
+elseif Pl == 4442272183 then ------------Bloxfruit---------------------
 
-elseif Pl == 13284033561 then
+elseif Pl == 7449423635 then ------------Bloxfruit---------------------
 
 elseif Pl == 8069117419 then
 
