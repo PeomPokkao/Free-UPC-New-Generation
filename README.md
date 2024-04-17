@@ -1,1 +1,2092 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _HSLXasMD_UDl = a; end)); return(function(f,...)local d;local l;local t;local g;local s;local k;local e=24915;local a=0;local n={};while a<562 do a=a+1;while a<0x378 and e%0xac0<0x560 do a=a+1 e=(e+988)%12297 local h=a+e if(e%0x1634)<0xb1a then e=(e-0x84)%0x72a4 while a<0x2a9 and e%0x1dda<0xeed do a=a+1 e=(e+573)%19806 local g=a+e if(e%0x1dce)<=0xee7 then e=(e-0x3ff)%0x4297 local e=61690 if not n[e]then n[e]=0x1 k={};end elseif e%2~=0 then e=(e*0x168)%0x3b32 local e=72209 if not n[e]then n[e]=0x1 end else e=(e*0x1a7)%0xbb01 a=a+1 local e=66332 if not n[e]then n[e]=0x1 end end end elseif e%2~=0 then e=(e+0x75)%0x9c1f while a<0x17e and e%0x2256<0x112b do a=a+1 e=(e-867)%47810 local d=a+e if(e%0x26b6)>0x135b then e=(e*0x31e)%0x2cc9 local e=94577 if not n[e]then n[e]=0x1 g=(not g)and _ENV or g;end elseif e%2~=0 then e=(e*0x305)%0x770c local e=86140 if not n[e]then n[e]=0x1 t=string;end else e=(e-0xce)%0x9dad a=a+1 local e=12283 if not n[e]then n[e]=0x1 s=tonumber;end end end else e=(e+0xed)%0x957 a=a+1 while a<0x88 and e%0x4758<0x23ac do a=a+1 e=(e+919)%10666 local h=a+e if(e%0x11ee)<=0x8f7 then e=(e*0x39d)%0xb2cf local e=45243 if not n[e]then n[e]=0x1 g=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x12)%0xa1ca local e=10382 if not n[e]then n[e]=0x1 l="\4\8\116\111\110\117\109\98\101\114\77\109\100\109\86\83\65\73\0\6\115\116\114\105\110\103\4\99\104\97\114\87\120\105\109\105\89\114\121\0\6\115\116\114\105\110\103\3\115\117\98\104\79\72\109\82\115\67\101\0\6\115\116\114\105\110\103\4\98\121\116\101\84\71\102\85\98\71\72\87\0\5\116\97\98\108\101\6\99\111\110\99\97\116\70\107\79\113\114\67\80\77\0\5\116\97\98\108\101\6\105\110\115\101\114\116\70\103\101\100\81\65\71\67\5";end else e=(e+0x121)%0x9169 a=a+1 local e=60448 if not n[e]then n[e]=0x1 d=function(d)local e=0x01 local function n(a)e=e+a return d:sub(e-a,e-0x01)end while true do local a=n(0x01)if(a=="\5")then break end local e=t.byte(n(0x01))local e=n(e)if a=="\2"then e=k.MmdmVSAI(e)elseif a=="\3"then e=e~="\0"elseif a=="\6"then g[e]=function(a,e)return f(8,nil,f,e,a)end elseif a=="\4"then e=g[e]elseif a=="\0"then e=g[e][n(t.byte(n(0x01)))];end local a=n(0x08)k[a]=e end end end end end end end e=(e-1023)%49678 end d(l);local a={};for e=0x0,0xff do local n=k.WximiYry(e);a[e]=n;a[n]=e;end local function h(e)return a[e];end local h=(function(l,t)local f,n=0x01,0x10 local a={{},{},{}}local g=-0x01 local e=0x01 local d=l while true do a[0x03][k.hOHmRsCe(t,e,(function()e=f+e return e-0x01 end)())]=(function()g=g+0x01 return g end)()if g==(0x0f)then g=""n=0x000 break end end local g=#t while e<g+0x01 do a[0x02][n]=k.hOHmRsCe(t,e,(function()e=f+e return e-0x01 end)())n=n+0x01 if n%0x02==0x00 then n=0x00 k.FgedQAGC(a[0x01],(h((((a[0x03][a[0x02][0x00]]or 0x00)*0x10)+(a[0x03][a[0x02][0x01]]or 0x00)+d)%0x100)));d=l+d;end end return k.FkOqrCPM(a[0x01])end);d(h(157,"(4jhOLS#>WNI)Y:QS>"));d(h(214,"%9RL!2kU8jfow^37Rf2f799w!!k2j!oUU3D8!Lk2jRojwYb!93k2kpj^^jf.wok+U^f2^fb!=okL87o{wj32R9!o9L!9^k*RRL2R8RUjf87fME!9!wj^f!88o8!7UffRwL7R92^^k78^wf3L9RR!!9kfwk3w_o!Lk!R!2R32VL!b23R2ok^8FL!ekR8kf^ok&8L^kLUffoU?fRLL!788fow^=k9^2fU9jw^v7L52!f2o8kff3w98R^DwLjoR3o9L!3ULfG8o^899!R!8jowo^2Rs^k6Qj^o93L98!kk!jRoX3978Ljk2RZ!jfo7In7kf8Ujo3R^3s!7093o!^jTULR2fUoffw^>k9w2UUm8ff^77Ro3 m7f8o73f93!9Zwf2w87!a7Lok^jkfrwR9o9j2R8^wj8;fw!2k8j!f7^oy^!2!skUj7w!7^9LkLRN!o3IdwR^2w8wfj^99,X7Ro8UjkwjjkwR2jU2fkwj79Rw!9kRUUon73Vw2U!jLRkI7L99!3kwLLo3339o!2UR89fo^R73Rok2j3okU7"));local e=(-11323+(function()local d,e=0,1;(function(n,g,e,a)e(a(n,e,e,a),e(a,n,a and a,e)and e(a,e and n,g,e),a(n,e,n and n,g),a(e,a and n,g,g))end)(function(g,a,n,t)if d>131 then return a end d=d+1 e=(e-909)%36658 if(e%532)<266 then return n else return a(a(g,a,g and g,t),g(t and a,n,n,n and n)and t(t,a,g and a,a and t),g(a,a,a,t and g),a(n,t,g,a and n))end return a(t(a,n,t,n),a(n,g,n,n),n(a,g,n,g and t),t(g,g,a,n and a))end,function(t,a,g,n)if d>463 then return t end d=d+1 e=(e+924)%8970 if(e%292)>=146 then e=(e*15)%46958 return t else return a(g(n,a,t,a and g),a(a,g,g,n),a(t,n,t,a and g),a(g,t,n and a,n)and g(t,n,n and n,a))end return g(a(t and a,a,n and n,g),g(a,n,n,a),n(a,g,g,a),t(t,n,a,t))end,function(n,t,g,a)if d>146 then return g end d=d+1 e=(e-610)%40147 if(e%792)<396 then e=(e+541)%3764 return n else return n(n(n,n,a,a and a),g(n,n and g,g,a),t(a,n,g,a),a(t,t,n,g))end return a(n(a,a,t,a),a(t,t,a,n and n),g(t,a,t,a),n(t,a,g,g)and t(a,a,g,g))end,function(t,g,a,n)if d>133 then return t end d=d+1 e=(e-347)%39249 if(e%1022)<511 then e=(e-638)%29775 return n else return a(a(a,g,a and t,g),g(t,t and n,a,g),g(g,t,g,n and a),n(a,n,g,a))end return a(t(t,a,n,t and a),a(a,n,t and a,a),n(n,n and g,g,n),g(n,a,t,t and a))end)return e;end)())local te=(getfenv)or(function()return _ENV end);local r=k.yJGUP_Kq or k.jJBqETew;local y=1;local g=2;local l=4;local d=3;local function de(c,...)local h=h(e,"RG-q!ZX)4CgS .aI2gXXGC  4-qCaZC4!SZGGX.4ZgqCaICZaXg)!CI gISZ4g-gg.) Zb3qgC!)%a.q4)-SaSZ.GG Z!4DTgSZaGGB.ag)X! IGg)ZSr.ZIGq -)Z-4-II)gaZCggZIi. d)qXIq.I4g!ZXg4Za0SSa)GXg! aagG-G.qZCGqS XI---GI)g-ZZUXS4-)-q.S!G.X4gqCa CIgCXX-G.I-G. 4!q)agaZSCX)GSSC4aq!aICaZ.}4ZG%SS!X)Gg-YaGgC!S. SSX.G4 a)I a4qqGa!C)CI!.I!C!!   4Z-Ia-CZC4Z -U.Zq!GZ.IC !aCXZ-ICg ZIZSqqa C.!..XS-Z4n  C)Z-))Cq-. 4I!-qX# SIX-qV.S4a!XI-!qIggXZCx _)aXCC!4.-gqXZg)Za7gS.)P4X!ZI)ggZ!zZ CuS GXa-G.! 4S-ZXdI ZXSS X.GI.-4Z4IaaSSZG^!S)gI4SqgI-gIZ S  XXS-C.rqSq.IXgXY)u.Sw)-G .X4.qICIXKNZ XXS- S!XIG) g).)X!!DCS.G IO.X4C-C.aCCa!C !)Igg.gG44Gga4)-!<7!C-ISS!ZaGG !S44a!G.-S4XgG. S). Z4G-4.S4aCX!!I)CIZIKq 4)gIC.!C!q!g4Za;SSa)GXX!qIISZX4G ZC(SS XI--- SgqaI;gGZ!+)saS.-q.I4XqCa IGS)XCG..z4SG!IqCS!IIZ4-MXS.XCG  I.-gG!CG!Sq)q-)XgqG .4Uqqq.IaS4X--G.-).aSI-g;T!a SgX.GZ.Z)CqaIM!I-g}gggIaSCXGG! )SICSZCM4gZX-GISaX-q)a)-aaZCG!!I)IG -)a-4a44g!4C-ZgIZg4ZS4K-qa 44!.W0gZX)mIS.!XaagGZX<C !XI-X.g4)!GIZgCZ4.CC_q aIg-C4))-Ca-4X!-ISq.I)gVZqKXhX .4gq). gGZC?- U)SSg)GG..D4q)g!a0-Sy))-G. Ga.X4Gq!a)a)gaX)G  C)S!GI-q-aZC4aSZGZaa4ISvS4(qSaqCX!C! -G )4-qGIoCSqoP-Sq)qSnX)Gq X)CC4!aIqgCXGGC ZG!.())-g..aqS4Z4.Sg>)=-S. Cg!gIGg I)S!Zgx. 6 4CX!CIGSGG-a4 .)I.aSCCCqC4 qaI_gqZXuCS XI--aC 4qaIagGZ!D)A) a4Sq4.!g4Xsl4S4XaGS  C-qgIqgZa.S!ZmFqSX.S)a!)aqg4ZSWO -XgG4gG!CI S!X)Ga  )Iqqa)CaZG8q4GqZa!C)!g!SGG.B)S  4G-Ia-CZC X!-- .)C g4!-.auCq4)Z.GJS-))-4a C!!.II!)7GggZ.GvGXaS4S0a.Zg)X)aGC!!) G)!-)!gg4SS)ICXCgVI g)--Z.4.IgXZXaS CXIGaa!X!qCaaqIGXg-ZZ64QI.X4g!)g)g9ZXd S4-Xqt .C-I-IZggZgG-SXX)-S I4GIfIgCIZ.N!XI!I-!.)4C-GaXC)^)Il4emq qXXGC  .!gZ!g*gC!X -G.C4SG.a-g-ZCIIg XGS-XXGZ 4)S4-!XA SSI.SgXFGq X.4)!q-.aC.ZCGagSZZ-q  Xa!CCq!aIXgCZ XZ-Sa)C ZHaIg.!CGgSI)I q)S-X.C4 )-q!ISgGZaz) Z)).g4 q.Iugqg.q SI)C--.Z444aX-A- X)SGI.IX)!4aIq I4CIZ-2Z>   4 !ZaZg,qGIaS.X -!.EGI.g4-qZa4aa -X--X g4CqGaZCS!S74!I1CS-XZG4q)a.C-!4YgSaXIGC.G).  4--Ia-CZC X!-- .)Ca4).q.aDCq!X! GG .)XGqa)CI!)I)g.ZgjS.G)Cq-a!- aC4I!-IZII !) -ZaqCa-wI gqX4GCSa)1 -)4-Z.44S4gXFWZSSXI-G)q-4.X4Cq q41ISXXI-()G--.!4)qgp.gqZ)^XSCX 4XqqI-C.aaSGZG#!S) G4Xqaa)gZX,a-SaXZ-g.SX.qqa.CC!4c.S-X!SXXIGC  )IC4ZgI gI-IaG q4.I 41q)aqCX!C! GS q)4-. !C-aqC!!gdZg.X<GqG-a44I!LIaCZX!; .))XqX)gqG..Cj!qq4G- q).-)a CS.aC-!GI!g)g)Xa-CaG-CI-4 qII-I- ))g-  !4CqgaCCtX!GZSI))-qa-Xgqaa CIZqJICZ)S-a.I-qaZ4XqCa I- )X)agCS4!q)a.CgZqIaS ZG-Z.4)aq4a)q4a CS!a*GIagg)GG44q!XaXCC! Z-W)g)!gG-SI)a-CaCC ! I-S-Xg-4 G4)q- X!S6-gaXGG!G!.SC4!Za)g)ZSgIXqG- Z)4)!!G=cS-I)ggZ.!nS! 4aC.).x!ZIIg4ZS5aM4.CCS-.I-S-XCKIS )G -gI-Z.44SgXXZG4 )).I)CIZ-!4agSqG.xCSa) -qaq4q!CIgCIZI8q -)!-..G4.!XSqCSZg&S4U))GI.X4-!4IgC)ZS1G)aZG-).G4gq SLgG!4_qSS-I-X.Z4aqaa-C)a4gZ!SIaSGS)4Sq .ag)-SI)S.!CGF S4q-.)aqXaGC!!)q.Va  )I-4.g4I!gCg!ZI4gSX4GG !))-.aXCb!qIX-2 S4G-.a4C4q IGgXI)ggZgv. _aG4SZB4I!ZI-gZZ4!av!aq4Z!!aI!&ISgqZXFCIaa!CX!CI)gC-NaZ q)a-4):-!.q4XqCXqxESS)CSS)4Ga.G4!)gZI%I -X4-!..ZIq(aICgZgI !a#GS!X)Gg .4^qqaXC ZqIIS-XZXaq/aGgZZq5C) roSCXqGX CSag!ZX2CS)XCaDSX4! ))g-.a^Cq!XICC CaG- Z)4-SI4CG!!I)ggUaGt q)X-C. 4I!-GZ.qZSOa G)!-).a4.Z-q.gXZS=  ))--Z.4gS!aIGgXZ)K S.)--qa4g!q I-g-Z E4SSXaqqaC4)qaa.g)ZqhXSCX -C.-4)q4aICaZqx! C)4G..q4qq)aCC !I-- qX4Ga a4!q!a.CgX.44SqXCGC I)IqZaZC4Z=IaSGX!Gg g)aqzIZSG!CI gIX)GZ 4)S!HI-C!!4IgS)X?Gq X)C!).IC-!ZIggSZIGG !)g-g..CP!qIXgCZ -I.q)Z-4.S4a!GI.g)X Z) W)Z-XaG4 qII- Z)ZHS x)G-X.)4 q.m-g)ZXL S )X--.Z44!.&VgGZ47) GX.-d.q4Xqaa gGZ-7CS4X.GaaqC.q)a.C.ZGLqSXXCq a)4-q4a4Ca!ak)S!4)SZ .4qqqaCCC!IIIS-q G4 S)aq!a!C4!gI.! XqGX C).-Ia-CZ!4G-gaXGG! ))g-.a}Cq!XSCqaCIGZ a)4-S.a.agZZaG4 X4!q4.g4a.ICX!-IZg4gS)g--a.4 ! +u!TIqgXZCP SI)-4aG44a!-IGg!Z)Zg-C.GC .X4Cq aIg-ZZ44qGga-!.44)qga.aZ G)S-XXI--.-4Zq4ZCcq 4F) qXgG..+.)g.!akGS.ZZGg.gCGq)a!CCaggg!._VSqga4aqCaegOZ!iGgIZw-c.q4SGg.ag-Z)CC!II gIX-Z4Kaa.4I!aIC!gUZg.XwGqG-a44I!rIaCZX!6 .))XqX)gq-..Cz!qqgG- I4q-qaq4S!kCG! I!g)ZgZ--GaX4I!)IqC-XXGa !)u G)S-!.)4g4!ZZG)gCXa-aaZ4Sq4a.qaIXgGZ!V)Mg. Cqq Igg-ZSD.ZZoaS4XSGa-ZISC !I,SCC)GG .4GI.Z4-qZa4.a VXXGZ.S)I.y4XqqaXCCC4X4-7 g)Cq.4GqXa!C)!gZ,-P 4)S-.)Iqqa-CZ!4X-BI a)C ))g-.aMCq!XqCqSCIGZ a)4-S.a.!g Z4G Sa)qq).SCS. 4I!-IZaqZS8a GC!!q.g4a!_IqgXXCk .G)g-Z.g4SZqIGg!Z)-g.-):-Z.X4Sq I-g-)Z--SS);-G.X4)!Xa. :X jXSSX -G.-C q4JSg.ZG>XS)X G..g4qZXaaC ZGi-S)X4-S a4G }a)CS!.sGSqX4GCa CZq-aXC4! IaSqX!-C.A).qGaqgq!CI gI)!G4 4) -aaaC!!)Ig.q))Gq ))Cq .ICq!ZIagSX-IS !))-ga.Ck!!IXSSa.EI q)Z- .S4a!G%X!ZZg,a b4)-X.C4 !qu4gZZ4USaE)G-Z.)C -;I/g!ZXGXS XI--ISZgqSaIgGXg=)SSX.qX.q4g-qa CIZ-GSS4X GaaqGZq)aSC.ZX_qSXXC-aX.4-qXa4gI!acGS!XSq) .4&qqJ4CC!.II !!4G4  )aqaa!C)!g-q4-XqG) CC4-IaqCZ!aISS-!SG! ))g!CaAC!!XLSq.ZIGq Z)C-S.aCGZXCZggZaGt.))X-C. CqZ IZg4ZSq: G)Z-)a )U!bI!gXXXk SI)-qqXG4SZ!IG !Z)MSS.)G-q.g)qq aIg-)Zl4S Xa-ZSa4)qga. -Zqr)SC)aSt.-4Xq4IGCaZG7! CGaG..G4q!gaCC !IG!C4X4G  aCXq!a)CgX.4aSqX)GC .)I!GaZggZXIaS!X!-6 g).qAaqg.!CI.gIXZGZ g)S!aaaC!!4IggaXl-Z X4Sqq.ICZ!ZQ.gSZaGGa!4X-ga/Ch!XIXg Z -I.C)Z-S.SCG!GLBg))gg4 t)X-X. 4 ZXI- ZCZcS G)G-).)C!q.w-gXZXO.S 4z--.Z44ZSrGgGZ4i)SaX.-4.qC4!.a g!Z-G-S4XSGaaq4Xq)I8C.X!3qSXXCG a44-qga4gb!ao)S!)CGS .4Xqqa.CC! II.-KrG4.G)aq)a!gZ!gG.. XqG  C4--IIZCZ!4I.gaXZG! .)g-IaVCqZGICSGZIG- Z)C-SaaC-!!I ggX4G> q)X-Ca 4I!qIZg.ZSGs GC!q4.g4a!3I!gXZa{ SI4!-Z.C4S!/IGgZZ)ogZC);-q.X4gq aIg-ZX+SSSXa-G.)CGqga.gUgZ)S-)SI4!!!ISgG!a&qZ!p4S)XgG.q)a!gq!aCIX!8-SZX4XaqqIZX)!Sa S-XaG) S4SqZa.CC-gmXg X(G. C)S g).qMaqC !CI gI)!I4 4)S-aaqC!!)Ig .4IGq X)C- .ICq!ZG4 zZaGG !))-ga1Cn!q IgCZa/I q)Z-4.S4aG4I!g)Zg9I b)!-X.C-4qII-gZZClSSa)G-!I-4gq.ImgXZ FCS XI4CqgI g.ZqH4Z)GGSgX.-zG!Igg.!.y-S.Zq-)gaX-.G4!q)agC.ZrVqSXgCGI.G4-qZa4IgCZ(!S4X)Gg .I!C!ZC#!!ILaS-XZG4>aa.Ca!XI4Sa!q-- !4q-aIqCaZ!cM!S#-gaXGG!G)aX4aZCI4S4X gIXvG- Z)4)GaGC)!!I)gg.{)qqZ.ICCZWC-!IIZg4ZSZa-..ZgdqIIICqZXG4 -) qqaZ-4. 4SqaIGBSS4))--)q-4.X4Cq ZIvqSa)g-a)G-..!4)qgq_dG hXS-S .)-qgaXgqZlGNZ!cIS)XgG.G I-CC!gx4CIXaGXaG4V!c4!q4a)Cg!.ZZ-) I4Z I4Xq-aZC4S-Xq-Z g) q4Iqqqa)CX!CI %-.X4!q4)aq.aGC!!)!GG-.!ZXqSaSCa!!+2SCqgG)SI)Z-C)g-I..Cl!qXgAgSa)S-))4qC.S4a!G!X{  g)C-C.X4)!.IGgq!ZGC )).GI.44C.gC-q.IbgqS )a-g.-CXqaI)gCIGg Z!j)Sg.!4Z!)ISgCX-Q3Sa)gG..a-G.)4!q)agGG C)qGS.44-.-4)qZa4CSS-XXGX. 4G./4ZqqaXCCSIXIGq. 4X a44qGa!C)CGX--!SX)SqSI-C4!ZIg!S7-gaXGG!qC.ICaZZI S4ZaSqZIG- Z4B-S.aCG!)IaggZ.G*Gqa-4gZZI!S!X4gSZIAa G)!4aqSIggZIXgIZCr SISZ4.qCI.CIZ!G4S )  548-q.X4CC.Z-GXSa)a-&SGC,!-ISg Z 9 SIXS-SXI-g.-4Zq4q),.S!XZ-qSg4CqGI CSZSCIZZW-SZX4XS-IIqCCZZnaZ1vXSqXXGC-aaSCq!CI.SaIaSGX!G) g).q9.q.Z!CI gIX--C 4)S-aaG.C!)Igg.XfGq X)C! a.C-!ZI4gSZaGZ !C)!)..CG!qIXgCXqsIa-4G-4. 4a!-I!gIZgGq.C)q-).CCqqIIqgZZ4DS -ZS-!.)4g!!I&g!ZX%.gXXI--.ZC0qSaIgGZ!gqSgX.-n.!4XqCa SIa.9ZSgXSGI.G4gq)I  ZZ%}XSXXSG  I4-ZZwqCSZG3GS)X)GS .g0!SaXC ! ;-S-XgG4aS4IqGa)C)!.I.SqXqG .Z) qGa-gZ!4I gaX!G! SX!-.aHCqZXICg.ZIGXgI)4-S.agq!!I4gg).gS q))-C..4I!4IZg !Z0a G)!-I.g4a!jIqGZZC_.SI)!-Z.44Sqa4.g!Z)hgSa)r-q.X4C!-aIg-ZZQSS Xa-G.! .q.IGgFZq7XqD .44!X44q.aSCaZG)!Gg S4Cq 4qSGI.!gCXaq-Ia Zg.G4qq!a)Cgg !)SXXgGC  )IgX!XkSSXIISGX!G).)).qLaqCCZ!I gIX-) -.aIgqZGMgg4XX-- Z4X C4!- .IC-4XX GISI)!-I ZCC-k.!)ZICS!Z (I - GC)qaaIg.!!GqSS4X-ZaZ-X.C4 qII-gZZ4jSIa)!qq.)4gq.q)J4 g! qGaGC!qgIXgIqol.SZXSGI)%-!.q4XqCZq7>SIXgSS)4Ga.G4!4)ZXIa CX4-4S )I!GaSgZZ /aZGoXS!X)GgqGaZCZZS27!Ip!S-XZG4qaaaC-ZS?Z!._!SkXqGXGCa4C>ZSIgSgXaSGX4G! ))gCI!Z3!SSX-Ga !GZ.!)4-S.a.!SqX!% Sa4!,Ca44g!CI!SCX!Gg XGG S)!-).g aS!X)E)S ))<.aGX4G 4IqaIGg!4ZygS.)L-XaM4Cq aIGZSg) qp.aC)qZIqgIZ-gqZCDXSCX 44!BI4C.Z.G-ZGl!S)XgG..;4q4!-CC !IY-SZX4GS aC.)!agCa!.ujSq .)gqCa!qZagC4!SIa-Z Z)CqXa-qqa4CX!CI GZ a4!q)a.-aaGC!!)Igg.XrGq X) q-.IC-!Z!4j .T)Xq-aS-.ajC{!qIXGG Z4q -)Z-4.S4a!GI!SSCg%I G)X-S.C4 qIX-i4SC))-g)!-C.)4gq.X{V!SI)S-I)-q-.Z44qSqXGX GX4-4. 4Cq).4g4ZSGqg-XX-g.IGa.G4!q)agIq4!-CI)X -- I4-qZ!gy)gIXZGC.gG..-43qqaXI.SGXG-)  GS.-)aqGa!aCgIXgGI.))Sq )I!Ga-CZ!4!.G) 4Z)qXa4gGZ-/-S-XZGG.GZ)qS..CCZ-C!Z-I)ggZ.ZX- a!4.--I4S!X4G Ca)X-gai4S..Ca!{IqgXgS)G-I.a4aqSa S-ZXN4gg)a- a-4!q.aaqII)g-ZZ^4-I..C!!4ICgqZS/)ZqMXSCX II.G4!g)- gGZSi!S)XgXqqCIZCSq +G G)4Gg.gGa.-4Gq!a)aaS XIGIXC-?  )Iq-Z)I.S )qGg.X)  .4Xq%aqCXCIZ.GS S)C-CaIC.ZqC)ZXIgg.X*Zg-Sa.XIZ!8!S)Z.GC.-Zqq1.44a!-CqZ4IXgCZ ZZ-Saq4 -GI)SqX)GSC.)Z-C.I4g-4I-4-ZaTX S)a G).-!.)4gS!ZZ1! X)4-gS-4gqXIXg-Zqg!Xqw)SgX.Xq!-IqCS!.GqC4))GC.44q!4IqgCZZC.ZcVqSXXCG  IC-)ZaSg!!a/GS!gg4--aI-C!!CM.SG)GS-XZG4 S)aqGa!/)4 %7S XqGX CaqC!ZX.)S!Z G- XZ qmaagzaqCq!XICg X-G4 Z)4-Sq:IggS!qGqSIGq .)X-C. .Xg)XCIS 24lq)..4gqI4.!PIqgXZC5 SIX-X!.44SqaIGg!aGX)aZSG-q.X4Cq aIg-ZZ-&IS)G-).!4)qg!aG! )X)G .)--.X4Zq4aS^SS-)4GIX.-).w4qqXZ?TG q))-Z.a) qgIXCCaggg!.d<Sq )) !>a4g4!g.SSgX -Z.X4XqXaCCZZZC4!CI gIXZGZ 4)S-aaGC!!)Igg.Xn4qk4) qj.IC-!ZXZn .-)C )) -g..CUgCX-G4 S4G -)Z-4.Sgq!GI!g)Zg-  z)q-X.C4 qII-gZZ.bSSI)G-Z.)4gq.Icg)ZXlCS XI--.X44qScqgGZZ+)S X.-7.q4XZ-a CIZ-TZS4X GaIGC0q)agC.ZzdqS)XCG a!4-qZa4CS!a;GS!)CI. .4bqqa4CC! II.-aCG4 S)aqGa!Cg!gI.SZXqG) C) -Ia-CZ!4&-gaXqG! 4)g-.apCqZXICg.ZIGq Z)g-S.ag.!!I)ggZIGc Z)X-CaX4I!-IZgSZS=a G)!q4.g4.!VIqgXZC, SI-q-Z.C4S!GIGg!Z)ugqZ)B-Z.X4gq aIg-ZZ-qSSXI-G.Z4)q a.g:X48XSCX GI.-4Xq4aSgIZG,!S)XaG..l4qqX0XC !IV-SXX4GS a4GqCa)Cg!.tqS4XXGC  aICq!aQgSaoGSCX!G) g.aCa! Uqgg)bGa.!G4 .)S-aaGIZSZXqGg.qGX g)C- .Ia-SGZC-!XGGX !))-gqIIGSXZIc Z lI -)Zq!.S4a!GMXZgZg2. :)!-X.C4 qIN-gZZCDSSa)G-!.)gg!GIWg!ZXWgS )G--IZC.qSaIgGZZO)S.X.!&.X4Xqga gvZ-&gS4XS-^.G4!q)a C.Z-6qSg)SG  I4-qaa4C !a-G.IX)GI .4!qqagCC! ZaS-XgG4 .)aq-a!C.CSI.SYXqG. C).-Ia!CZ! aZgaXGG! a)g-aaBCqa-ICg ZIGq Z)4-S.aqS!!I)ggZ.gg q)X-C. 4I!-IZ 4)!Ua G)!-).gSS!KJZSqZCd.SICg-Z.44SZoIag!ZC(gaZ)c-q.XCS!ZaIgZZZqhSSXa-G.4CCqgaagnI ;XSgX qGSZ4Zq.aSSCZGx!S)) Zq.74CqXaaC !I{-.Z))GS.!4Gqga)S2!.-^ SXXGI  4Zq-/ZC4XS{!SGXgG).J).ZXaqCXZ)I S!X-G) 4).-aeGg4!)IIg.XZGqag)C- a C-!SI4g ZaGG !C) Z..CX!qI gC)a6I -Z.-4a-4a!-I!g)Zgu. C)q-a.C4.qII-gZ)4-!Sa)C-!.I4gZIIb qXIwC !XI-g.ZC)qSaag)Z!2aSg)Z-W.!4X!S).CIZg_ZSSXSGa.G4!4Sagg-ZetSSXXSG  IC!qZaaCS!aNGS!X)Gg I4eqgaXCC! IIS-))G  S4XqGI-C)!gI.STXSGX.-) q!a-CZ!4ISSIXGG  )) -.agCq!g>Xg ZIG-I!)4- .aSG.II)S)Z.G  q)I-CI Sg!-e-g4X4Ea.X)!qCXS4.!IIqSZZC> SI)-4Z.4C4qaD>g!ZC7g qXI-qaq4CZIaIgqZZeCSS)-bS.!4)qgGdg_Z!UXS.ZXGI.-4ZX)aSCIZG-!Z-Xg-g.M4IqXI-C !I!aSZ)ZGS.Z4G!Ga)gk! cP TXX!4  42q-aXC4!Ia4SGX!G)IC).qGaqg4- I S X-GS 4)S-aLG{g!)r)g.X.Gq 4)C- aGC-ZqI4SGZaGG !C)-I..CI!q#-gCXZmIa-)g-4ag4aZWI!SXZg8..m)qqq.CCSqIIqgZ)4G.Sa)a-!aq4g!XIP qXC=C qXI-I.ZC!qSI!I-Z!TISg4C-B.!4XqSa gqq iZS4XSqg.G4Zq)ag.-ZJk4SXXIG  I4-qZSECSZXnGSCX)Gg .4a<-aXgG! qZS-XXG4.q)aqZ aC)!gI.aXXqG) C4bGCa-CZ!4gqgaX-G!.CZ.-.a4CqZ4ICg ZIq-Ia)4qq.aCC!!-!gg).-4 q)I-C. 4IX.IZSgXG8a S)!q-.g4.!8IqSCZCG!SI) -Z.g4SZ}/qg!XmMg I)?-q.XgC!gaIgSZZGGSSCS-GI!4aqgI)gWZq*Xa!X qGXq4Z!qaS 4ZGb!S)Xga..^4 qXI!C ZG7- )X GS.44G!Xa)Cg!.-r gXX-q  4Cq-G-C4XSFGSGXIG) g).ZSaqg4!aI SSX-qX 4)S-aaGCC!)w!g.X Gq 4)CqaI9C-ZpI4S.ZaGG !C) Z..CS!qsGgC4C0Ia-g -4a)4a!GI!.-ZgGI S)qqq.CCNqII-gZZ4G Sa) -!a!4gqII1 qZ4(C 4XI-g.ZSGqSyaSxZ!G!Sg))-oaq4XqCIXCIZaDZ !XS-S.G4!!SaggCZ_8ISX)-G aIaZqZIZCSZ4wG..X)-lg.4i!GaXCC! (nS-XgG4 Se.qGa!C)ZXI.SvXqGXZ4) -Ia-Ca!4ISgaXGgq ))g-.a.Cq!XICg aaG- Z)4qq.aCG!!I)qCZ.G> q4B-C. 4I!-ZGg4XC6a -)!-4.gg.!SIqSGZCG)SICg-Zagg4qaIIg!XCNgS.)y!q..4C!gaISBZZ;CSS4a-..!CXqga.gi)a2X S)!GIa-4Z!qaSCaZG%!S Xg-a.^4SqXaCC !I.CSZ)XGS.I4GqZa)g ))d3 GXX-S  )Iq-7Zg!!SW SG)-G) S).Z1I CXZ4I gIX-!w 44.qnaGg!!)-!g.XpGq X4!- IvC-!aI4gSZaGG  ))q4..gG!qI)gCXaGG -4q-4a.4a!GI! )IZk. a)qq!.C4.qIG-.XZ4GgSa)G-!{-4g!IT.gqXXLC..XI--.Z44qaaaS-Z!GGSgX.-%.q4 qCIgCIXq;ZSCXSqFa)4!!ZaggIZsHqSX4C-4 ICyqZIXCS!I>G.!)CGg. 4DqqaX !! GG!qXZ-4 S4-qGa!C)!gq-S1)!GX.!) -Ia-CZGIISS XG-Z ))S-.I-)X!Xo)g X G- Z)4qGSaCGZqI)gSZ.GG q))-C. Ga!-IZg4ZSua G)!-).q4.!aIqg4ZCn.SI)-qI.4CCqaI-g!Z)rg..4G-qa!4C!gaI !ZZ-4S.Xa-I.!CZqgFSg&XZ0.SC) GIa 4Zq4aSCaXS1! ZXg-..J4ZqXaIg !IGrSZaqGS I4GqZa)Caq)LWSqXXC!  4fq-aC4-!SIaSGVSG) S).Z1)aCXZ)I gIX--X 44G-.aGg-!))Cg.XGGq ))CqD CC-!ZI4-gZaG- !)SG!..Co!qC.gCZ.7Ia-Gc-4aC4a!GI!S4Zg-.ZS)qq!.CCgqIGggZZaygSa)I-!ZS4gqaI_g!ZX9.gXXI--.Z1 qSaIgGZ4IGSgX.-t)g4Xqga SGqZTZ XXS-q.G4!q){gXGZuGGSX))G IX4-!)3GCSZaDG gX)Gg .4J!GaXg)! =IS-X)G4aSCZqGI-C)Z4I. !XqqX.G) q.a-gq!4G!ga)q-) )4g-.IICq!XICSaXIG-.X)4!-.aCG!!_C4.Z.-- qCq-C. 4I!-)4g4X.8a -)!-).g4.Z IqS)ZCh SI)--Z.4CCqaIIg!Z)/gSa)}qZaZ4C!gaIg)ZZ24SS4a-!.!CZqgISg_XCEX.C))GIaF4Z!XaSSGZG-! CXg-S.oCGqXxZC XI-.SZ)XGS. 4G!.a)g !)V? qXX!Z  )Iq->Zg)!S8aSG)!G).G).ZWaZCXZgI SSX-q4 4CSq4aGgZ!)hSg.)4Gq X)a- aIC-!)I4g.ZaGG.-))qS..CS!qIXgCZ GH -4q-4a 4a!-I!SCC!N. a)q-S.C4 qIG-ggZ4GCSa)I-!Ia4g!IIagqXXxC.-XI--.Z44q.aagIZ!G)SgXI-8IqCqqCIgCIXUQZ  XSqa.Z4!!ZaggSZkG SX)S-. IC-qZI-CS!a8GS!XIGg.a4yq4aXCC! II IXZ-g S4-qGa!C)Z l)SA)XGXaa) -Ia-CZ!.ISS XG-) ))S-.aM.g!XKGg ZIG- Z)4-ISXCG!ZI)S<Z.GG q)X Z. 4I!-IXg4ZSza G) -).g4.!qIggXZC; fI.a4XZGINSzX!g)X)0gS.)_4!qCI.gZXZw)C4))-Ca-Cq!qIqgXZ-G-ZXJ SCX GIq!IGCC!Ixq !K!S)XgG..^4qqX.C.SZ-<XSZX4GSqZa-gG! C.ZXsmSqXXZ q!alg!!XISSIXq-qX)-- g).qo-IcZg Z.GSS-4G-CI!CqZqC)!.Igg.XnXq-)aSCG!.}X!ZI4gSZa-! !))-g...Z!qIXgCZ nI -)Z!4aX4a!GI!g)Zg<I oCqqa.C4.qII-gZZS?S.a)--!.44gqaIdg)ZXFI.)XI-q.Z4IqSaIgGZ!2)SaZ)-N.q4X!Ba g+Z-yCg-XSGa.G4 q)aSC.Z^CISXXCG .24-qZa4SSaCjGSXX)GS .44qqI4q1! V-S-XgG4 S)aZGI!C)!.I.SqXqG) CC !Xa-C4!4IagaX4G!a)) -.aqCq!CICS-ZIG4.C)4-..ag-!!I4ggXnGo )X_-C. 4IZqIZgCZS-aZ )!-4.g4a!WISgXZ.IXSI)--Zam4SqIIGg! XEgSa)7-Z.X4Cq aIqaZZ;4SSXI-G.!4)qgITg+ZqTXSC#XS4XSGa.G4!Z)CD#)SSXgG..1IgC)Z-GkZ-j)SZX4GSqaa!CZZqNX!aYbSqXXGI  )Iq-aZGqZIg I4!ZCG!aS qqa!CX!CI IZXZG) 4)S-a!^.S!gIag.XPGqq..gCZZqCZZxI4gSZaZ-q4aS4S!MISCGXZa g:!G Z)I-4.S4a4-X4GSSS)e-S GCZG .nqII-gZZ4G Sa)G-!aCX.q.I/gqZCyCS XI!-)/44qSaagGZ!_CSg)qGI.q4XqCIGCIZqAZSCXS--SS4!q)agg-Zd+!SXX.(X I4-qZI4CS!I0G X!gGg .4Aq)aXCC! GGSXXZGC S)IqGa!C)!g,SSnXqGX S) q>a-g)ZXISgaXGGg ))g-.a=C!!XICg XoG- X)4q.IGCG!!I)gIZ.Go q)XqZ. 4I!-IXg4Z Oa.q)X-).g4.!-IqgXZCG-)a)--Z.4CSqaI-g!Z)wg GZg-q.X4C! aIgqZZ8 gZXa-G.!4 qgaag5Zqg-SCX GI.q4Zq4aSCaZ +!S)Xg-ISq4qqXaCCa!I?-SZ)gg  a4-q!a4Cg!.#WSqa.GC  )Iq!aZCg!Sf!S^X!G) g4qqKa!CX!gI Sq! GZ 4)Sq!aGCZ!)IaC)X{Gq X4q- a_C-Z).SgSZaGG )))-g..C-XgIXggZ =I -)Z-4.Sa.!GI!g)Z 0. G)q-g q4 qII-gZZ4E Sa)G h.)4gq.IGgqZX5CS C.--.Z44qaI gGZ!l)&V.X4aq)  g-ZaG- X!4-3.!4gqZ4)!=agC.ZKZCG).Z4ZqqaqgCZ)_.!a7GS!X)Ig  )Ig--)C Z4IIS-XZ)Iq1I-)qZHI4gaX-I4  4gq )Iq!a-CZ!4XSGG -4dqq)g-.alCq!XICg ZIG- 4)a-S.aCGgZXSGaSa)q-a)Cq4. 4I!-q L. IZGqXaXCCqIISS!qZG-Sg)P-!)Z-C.44SqaZ4UZ !XI d)X-q.X4C4aZ4/CgG)GG.)G-S.!4)qgqqKC ZXS* .GCG!4agggaaggZG7!S)aG4-qGIqgZZ).IS)Xq-q I4D a4Gq!a)Cggqq!.Cg)G .G)Iq-aZ64g X)-q.)GC S).qkaqCX!CI gIZ-Z! 4)S-aaGC!.GZ).ZgGGX.))C- .Ia!ggX4G) ))!-ZaS4I!GaqS)XZGSS.)X-))4qg.S4a!G!XGs GZv-IaGCg!SISgSZa{g gZ?q!.XC-!S4.!-I*gqZXX.-G.GC)q 4SqIaagGZ!ZS-C. 4 .q4XqCa CIZ-,ZeXgS-GaD4!q)agaQSI)wG4 gC*GZI!CXZZKb Z)O-X.-G..q4TqqaXaCg.)GG).q4  a)aqGa!C)!.jqSYXqGX-Sa4Cy!XIgSSIaS)XGG! )S.CZ!GVZg)Z -_ !4! 44--S.aCGS)Z Ga.-4hqC.)CZZGI!!Zwgg4ZS5at)..CZqa.qgCXZGC .!I-).SCGq .gg!q!G1S4).qx)q-g.X4Cq !GU) -))-I.qC!.)C)qga.g1S!XC-..ZCZq) 4g)ZCG- q)q-q.X4-!-4XqSaCC !IX4-G.)4g!v4!q4a)Cg!.X.G!.g4G I4Iq-aZC4Cq)qGa Z4ZqCaXC!qZHZS4)uII q4)q )S-aaGC!!)Igg.)!Zq X)C- .IC-!ZI4GSgvG! )))-g..I4g XggCZ yI -)Z-4.SgX4GI)g ZgU. da)4)qSI4g!IZgIZ4FSSa.44C!SIIg.XX>! -)a-G)--4.Z44qSZ)(I )X - aG-q..4XqCa aXS))C;S.wC_!)a.Cg!Ig,Z4*qSXXCC9qaIZgCZgN!S X4S!X)Gg .4:qqaXgC4 9-SCXZG4 SI+CXZZf SqXIGZXqGX C) -Ia-CZX!qSShXGG! ))I-.azCq!CIag ZIG--).CCa!)I!!)I ggZ.G{qq.)C-!a:-!ZICg4ZSdaGGa,44ZqCu!ZIqgXZCX.-..SC-!S4a!XIGg!Z)XS-S.CCsq)I.gSXGg-ZZM4SS)g-G.!4)! gMgEZqnXSSX GI.-4Z!9aSCIZGo!S)XgG.I(CZqXagC Z>Q-SgX4qS.-4GqZa)CS!.v!Sq4XG.  4*q-aXC4! IaSG)SG) g).q-aqC4!Ci_ -X-GZ 44!-aa-C!X)-Zg.XZGq g)C-I.IC-g!I4SsZaGq !)4-gaqaG!qIXgCXqVI q)Z-g.SC--SI!g)ZgG! y)!-X.C-4qII-gZZCOSSa)G-!.g4gq.I_gXZgdCS XI4IqXI gqIGgXZ!l)Sg.q4 !-IZgSa CIZ->ZS4XSGa!G Xq)agC.ZWG4SXXCG  IgGqZa4CS!a3GS!X)Gg..4pq!aXCg! IIS-XZGg S)aqGa!C)!SI.S^X GX g) qGa-CZ!4IS !XGG! ))g-.aGCqXXNXg ZIG- Z)4-a.aCGZXI)ggZ.G8 q)X-Caa)-!-IZg4Z la G)!!)Za4.!hIqgXZCnaSI)-!-.44 qaIGg!Z)=gS.)X-q.44Cq.aIg-ZZP4 aXa--.!44qgaIg9ZqGGSCX GI.!4ZqgaSCaZ4j!S)Xg-i.94qqXaCgX!IE-SZX4GS a4Gq!C4Cg!aN_SXXXGC  )IggaZCg!SIISGX!G) g4gqMa!CX!gI SGX-GZa2)S-aaGC!!)ISg.Xy-g X)C- aqC-!ZI4gSXZGG !))-S..Co!qIXZGZ LI -)Z -.S4a!GI!g)Zgo.aO)Z-X.C4 qII- !Z4G.  )G-Z.)Cgq.ImgqX4GZS )G--aZ44qSaaSqZa<)S.X.qV.q4XqCIMgGZ-bXS4G-Ga.-4!!C .C.ZZWqaqXCG  IC!XSa4gG!aFgS!X)Gga.4Iqqa CCZ-II !XZq4aq)aq)a!C.!gG!S>4q-) C4--Ia4CZZ-ISga)GG!  )g-IabCZ!XGC qZIG) Z).-Sa-CG!!I.ggXqGp !)X-C. gI..IZgaZSG! G4I-).g)Z!AIggXZgp SI)--Z..4S!XIGgZZ)AgS.Cv-X.XCGq I)g-)wP4.S4X-G. 4)!-a. -ZqHXSaX -X.-4.q4a CaXqCZS))-G.aX4qqXaCC gq2-SgX4-q a4qq!a)S)!.OXSqXXGC  )Iq-a C4Z-IaSGX!G) g4I!)aqCa!CfggIX-GZ 444-aagC!! Igg.X7Gq.C)Cq!.IC!!ZL-gSX-G4 !))-g9SCO!!IX CI)BI I)Zq!.SgX!GG!.-ZgGg =49-X.g4 ZG4qgZX)JSao)G-!.)4gC.I_SoZXG4S )G--.S!)qSISgG4-W)SSX.-1.q4g-qa CIZ-qqS4X GaIGGIq)I)C.Z uq aXCG GS4-!-a4g-!alaS!X.GC .4.qqG!CC!.IISqXZG SZ)aqGa! Z!gIaSe)ZIC C4C-ILCCZ!4IS a.)G!.!)gqgaKS !XIC 4ZI-1 Z)a-S.aCGX!z.ggX G> I)X!G. gI!qIZS)ZSG. GCX-).ggG!t*:gXX4Q  p)-!Za44S!SIGS2Z)--S.Cd-I.XCKq I g-X!W4 GSI-G. 4)ZXa.gGZqL4SC)u1C.-4Zq4#)CaZ-m!S)CIG..Z4qq aCC !I_-).X4-q a4Xq!a)CgZS ISqX GC(G)IqqaZgw!S1-CSX!G) gS-qPa!CX!.aXgIX-GZXa)S-IaGgX-gIgSZXz-) X)C- II S!Z1NgSXXGGa ))!ga4CB! IXgCZ GX -4)!Z.SC4!GG)g)Zg0. t)a-XaG4 !CI-g)Z4G. X)G-..)Caq.Iigq)XQSS )4--.a44Xqaa GXCe) !X.-:.q4.qCIaq:Z-G2S4CGGa.G4!q)SgC.ZC1q GXCGa IC!!Ga4gZ!aGZS!X)Gga.C4qqItCCZXII.gXZq4aq)aq a!C)!gx!S#)ZGS C44-INaCZ!4ISga)aG!.G)gqCaeCZ!X7SS ZIG. Z4 -S.aCGX!C-ggX4Gn a)XZG. gI)CIZS!ZS/a G)S-)a Cq!%1?gX4)r SI)--ZaI4S!CIGSGZ)1 S.CQ-Z.XCZq I)g-XX84.S)q-GaG4)!!a.g.Zq?X )X -S.-CGq4I4CaZGvaS))XG.. 4qqIaCS S-f- -X4-Z aC-q!a.)g!.maSqX)GC .)Iq)aZC4.gIaSGX!-q g).qPaq-Z!CI gIXSGZ 4)S-a)mC!!)IgSgX0Gq X)CSS.IC-!Z{WgSZaGG !tX-g..C,!.IXgCZ kIGa)ZqX.S4I!GIZg))g-C 2)a-Xa!4 !II-S)X)PS  )Gq4.)4gq.Gtg4ZXG)S ).--IG44ZSIagGXqH)SgX.-).qC4!.a gIZ--4S4XSGa.G4aq)ISC.Z4EqSXXCG gX4-!qa4g !aU-S!)C!! .4aqqIgCC! II.-)XG4.C)aqIa!Sq!gG.SqXq-Z C) -IaCCZZgy(ga)GG!a.)g-.aUCq! ICS.ZIGS Z)4-S.agG!!UZggXaGe !)XqSa44IZBIZS ZS2a GC! -.gCS!K?GgX)ZP .Igq-Za)4SqaIGgSZ)G .))0qq.XSZq aIg-ZZGZSS)I-G.a4)qga.g<ZaYX )X q;.-4Xq4I.gSZGG-S))aG..M4qZXI!C Z.8- qX4q) agG!4a)gC!.N_SqX.GC.aGAq-IZC4)CIaSGX!G)II).!GaqgG!CI gIX-a  44C-aI-C!!4IgSI!qGq.!)CqG.IC-!ZIa4SZa-Y !))-g.aCQ!!IXgCaSPI -)Z-4.S4a!GI!-tZgGS W)Z-X.g4 qIIggZXXnSSI)G-!.)gg!!IYSGZXG)S 4g--IZgqqSI gGX-t).)X.q-a&4X!Ca S!Z-cZS4XS- .GC-q)IgC.Z-pqS 4-G ..4-.ga4C !aJGS!XSc! .4lqq4SCC!.II.-H(G4.C)aqGa!SG!gFqgIXq-! CIC-IaqCZ!CISS-!SG! ))gggaLC!!XI.CXZIG- ZG.-S.ICGX!C-ggXSGi q)X!q. gI..IZSXZSG  G4!-)ap4 !FvGgX.S,  N)--X.44I-4IGg!Z)4 S.)G-q.g)qq aIg-Igm4S XaqqS)4)!4a.gCZq}XSC4 aq.-Cqq4ICCa)SY! C)-G.aA4q!4aCC !I:- gX4-C aCGq!aCCgX.OqSq)!GC.g)I!ZaZS4Z IaSIX!-Z g44q#IZSG!C_ gIXaGZ 4)S!mI<C!Z4Ig.4X,Gq X4S6I.Ig!!ZHAgSZaGG !Ig-gaIC3!!IXgCZ 7I  )ZqC.S4a!GI!g)ZgHI T4G-X.C4 !oI-S))qyS  )G-..)4gq.GESGZXG)S ).--a)44ZS<GgGX-J) 4X.qa.qgX!Sa g.Z-GqS4X.GaIGgIq)I4C.ZaBq GXC-a C4-!Za4S !a{GS!4)-- .CrqqIXCCX II.-)-G4. )aq.a!SS!gG.S)Xq-) C4.-IaZCZ!4IIga)GG! C)g-Ia7Cq!gICS.ZIG. Z)4-S.aCX!!UZggXaGE !)XqSGX4IZWIZSGZS1a GC!q!.gCS!9EGgX4q_ .G)a-Za44SZ_IGg!Z)Lg ))#qG.XCCq IGg-)Z_ISS) -Ga-4)!.a. yZXpX )X -..-CQq4I.gIZGG!S)4IG..c4qqXIgC Xrm-SgX4GS a4G!4a)g !.h!SqXXGC.a4-q-I4C4X!IaSGX!G).q).qaaqgC!CI.gIX-Z  44q-aaGC!!)IgSGq4Gq ))Cq-.ICq!ZI4!)ZaGG !)4-g..CO!qGugCZ :I.!!X-4.S4a!)I!g)Zg-..q)q-X.C4 qII gZ)4-ZSa)G-!.)4g!YI9SZZCHCS.XI-g.Z44qS9ag4Z!t4SgXa-+.!4X!Su-CIZ!EZ qXSGa.Gg!!aaggjZ(?qSX)/G aIG.qZaSCSZGQG cX)Gg)G4zqZaXC ! IIS-XZ g S)IqGa!C)! I..,IaGX S) q>a-CC!4=G4aXGG) ))S-.aGCq!)ICg aaG- Z)4-..aCG!!LCZaZ.Gq q)S-C. 4I!4.Zg4Za^a G)!-4.g4I!#IqqZZCQ SI)!-Z.44Sqa4tg!Z)^gS.)f-q.XCSI:aIgZZZGZSSXa-G.gX)qgIMg7ZX%XSgX -G.-4Z )aSCaZGrXS)XgG..cG-qXaCC !Iz-SZX4-.4-4Gq)a)C !.<9Sq)4I   4-q-aaC4!SIaSq4SG) a).q-aqCX!CI 0aX-G4 4).-aa-C!!)CXg.XzGq ))C- .IC-Z!I4gSZa-qg)))-g..CX!qIXgC) gg -)Z-4.S4a!qI!SCaS_. G)q-g.C4 qII-- Z4{SSa)q-!.C4g!qgIgqZX>C gXI-q.Z44qSI-4SZ!M)Sg)S-D.!4X!S ICIZ-oZS.XSGa.Gg!.-agC.Zj6qSXXgG .Z!GqZa4CS!a9GSZX)Gg .4!G.aXCC! IIS-XXG4..XGqGa!C)!.I.SxXqG4I%) q6a-CZ!4ISgaXG)q ))g-.a-Cq!)ICS1!CG- Z)4-S.aC-!!I)!XZ.Gy q))-C. 4I!--qg4ZSTa G)!-).g4.!mIqGXCS,I 4)--Z.4aGCIZ.n.SSXSqG.ICZ.CCqq aIg-CS)G-..q)!qCICS3Z-G-ZX5gSCX GIqIaXg ZqgGZZ>!S)Xg)GqII-g-a g4!I_-SZ.I4&-IIGgqZZ..SZXG-G .)a I4qq-aZC4S-ZIGa CGg.u).q3aqI)S.)8GB Z49 S4G-aaGC!CCXqG!g ) -4) qq.IC-!Z!gGm S4cq4. C.a_Cs!qIXgCZI-G -)Z-4-.I)g4q)GX 44Gq-a-C-!ZIGSGq)GSS.)Cq-)G-!.)4gq.)gx;)a!gSI)Z--.Z44g!Z G!SC)C-aXI-G.X4IqCa CICZX.GC..)Iq!I4C Z C.Z81qSXXCG  I4-qZaSg)!a{GS! a)I!G -CI!)I.SG!)GS.C4S S)aqGa!C)!gI.IagqGC a) -Ia-=ZgCX!-8.!G! ))g-.aBaC)gGIa.X-G) Z)4-S!aI!gZXqGXZ.Gr q)X-C. 4IZaqZgSXS7a G)!44q.DGgCXC>SC )S-.aXC)!)I)ggZXGXZgGCS.)t-qG.aaSDq-G) ))g-5. CZGXIqCSZGKZZXGDSCX GIGCagg qa>q q)g-c .4-.q4XqXaCC S)XS-CXS-- a4Gq!ZCIISa)ZG .4)a  )Iq-aZC4!SIa Gg!Gg.!).qTaq6Cga)<-!.-4S-Ca)gq!XC!!)Igg.XnGq XCGX a-C)!ZI4gS -)X-Xa CGa;Ca!qIXgCg-)4q8.CXa!!MVS!X4ag -)X- .)-C.a4 qII-OS !)g-.aq-). 4gq.IOG)S)XS-4.!--.Z44qSaagGZ!I)IC)tqG.q4XqCqaF! -)G-G a)I!ZaCCSq.GGSI)ZG)._4G I4-qZa4CS!aTG 4g)G..q4nqqaXaCg.)GG).q4  a4!qGa!C)g XCGG ))Sq )IqCa-CZ!4X-Gq.Z4Cq)IN4a! 24gSI S ZIG- Z 7gE!SI-S-XXGq GX-q-aZC.- IOS!XCgSXg9a G)!Xg!CIgg-Z!GgCI)a-d.I4g!IIgSsZ g!Z)}gS.Z=--.ZI4).I-S)ZZi4SSS!4g!-aS4_ZXG- X)gI .!44qaaC4)ZGaGS.XZ-g..-1.44qqXaCGvSa)Z-C.g4!q a4qXa)Cg!.2qSqXXGC I4!q-aZC4SGXg-7.q4C .4GqQaqCXSXZ.-q gGZ 4)S-aaGC!!)XgaIXYGq X)C!G.IC-!ZI4 gZaGG !))-g..C;!qGGgCZ.sI q)Z-4.S4aZkI!g)Zgn. P)!-X.CC!qIIqgZZg8SSa)G-!.a4gq.I#gqZXtgS 4I-X.Z44qSaagGZ)t)Sg4)-P.q4XqCa CIZ-G)CSXSGa.G4Xq)agC.)w4)SXXCG  I4-qXa4CSX;mGSZX)Gg .4#qqaXga! nGS-XXG4 S)aqGaSC)!SI.SGXqG4 C) qIa-CZ!4I.gaXqG! ))S-.a?Cq!CICg ZIG-..)4-S.aCG!!I)ggZ. G q))-C.I4I!-IZg4.q<a q)!-4.g4.!2IqgIZCT.SI)q-Z.g4SqaIZg!Z)rgS.)c-!.X4C!-aIg-ZZk SSXa-G.!4aqga.gtZ!MXSCX GI.)4Zq4aSgGZX5!S)Xg4.qGa g4Z CIZqL-SZX4XSqga-g.agg-!.+oSq )4)qZa CqZCN)S.kGSXX!G) g.aCa! TqS IIS!X-GZ 4..4IZ!I.ggIgg.XmGq.-)C- .Ig!I4I4gSZaG- !))-g..gZ!qI)gCZ NI -)Z!4IZ4a!-I!g4ZgG9 _Cqqq.C4.qIIqgZZ eS.a4 -!.44gqaIrg4ZXlC.qXI--.Z4gqSIQgGZ4:gSgX.-P. 4Xqga SI).zZS.XS--.G4Xq)agI Z>+4SXXSG .i4-qSqCCS!a}GSSX)GS .4-qqag4q! IIS-X G4  )aqG4cC)!gI.SGXqGX C) .Xa-CZ!4IS!4XGG! ))g-.ahCqXXIag ZIG- Z)4!q.agq!ZI)gSZ.q! q)X-CaagG!-I)g4)Iba G)!qCaq4.!qIq gZCk SI)X-..44 qaC)g!Z4mg IZq-q.S4CZ4aIg-ZZGgIGXa-).!4aqga.g0)q-KSC)-GI.44ZZ.aSSaZ h!S.Xg-q.wgaqXNCS-!It4SZXaGS.)4Gq!IgCgZ-OzSZXXGS  CIqqaZC.!S:qSG)XG) g)aqdaCCX!gI gIX-qZXq)Sq!aGCg!)Vgg.XWIS X4}- a3C-!ZI4gSXCGG  ))-S..CB!qGXgaZ G) -).-4aS4aXGI4g)X-k. 4)qZd.C4 !!I-g Z4GqSa)--!aCGSq.I4gqXCtCS XI---C44!kaagCZ!LCSgX.qS.q4 qCa CIZ-VZS44GGa.44!q)agC.ZLGZ  XC-! ICXqZa4CS!aYSS!)KGg.-41qqaXCCZGIISgXZGg S44qGa4g.!gI.SdCGGX g) !I).CZZZISSgXGqS )CgZ4acgT!XrXg 4yG-.)WC-Sa.CGXaI)ggZ.G&-q)XqX. Ca!-I)g4XG . G4G-)b44.!GIqgXZCG/gC)--Z.4SCqaI-g!))gZS.).-qa-4CXqaIg-gGT4 4Xa-4.!C!qgIqCIZqGqSCCgGI.q4ZqCaSg-qS=!S)Xg!S.v4!qXIS)I!I;ISZ4SGS a4GZ!Z.CgZg1: JXX-)  )IqqaZgX!S{!SGX!G)ag4)qWI-CXZZI .XX-qZ I)Sq.aGgq!)-!g.XDGa X4X- aaC-!XI4 S)gGG.G))qX..S)!qGXg Z GX -4--4ag4a!)!Zg)X-}.. )q-).C4aqIIX4IZ4*SSa4.-!.44gq.-ZgqZS2C -XI--.Z44MqaagCZ!Y SgX.-JaGZZqCI.CI4)3ZSCXS-X.G44-GagC.Z9q4SXXgG .qX qZa4CSIqeGSZX)- SN4+qSaXSC! IIS-4ZZG S4XqGa C))qI..b)ZGX.-) -Ia-C.!46. gXGGa )gN-.a8Cq!XxSg X)G- I)4-..agq!XI)SqZ.q+ q)X-CI gg!-Iag4X!3aag)!!).S4.!gIqgXZCG!SI4!SX.4CXqaGug!Z)%gS.!_-q.I4C!)aIg!ZZGg SXa-S.!g)qga.g_)qGaSC)XGI. 4ZXGaSSaZZ5! -XgG..64SqXISgS!IOaSZ4ZGS a4Gq!aSCgZ)(*SIXXGS  CGqZaZgq!SGaSGX!G)agG4qdaaCXZ!I .4X-qZII)SqgaGC!!)e-g.)--  X4X- IXC-!ZI4gSXZGG I))q)..C-!qGXSGZ GS -).-4a44aXGI g)X)h. g)qqS.C4 !ZI-SGZ4G)Sa)a-!.)4 q.I gqX-,C ZXI!-q444!4aagSZ!G!Sg)q^7.qC!qCa CIZq_ZS.XSGaXN4!q)aggCZehqSXXCgS I4-qZIGCS!aAGS!IXGg .4:!OaXCC! II!GXZG4 S4XqGa!C)!g4 SwXqGX.q) -Ia-CZg!ISS XGGZ ))S-.sACg!XM!g XgG-aC)4q.ISCGZ-I) gZ.G2 qCX- . C.!-6qg4)C+aaGCG-)aC4.!BIqgaZCGa 4)-qZ.4SGqaIGg!Z)} S.4G-q.a4Cq aIg-- D4 CXaq-.!44qgII gZqG!SC4 GI.-4ZZ4I!CaZIy! ZXgqS.Ogq!aaCgS!IN-SZ)BGSa%4Cq!I)CgX 1/SqXXGC.G)I!qaZgG!SIaSGX!-S g4Sq,I!CX!gI  GXaGZ.X)S!aaGC!!)Gg!4Xr-G X4)- I.C-XZ-CgSX.GG !))q-..g-ZaIXSCZ -  -)Z-4.SC4!GBZg)X!_. N)q-X.S4 !.I-SXZ4, Sa4qqX.)C4q.G(gqZX_C. )C--aq44!CaaSIZ!-) 4X.-I.q4XqCI!CIX!CXS4)SGaa44!q)agC.4Z1q )XC-) I4-qZa4)-!afIS!)4Gg a4u!Z CCCZgII 4XZG4 S4!GGa!gX!gIaS0X!GX g) -I)GCZ!4ISgaXGG! ))ggXa<gG!XISg X6G- Z4g-Sa CG!ZI)ggZ.q8.))Xq). C.!-6Zg4)SDI G4--)a44.X.IqS4XqD  I)--g.44SqaIGSqZ)G4S.4T-q.44C!-y)g-Xqs4ZIXa--.!4)qgIG4gZq3XSCGWGI.q4ZZ44XCaZI5!S)Xg!Z.t4CqZaCgg!I)ISZXCGS I4Gq4.GCg!.mTq9XXGg  4qG aZC4!Sg-SGXZG)agG4qbIGCX!CI .)X-qZXq)Sq aGg-!)Gag.XX.- X4)- 4qC-!XI4gSZaGZga))-g..q!!qI)gCXaI- -4q-4a-4a!GI! )Ga5. a)qq!.CgXqIv!ggZ4GSSaCX-!.)4gq.IXgqX!6C  XI-!.Zg4qIaagIZ!GZSg)C-VIqCSqCIgCIXddZSSXSqT.!4!!)aggqZj&qSX)SG. ICqqZGXCS!abG X!gGg.I4c! aXCC! IIqZXZ-g S)IqGa!C)!gGGS()!GX C) -Ia-CZZCISS XGG! ))S-.I-C4!X:)g XXG- Z)4!SIGCGZ-I)S4Z.qZ qCXq1. C.!-?qg4XZLaaG4.-)a44.!aIqg4ZC- ag)-qq.4CCqaI!g!XCB!S.4>-q.g4Cq aI -ZgL4 SXaqG.!gCqg6.SXZqG)SC)4GI.q4ZZ4ISCaX-W! 4Xg!C.34qq aCg !I3!SZXgGS aC)q!I4CgZ4j/SqXXGC.!)I!QaZgC!SIISG)XZG g4Sq#agCX!CI  I).GZ.X)Sq aGga!)B  ZXF-q XCa- .IC-!ZGGgSX GG.!))- ..SPZ!IXS)Z G. -4G-4ISCg!Gl-g)X4Q. q)qq4ag4 !II- MZ4fSSa)G!G.)CSq.IZgqZX<CS )a--a)44qIaagGZ!GC  X.qq.qCGqCa CIZ-#gS4)CGaa!4!q4agC.C)9qSaXCG  I4-qZa )q!af-S!X.Gg a4Hqq4-CC! IISqXZG4 S)aq!a!C)!g_JS!XqGX CIqC%!S(C!SIIgaXGG!qS.Sgi!SCX!SICg ZI4--4.CC)!gC-!!I)ggXGG8 q)X- .a4I!-IZz)g-GG -)!-).g.q!qIggXZCz G!aZ4gGaa SGXZg)XG1gS.)MX!!gI.C.Z-W.gq))IaS--G.!4)qgI4gEZqTX S!IGI.-4ZqSaSCaZG#gSXXgG..24)qXagC Z>0-SCZ-GS a4Gq4a)CS!.z!C.XXGC  4Cq-aXC4Z.aGSGX!G) S).q%aqSXa!I gIX-GZ 4).-aa)Zq!)Igg.XgGq ))C- .ICX-II4gSZaGS !)4-gaI)q!qIXgCX=_I -)Z-4bG4a!GI!g4Zg&a D)q -.C4 qIIqgZZ4pSSa) -!.)4g!I.qgqZXrCSaXI--.Zg4.XaagGZ!>)SgXa-9.qAGqCa CIZq6ZSgXS-!.(4!q)aggqZmz!SXXgG .qX qZa4CSZ!fGSZX)GaS)4=qqaXgq! QVS-))IS S)aqGa)C)!gI.S-4gGX g) -Ia-CZ!4ISi.XGG! )) -.aGCq!gaqg ZIG- Z)4- .aCGa/I)ggZ.GG q)X-C. C!!-IZg4ZaG- G)!-)!Gaag.Z4gCXtQ SI)-X4!)ICg ZX8) S}. )),-q.X.egGXqIZSg)gqG.)4!qC4g!)a.g5ZqZ4Ga.g4qq)I)4SZI?q G)!G  a-U.g4qqXaCaa !)Vx4 .4.!!agC)! CS!.>OSqXCGC  )IqZaXC4!SIaI)X)G  g).qdZqICggX4GSXZG) 4)S-a!Q.S!4Igg.X?qq X)C- a-gG!ZI4gSSG)C-ZaCCZ!gIGSGGXI!S.4G-qaC4..aC)!GI!g)SS4Gq!.!4C!!IZg.ZCg4Z hSSa)G4Sq4I)g-I-gqZC&IS XI--G4I)g4ZwL- 43g -X.-t.qa4gZZSo-S.Xa-X.--G.g4!q)agBXSaXX-4 a4Cq!I<gCaSg-!a}GS!g 4Xq-aqg)Z424!IwgS-XZG4yII6C-!SLXS4G.Iq I))!l)IqIa-CZ!4Z GG.Z).q..I)%!IUGSgXSGS S)a-gag-S.aCG!!I)ggZ.GJ q)Cqq. 4I!-ZSG)Sa4qq! )CSqSIIS!IXS!ZCc SIS44a!XaI4!ZgGX g)a?U.44 !-a.q aIg-ZZ=4SSXa-CG!4g!!a.gTZqZC-a. 4!!!a.g.Z4IISIt!q-)a SG)X!SvX..SZ-cSSZX4GSGGaCCZZCISSn)!G4.4G . )Iq-aZj S!XSGXS44XG4a-g4Z).)S.)wGk Z49 S4g-aaGC!SSXqGg ZX)qZ )CGZ)}X4)X!Gg G)  )4G-g..CP4!XSG. SXGqGaC4C!IIq!!I4g)ZgU.Gqa)CZ!C4I!.I-gZZ4ZG-)a!4 !!aSgSGAaaS))SG.aq4).)4CqaIXgGZ!O)--a-4.q!I!g4ZZFqZ-^ZS4XSGa.G4!!)-gg;ZCiqSXXCZaqSaqC4ZqSSCgXXGSXgGa .4vqq!a<aSqX!S-XZG4 S)aqGa!I64g8>S!XqGX CaCCPZXI.!SmggaXGG!-IaqgG!-8-Sa!X9. X4e-aa g0!-IX!)M-ggZ.G6;IaZ4 q.ISC-XG+C.!)qqq))-a.g4.!<!qG-Sg4Z-!a!C4.44SqaIGG-Z)FgS.4-vX.X4Cq I-g-ZZD4.S )-G.!4)qga. +Zq-X SX GI.-4Zq4%gCa)GGgS)XgG..v4q!)aCS ZS&-SZX4GS a4aq!ICgg!.J-SqXSGC  )Iq-ICC4!SIaSqX!GC g4qqSaqCX!C#XgIXqGZ 4)Sq- SC!!)IgS)XpG! X).GX.IC-!Zq gSZIGG.XZg-g..CH!XIXgCZ -I.G)Z-4.S4a!GG!g))gG  U)q-X.C4 ZaI- ZXg{SSa)G-!.)CSq.GMS ZXeCS XI--a-44!.I-gGZX+).!X.-J.q4XZ!a CIZ-r)S4X.Ga.)CCq)agC.C!sqS)XCG. I4XGIa4CS!a!ZS!X4Gg.IXqqqaXCC!IIIS-XZq4-!)aqGa!C)!gG.SL4q-C C) -Ia-CZX)IS aXqG! ))g-.a^g!!XGC CZIG- Z)4-SaSCGZXc.ggZIGo S)X-C. 4I!ZIZg4ZSG= G)X-)a>gC!dIqgX)Xr  ;)--Z.44I-4IGg!Z)-)S.)G-q.g)qq aIg-CCl4S XaqqS)4)qga.gqZqcXSC4 )4.-4Zq4aSCa)G&!.))4G..P4qqXaCSS!I-- -X4GS a4Gq!I4CgX.G4SqXXGC  )IqIaZggXZIaSqX!-. g).q^aqCa!CI gIX!GZ g)Sq!agC!!)Ig.!XNG! X)C- aq) !ZI4gS4ZGG Z))-a )C{!qIXa.Z Go -4)9S.S4a!GI)g)Zgi.ab  -X.C4 qII- ZZ4-S G)G-!.)4gq.;Igq)X--S XI--.Z44! aa GXSw)SgX.-Q.qCqqCIagqZ-y)S4)!Ga.G4!q)ICC.ZB>qS4XCGa I44qCa4CS!aq-S!X4Gg .4#q).yCC! IIaqXZGC S4-GSa!C)!g!GSvX!GX.SZI-Ia-CZ!SISgaXGq!.X)g-.a;Cq!XGCg )IG) Z)4-S.aCGXqI) gXSGo q)X-C. g8!-GZS{ZSDa G)!-)a)4.Z-yZgXZSy  a)--Z.44SZoIGg!Z)r S.)--q. CZq aIg-CC%4S Xa--.!4S-!a.g(Zq!gSCX.GIa!X4q4aSCaZ!Q!S)Xgq..I4qqXaCC !I--SZ44qq a4Gq!a)CgX o/.qX GC  )Iq-aZgC!SGa GX!G) g).qdIYCXZSnZgIX!GZ C)S-aaGC!Z Igg.X5GZ X)S- aZCZ!ZI4gSg-GG Z))-S..C!-.IXgCZ Zq -)X-4.I)4!GI!g)g-^. G)q-X4g4 qII-gZZ4ySSaCGSI.)4gq.I&gqX#DCa )g--.Z44!-aagIZ!cSg!X.-_.q.GqCa.CIZ-SXS4XSGa.G4!q)agS.aSsqSXXCG  I4 qZG4gX!amGS!XaGgaX4jqqC)CC! IISqXZG4 SCau)a!C)!gI.SO)4GX CC)-Ia-CZ!gISgIXGG!a!)g-.a{Cq!XICg )IGI Z)4-S.aCG!aI)S X)G1 !)X!X. 4I!-GZS)ZSwI G)Z-)IZ4.Z-G^gXZS; . )--Z.4gS.CIGgXZ)2 S.4S-qa4.Gq I-g-)-k4SSXa!Ga-4)q.a.gqZq-GSCX -q.-4)q4a.CaZ!}!S)4)G..G4qq)aCCa!I#- XX4G  a4-q!a)CgZ.PISqXXGC.a)IqqaZC4ZqIaSGX!G) g).qYVqqG!CI gIX-GZ.-)SZa!.C!!)IggIX5-g X)Cqd.IC-!ZI4gSZaGGa!4 -g..Cx!qIXSqZ qI.Z)Z-4.SgG!G,!g)Zg-q ?)q-X.C4 qII- ZZIfSSa)G-!.)C!q.-wSXZXACS )Z--.C44qSCIgGZ!l)SgX.-*.qgX)Ga CIZ-eZS4)ZGa0GC-q)agC.XaKq.-XCG aG4-qZa4CS!a5GS!4)-a .4LqqaXCCZXII.-XaG4 S)aqGa!gI!g-. )XqGX CCM-IICCZ!4t.gaXGG! ))g-.ajSqaGICg ZIG- Z4--S?aC !!I)ggXCG} a)X-C)44I!-IZgCZS1a G)!qG.g4.!H*Z4CZC/ SI)Z-Z.44SZa4 g!Z)fgS.)W-!.X4IISaIg-ZZGGSSXI-G.!4)qa.)g/ZqhX -X -p.-C)GSaSCaZGUXS)XgG..XXqqXagC !Iw-SXX4G. a4GIIa)Cg!.yVSqXXGC  !gq-aZC4! IaSGX!G)-C).q9aqC4!CI.gIX-SG 4)S-aa-C!!)Igg.XSGq X)CqaGCC-!ZI4g ZaGG !C)!)..C=!qIXgCZIfI.!C1-4..4a!XI!g)Zg^..G)q-X.C4aqII!gZ)4--Sa)G-!.)4g!GIK q)-9CS XI--.Z4gqSI!4GZ!rCSgX.-O.!4XqSa CIG.kZS4XSGa.G4!q)agX4Z2_qSXXgG  I4-qZSICS!awGSXX)GS .4r IaXCC! >mS-XZG4 S4qqGa!C)!.IISPXqGX-4 qq-aXCZ!4IS-- -4)q-).q-aMCq!XXCHI /)aqG)S-I.aCG!!XaFS X4! X))-C. 4I44IXg4ZSDaIG)!-).g4.!mIqgXZCCXG CgXX.SCGqaIGg!gC)q-!S 4 q44 !SaIg-ZZ!I-ma-X!!CICg Z-Oa )!4-Z .4qq)44qaaSCaZGZ!G4. 4-qaI)q4agCIZ-D-SZX44qq)IZq)a Cg!.kTGC.-44qSIGqZIGC4!SIa-4 C)4qga Ca-XIaggXgGX )GZ 4)S-aaGC!!)!4a.XqG) X)C- !XIqS-Z.gaXqGG !))4a!-I-S4Z.g X-/I -)Z4g!)aIgZZCGgZ.GX b)q-X-Ia.gSZS_CSC)I-.aq-)..4gq.I_<! g).G..-4..444qSaagGZ)fSSgX.-Q!ga)g-Xig-Z lZS4XSXZqXI44g!IBI XX GC aG  I4-qZa4CS!aGCI!X)Gg .4vqqaXCCS !GSZXCG4 S)aCa!ZBSS-FMSZXqGX Ca CW!Sd)SSIa =XGG! )  CX!).XSZX)-,.G4GqGa!CtZh.XSgZ G4.GGq g)X-C. aGg)X-G) I)qq!))qG.g4.!}Zg=S .4G-Ia44X!!V&gqI!SCZ)YgS.SX4 !!a.4-Z4G! 4) Ia.X4g!xaS4CZqaqSIX)- .IGI.-4Zq4aSCaZGG4I)X.-..34qqXqGGGS Xq-q.)4!q-.qgqZXWaC.XG-Z.gG .X)Iq-aZvSS_)--X.!4.-SaCgZ!4CX!CI gIX-GZ 4C)Xaa!C.!)Igg.gq)S-)aS4.!-QXggXggaX4GG !)))9!Xf-g4!CHa a4Z-)a)-Saq4a!GI!GS C4dq!aZ4I!)Iq!-I)gZZ49S-a.!4Z!qIXq.IOgqZXjCS XI--.Z4S!gaagGZ!!g-C.g4-q!Ig)IZa{&SIXg-I.gCBq 4!S-Ia!SC)a!qNa.ZS.-4aqZa4CSSZXX-4gC4X-aa!C4-ay- _)-S-XZG4 S)aqGa!4)4Cf#S)XqGX CaaC!ZqygSGX.GqXGG! ))g-.a{CqZXqCgIX!G- Z)4CIqIIqSrZ g.XGG9 q)X).!SIagaI4SCZSJa G X4 !gICgCZXK) .)G-q ZCC!)I.CIZ4QCZgGgS.):-qq)a SHZ4G4Sg!S-g. CZ!XIXgXZC:Z Z_CSIX GI.-aagXZa#q q)4Sg)4G..i4q) Z-PgSq!4Ga.g4a!- !C Zk;XSG&cSqXXGC  .ZXXoS.C!SIaSGX!I) C) CI-!C4!CI gIX)GZ 4)SqGaXC!!)IgkI G4X-I. -Ia!C-!ZI4GSSI)gqXag-.a-Cx!qIX0g g)4-Ia4-S.I4a!GI!I) XXaqC)X-a.C4 qIZqGq G)4GIaZCq!C4gq.IxgqX-sCS XIq!4444qSaagqZ!+)SgX.-a.q4)qCa CIZ-OZ.443Ga.-4!q4agg-Zz-q !XCG. I4qqZaSCSXaJgS!X4Gg a4tq!aXCCZqIIS-XZGg S4AqGa4ga!gI.S&X GX g) !IW.CZ!.ISS-XGG4 ))g4 aKC4!XISg XyG- S C-S.aCG!SI)gSZ.G- q)gGq. 4I!-I g4Z wa GGh-).g4.!GIqgXZCk  -)--Z.44a!-IGg!Z)))Gaa!4S.C4aq aIg-SS)!-g..Cq.!4)qga.glZq*X-CgaGI.-4Zq4DsCaZG0!S)4CG..z4qqXaCC !Ix- !X4G  a4-q!a)Cg!.H)SqXXGC  )IqqaZC4ZIIaS-X!GC g).q6aqSq!CI gIX-GZ C)S!aaSC!!)Igg.XdGX X)C!q.IC-!ZI4gSZaGG.XZg-g..CU!!IXgCZ -I!X)Z-4.S4a!GIXg)ZgG4 N)!-X.C4 qII-gZZa}S &)G-Z.)4gq.IFS-ZX2gS )O--.)44qStggGZ!U)S X.--.q4X!ga CIZ-&4S4XSGa.GCqq)agC.Zd5qSXXCG 4O4-qXa4Ca!a8GS!X)C- .4-qqa)CC! IIS-))G4  )aq-a!CC!gI.S)XqGX C) -IaqCZ!4z.gaXGG! S)g-.anCqX-ICg ZIGq Z)4-S.aq !!I)ggXI X q)X-Ca 4I!-IZSg)f>a -)!!S.g4.!mIqS ZCH SI)!-Z.C4SqaIqg!Z)xgS.)e-q.XgC!)aIg-ZZV4SSCg-GaXCGqgaagY)C9XSCX qG.X4ZqgaS !ZGs!S)) ga.F4XqX2IC !I0-SCgSGS I4G.aa)CS!.G-CXXXGa  gXq-aZC4Z.q!SGXgG).!).q1aqSXZ!I SZX-GS 4gX-a,GgS!)rQg.XXGqaC)C! aSC-!SI4SGZaGq !))-S..CZ!qI4gCZaNIa-)X-4a(4a!XI!  Zg{. I)q- .C4.qII-gZ)4gXSa))-!..4gZSIkgqqa=C qXI-q.Z44qSaaSaZ!rISgXa-m.q4XZCa.CIZg3Z 1XSq .Gg!q.aggZZJESSX4!G  IC<qZaICSZXyGSZX)- Za4dqSaXg-! IIS-XZX  S4qqGa C)! I.SOXIGX I) -Ia-CZ!4ISS:XGGS ))g-.aPCqZ4GZg X)G-.g)4-S.aCGZII)SqZ.GZ q)X-C. C)!-I.g4Z.3a S)!-Sa-4.!mIq.)ZCt.SIC- m.4C4qaI.g!ZS,g..CS-qaq4C!CaI.cZZGg! Xaq1.!g-qga.gxZqXXSC)CGIaG4ZqgaSg!GVj! !Xg!a.v4!qXaCC Zqa SZX4GSII4GqZa)Sga4Yr YXX-Z  4qq-aZa!!S(SSGXSG).)).qXa-CXZXI atX-GX 4) -aaZ)a!)Igg.CGGq ))Cqa -C-Z-I4.!ZaGG !C)gK..C.!q(qgC4ClI -)g-4aC4a!)I!g)Zg-..q)qqZ.CC4qIIXgZ)4GGSa4Q-!aX4gZ4IrgqXaQC CXIqG.Z4CqS^agXZ!G!Sg)C-0.)4XZCL!CIZCsZ ZXS-q.G4g44aggZZU--SXXgG .G4-qC.-CS!ayG.qX)GS .4LX4aXCa! >ZS-XZG4 S!XqGa C)!II.S1Xq-!C4) ZGa- .!4I gaXCG! SX!-.a7Cq)aICg.ZIGXgI)4-S.aqg!!I4ggXIIq q)a-Ca)4I!-IZ 4C!3a C)!-I.ggZ!mGqSgZCGZSI)--ZaX4SZ,I!g!XGYg.)):-q.X4CZ!aIggZZG-SS)1-GaXgGqgIXg_ZamXSCX qIag4Z!GaSg)ZGG S)4g--.*4.qXaCC Z.{- )ICGS.C4G!Xa)Cg!.t*4qXX--  4gq-a)C4Z.GSSGXaG).Z).q2aqSX! I SCX-GI 4Cq-aUGgC!)_Zg.X7Gq.!)Cqaa!C-ZGI4.qZaGG !))qA..Cg!q+-gCZaJI.!).-4aX4a! I!g)Zg-.ZS)qqG.CC)qIEggZ)4!-Sa).-!.)4g!SIkSZXIYC CXIqI.Z44qSaag-Z!G-Sg)g-c.Z4XZCL)CIZaVZ tXSGI.Gg!!*agggZH=.SXC4G  I4CqZI!CSZg(G GX)GgaX4%qIaXgZ! ?4S-4Z)S S4SqGaaC)!SI.SX!qGX.)) qla-CX!4hWgaXGgq ))g-.a Cq!XICg aaG- Z)4q!.aCG!!I)qCZ.GM q4q-C. 4I!-4!g4ZSOa C)!-).g4. IIqgXZCGXSI)--Z.4a)qaIIg!Z4fgSa)y!qIG4C!)aIg.ZZ-aSS4L-I.!CZqgI4g7Zq/X.C)qGIaL4Z!XaSSgZG-!.GXg- .l4qqXI)C XGG4SZ)4GSa44Gq!a)CgZGj} !XX-G  )Iq-aZXI!S, SG)ZG) S).!-2.CXZ)I SgX-GZ 4CS!EaGg-!)m4g.) GqaX4C- aaC-!ZI4SCZa-q.!))qg..g-!qIXgCZ -Z -4X-4a!4a!GI!g))ZY. a)qq).C4.qI%!gSZ4GCSa) -!.)4gZ.4SgqX!fC gXIqa.Zg4X aaSYZ!/)Sg)S-YaZC.qCI CI)g3ZS4XSGaag4!!4agg)Zc(qSXXC-  IC&qZICCS!IwG XX.Gg.S49qaaXCC! GIS.XZ-X S4 qGK3C)XgGgS8)-GX C) q.a-g).CISSaXGqG ))g-.an 4!XJgg XgG- Z)4-SSZCGZ-I)SSZ.GG q44_ . C.!-GXg4ZS5a )Z!-)aC4.!wIqg)ZCO.SI)-S!.44SqaIGg!Z)dgS.XC-qa!4CqaaIgqZZL4.ZXa-I.!44qga.g1)qGSSC)gGIac4ZZXaSSaZgm! ZXg-S.>C qXISgC!IG-SZC-GS a4Gq!aaCgZSwj qXXGS  4Z!qaZgX!S)SSGXZG) S).q! .CX!CI - X-GX 4)IG4aGC!!)g-g.XGGqaXG!- a.C-!ZI4S)ZaG)4q))q4..q4!qI)gCZ %I XZI-4.S4aaCI!g4Zg-.ZS)qq!.C4 qIIagZ)4gXSa)I-!aZ4gXqIigCZZ(C gXIg).Z4CqSaIgGZ4IGSgX.-9Z44Xqga gqq vZS4XS X.G4Zq)I 4hZ;GGSX)qG  I4-ZZg CSZ bG -X)-S .C-qIaXgC! -gS-XZG4 S4CqGI-C)ZgI.S-XqqX .) q.a-gq!4GGga4GG  )44-.aaCqXZICSaXgG-.Z)4qq.aCG!!_CgSZ.-G qCX-C. 4IZ!.4g4X.Ea !)!-).g4. qIqS4ZC<.SI)--Z.4CXqaA-g!Z)egS.)E-qag4C!gaIg-ZZcCSS4nq-.!CZqgI)g:ZqoX.C)-GIaU4Z!XaS CZG-! CXg-S.eCGqX=kC XIGaSZ)XGS. 4G!Ga)Sg)4o: GXX-)  Caq-I)C-!SsaSG)4G) g).Z}aCCXZCI SIX-G  4CSq.aGgZ!)yXg.)qGqaX4C- IiC-ZXI4.SZaGG.j))qg..C-!qI4gCZ GS -4X-4aX4a!GI!g)Z.w. a)qq).C4.qIz!.IZ4GCSa)S-!.)4gZ.KqgqX!#C gXIqq.ZCgZ)aaSGZ!q-SgX.-7.q4)qCIgCIX-2ZSgXSqa.S4!!ZaggSZLGCSX4C-G ICjqZIXCSX.;G X)4Gg..4yqCaXCC! II CXZ-C S4qqGa!C)!g_4S8)ZGX .) -Ia-g)Z4IS GXG-q ))g-.a0g4!X_)g )-G- X)4-S-ZCG! I)ggZ.Go q)g9G. CQ!-Iag4Z ca GG=-).g4.!GIqgXZCy .G)--Z.4C.-GIGg!Z)K S.)b-qIX-!q aIg-ZZi4SIXa-G!I4)qga.gGZqc4SC)-Ga.-4Zq4IGCaZ-:!S4Xg-GSg4qqXaCg-!InqSZX YZ a4Gq!I4Cg!a:= Z!CGC  )IqqaZC4!SGa! X!G) g).q^a4CX!IISgIX-GZ.q)S-IaGCZ!)IaC)XTGq X4!- a9C-!Ca-gSZaGG !))-S..g--XIXgCZ G- -)Z-4aGXa!GIZg)Zg+. G)q-4.C4 9gI-gZZ4JSSa)G-!.)ZZq.I9gqZ)sCS XI--q!44qSaagqZ!?4Sg)G3g.q4XqCa CIZqmZS4&)Ga.G4!q4agC.Zw:qSCXCG  I4ZqCa4CS!a)4GZ.24a.%4!qqaXCC 3X(-Z.vGS.;)aqGa!_)g.ZaG  IG) C) -IaXCZ!4ISSGXqG! ))g4 -)CX!)ICg ZIZ4 44--S.aCG4ZXSGaSa)q-a !C4GI.q!ZI g4ZS*aGXa)4 -TaaSqX)gXZCd SI)a-Z.44SZ2.!g!Z)Ng G)N-q.X4IqSaIg-ZZe SSXI-G.Z4)qa.)gyZq<XS.X -A.-4C--aSCaZGTIS)XSG.a-XXqXaCC ZKm-SZX4qSXC4Gq!a)Cg!.i-SqX G4  )Iq-aaC4! IaS-X!GSS!).qVaqCI!CI.gIXXII 4)S-aa C!!4IgSI!qGq X)C-I.IC-!ZI4.GZaGG !)4-g.aCH!qC-gCZ dI q)Z-4.S4a! I!g)ZgGIgq)q-X.C4aqII-gZ)4gXSa)G-!.)4gqaI}gq.GlCS XI-q.Z4gqSI!g8Z!^)Sg)q-M.!4Xqga gqq sZS4XS-!.G4Zq)aa4)ZvxqSX)qG .m4-!) SCS!anGS)X)Gg .4-ZgaXCg! IIS-XZG4 S..qGa!C)! I.SGXqGgSq) -Ia-CZ!4I gaXGSt ))g-.aGCq!XICg  gG- Z)4q.G.CG!ZI)gaZ.GK q4X!q. C#!-I.g4ZSKa.q))-).S4.!SIqgXZC-  Z)--X.44 qaI4g!))-qS.)G-q.)4C!gaIS!ZI94S.XaqC.!4)qg;.gXZq;4SCXaGIa44Z!g aCaZ!*!.-XgG..0gqCGaCg+!I?qSZ)-GSaaCXq!aSCgZGb}SCXXGC.I)IqZaZC !SIaSGX!-- g)Iq:aqCX!SI  IX4GZ S)SqraGC)!)&c4.X>G) X)C- auC-!XI4gSa.GG !))-...CB!q?4Z.Z Gq -4)-4.S4a!).!g)Zas. -)q-).C4aqII-q!Z4tSSa)!-!.)4gq.)IgqZXNCS.XI--.ZCgg!aagZZ!<CSgX.-eaZC*qCI8CIX.rZS4XSqr.q4!q agg4Z>DqSX4C-Z I4)qZa.CSX-lG.!)CGg.-4kq4aXg4! GISaXZG. S4qqGIGC)!g,ISKX)GX S) qGa-SZ)qISS-XGG4 )4S-.a1I-!XI.g XGG- X)4q. GCG!4I) qZ.G5 q)4Zc. C!!-ISg4ZSJa Gm.-).a4.!-Iqg)ZCGa S)--C.4gXqaIGg!XCGIS.)Z-qaG4Cq aI -Zgd4 VXa-X.!CSqg=.S)ZqLSSC)GGIaG4ZZ4aICaZXQ!S Xg-g.z4qqgaCgw!IJ!SZXgGSa{XXq!a CgZC<QSqXX-Sa4)Iq4aZCC!SIaSGX!qG g4qqra!CX!CI gIXZGZ .)S-aaGCS!)IaS!X?Gq X .- aVC-Z).SgSX4GG.S))-g..C()4IXS!Z G4 -)Z-4.SGZ!GIag)Z b. -)q! Sg4 !CI-.ZZ4i Sa4X-!.S)!q.IDgq4X:CS.XI-XSI44qSaaIZZ!84Sg)I*q.qCMqCI CIZ-=ZS4)CGa. 4!!(agC.Z7eqSSXC-X I4!qZagCSXaH4S!)GGg.)41q aXgS!.IIS.XZ-q S)aqGP!S-!g%4SdXaGXaq) !Ga CZZZISSZXGG! ))g!ZaUCa!XJXg XGG-aZGq-SaCCG!II)S4Z.qoZa)Xq!. Cg!-IIg4)SgC G)I-)aZ4.!XIqg ) v  C)-Xq.44 qaI g!ZSI!S.)V-qG!4Cq.aIgXqIf4SSXa)Z.!44qgII4qZqG9SC)4GI.-4Z!gW%CaZ ?! IXgG..Tgq!4aCg)!Ip.SZ)aGS aC-q!IqCgZXuWSqXXGCa))Iq.aZg!!SIaSGX!-G g4)qEaqCXZZI SqX4GZ 4)S4YaGCZ!)K CwXt-- XC&- .IC-!Z-.gSXaGG.-))-g..Cb gIXS4Z GG -))-4bGXI!GTqg)gZL. G)qqC.CCH-CI-gZZ4ZXSa)--!.S)!q.I(gqg)1CS.XIq!S444!gaagXZ!E)Sg4.SS.qCZqCISCIXSfZSa!SGaaG4!qSagCaZ_9ZSXXCgS I4-qZIXCS!a2GS!IXGg .49q)aXCC! IIGGXZ-) S4HqGaZC)!g!!S#)PGX C) -Ia-CSCCISS4XGZC ))S-.a-Cq!gaqg ZIG-Tg)4- .aC)CZI)gIZ.qg q))-C.a4I!X.Ig4ZSlaaS)!-4.gCI-qIqgSZCGGSI)--ZI4-XqaIXg!Z rg.X)7-CSX4C!-aIg)ZZ7CSS)r-G.!GXqga.gyZXsXSCX GIXG4Zq4aSCIZGx!S)XgSX.Q44qXaSC ZFs- ))XGS.q4G!Ia)Cg!.G-SSXXGI  4gq-aZC4XSJ SGXgG).F).!!aqSX!.I SZX-GS 44g-a1Ggq!)}cg.XXGq.q)C- I C-!gI4g.ZaGq !C)ZZ..CZ!qISgCX.;I -.!-4a#4a!qI!g4ZgGIgq)q-S.CgZqII-gZZgq-Sa))-!.g4gq.I9gqSZ7C GXI-!.Z4CqSA%4!Z!( Sg4X-h.q4XqSGqCIZ4FZSCXSGa.G4!CXagg-Zr3ZSXXgG  IGaqZa4CS!IFGS!X)GS.Q49qqaXC ZLIIS-XZ)I- aSCXa)g !gI.SOSX)Sq.gICqq!IgSXZIGq.q).qZaG)-!aI!g4XZGG qGZ I)4-S.aaqSCXZI. -4-qC.I4 !G4I!-IZg4XG#a G)!qCS.4.!0Iqg)ZCd SIC-Z!.44SqaIGg!Zg,g..)C-q.X4Cq aIg!ZZ64C!Xa-q.!4)qga.gMZq..SCX GI.!4ZqCaSCaa.l!S)XgGa.o4qqXaCCI!Ie-SZXS-Z a4Gq!qCIISGXZG4.qZ qSaqC)a4C.!SIaSG.!)4qqaIgqaXC !CI gI.g!)ySagC-!XCZ!)Igg.X)Gq X)C-IaCC-!ZI4I- q4ZG). C ZqICgXZSg XGeI -)ZCaq IgSXZCggXyA. })q)4qaIVg!Z)G-ZSG)Sa)G-!-MI4SqZIoaSSZ -GaGC4qgIgqaIZgGZ!D)w .-4.!-IgCaZIg-ZXNZS4XS4Zq-IGC a.gaZ&QqSXSS4GqIaaCa!SI  -XXG4Sg4aq I-C!!.Ia! IIS-XZ-- S)aqGIXG)!gIaS(XCGX C) !IIgCZ!CISgIXGGZ )4 !qaWCX!Xf%g ZIG- Z) -S.ICG!)I)g Z.qm.!)X-g. C;!-Igg4)Sq. G)Z-).S4.!qIq XX!w  N)--X.44Iqa{q4)Z)d.S.)--q.X4Cq  Xg-ZX34SaXa--.!4).Xa.g&ZqV)SCX GI.qCGq4aSCaZq-SS)XSG..H4qqXaCga!.B-SXX4G  a4Gq!ICC !.#GSqX4GC  )I!!IGC4!.IaS!X!G) g).!qaqC)!CIagIXZGZ  4 -aaGC!ZfIggaXk-ZgC)Cq-.ICq!ZI4gSZa!X !)a-ga-CD!qIXgCSS*I 4)Z-g.S4I!GIgI4Zg>a W)C-X.g4 !GI-gC!-FSSa)G-g.)4Sq.IDqIZXFCS )_--.Z44q aagGZ!W)SgX.-d.q4)qCa CIZ-gGS4XSGa.-4!q)agCaZ!vqSXXCGI.!4-qZa4/aSaX--S.ZG..Z4;qqaXaCg.)G-XSq).qga qqaZCg! I.S*Xq)ZG_).-Ia-CZ!CISgaXGG)  )g-.aQtqgCZgG4 SGq Z)4-SaqCG!!I)g.X!G= q)XX !SI.SDZgkS IGG g)!-).g.ZgZZ!G4 .Xa-!.qCC.SCZqaIGg!CaXIqG q44!4IIgZZ-l)Z4G-SSXa-G-XI g4!l7Z Z) -- I4!.Z4Cq4aSCaS4XZ-! IGa.n4qqXGSC !Ik-S4X GS a4G4!!4/  GwqS)XXGC   .CqZ-I.!SIaSGX!G) g).G=--C4!CIISZX-GZ 4SaC.!.iqSC-.S5XSGq X)C)G!1hZgaXXG-SG4Zq.aq4IafC-!qIXgCSSZX Z)a-4.S4aCZXS_ SI)S3CaG4 !44I!ZI-gZZ4Z)-).I4Cq4I !#IqgqZXYCz4SaXa.44 qSaagGg))=q!.--q.!4XqCa ICZ-VZS4XSGa.G4!q)aggeZ!NqSXXCXGq.I)g-aSgG!aTGS!gg4 q-aGg)!SC ZSIIS-XZZ.- IGCgZ-Ia4aXX-- 4)Cq.aZCaZ&C4Z-ISgaXGZS- aa4h!Z7ZS X-sI !GZ C)4-S.aaGStZ4-qX5-i q)X-C-!m!gIZXGX g))-Z XCX!C(GClZ!G4 .2I X)--Z.4 IgqX!G4 C)CqX)q-X.X4Cq Z.0)  c4SSXa-G.!4)qg...IZq+XSCX GI.-aZCS-SgGZ4T!S)Xg4q!-I-gqqSaqCGyZ GX4GS a.ZgS! IISSZqG4.44IqZa-C)a)CC!a/gSGX!G)GaaICGZGTCSCZ.-G )4q-SI!qGaZC!!)IgG! G4+-S)C X)4-S.aCG!!G)ZY )4b-g..Ch4XZa7g a)E-ZaC4.!.CG!4I!g)ZgXq-Z.XCg!4Ia)-I-gZZ49SSa)G-!GZ gq.! q-G4Iaa! SqGGZ4SqIaagGZ!)aGS.XC!.X4aqCa CICq)qGS.q4.!qaCCSa.g4Z(&qSXSZ4Sq-aqgGq4>)gI)gGC.CG. a4&qqaXI-!I0ZS-XZG4,a !gq!Z9!gIO^SXXqGX C  CjZ!IgSXXISGXgG! ))g4!!IwZSGX G  y)Z-g)SqQ.aCG!!!,G4g 4Zq))C-.. 4I!-!q%. g)  !)S-).g4.C0ZIH).-)GqGaZ-4ay4SqaIGa. Z).qG.GCGqCaaqII3g-ZZj4GqXa-G.!4)qga.4= -!XS )!GI.-4Z4Z! G-SX)X-A S4C.q4SqXaCC CIXq-). XCqqIeg-agCI!.1tSqgC44q4aag!a4gX!SIaSGgg42q4aG)X! t4S )zI- g)aq!.I-aaGC!!)!.gaXtGq.4Z - .IC-! I4gSZaqGZI))-g..C6!q-XgCX-Ea -)Z-4au4a!-I!g4ZgGGgg)q-X.CCGqIIqgZZ IZSa)G-!G!4SqaIKSZqCiCS XIqa.Z44qSsaG-Z!l)SgX.-ka!4X!SFZCIZ!(ZajXSGa.G4!q4agC.Z{mZSXXSG aI4ZqZa4CS!aFGaXX)- .q4EqZaXgq! IIS-XZ-  S)aqGaXC)! I.SXX.GX C) qaa-CX!4ISgaXZIa ))g-.aICq!)ICSz!CG- Z)4!G.IC-!!0C4.Z.Gs qg--C. 4IX-)Sg4ZSOa G)!q .gCIZGIqg)ZC;.SI)--Z.4CZqaIGg!ZCYgSI)&Zq.S4Cq aIg!ZZG-SS49qX.!44qg3CguZqkX.CXIGI.q4ZqCaS XZGG!.!XgG..rggqXagC )IA.SZX4GSIG4G!aa) g{)F:SqXXq!  4 q-I)S-!SIISG4qG) g).Z%a!CX!gI S^X--g 44.!)aGCX!)Ggg.XzGq.44-- a-C-!4I4gSZa-q.V))-a..S%!qIXgCZ -S -)X-4.I4a!qI!S)->K. p)qqG.C4.qI--SJZ4YSSagM-!:G4g!I.qgqZ)zC.aXI--.ZCg  aagqZ!-!SgX.-?.qaZqCa.CIZ!xZSCXSqcga4!q4agSCZ1DqSX4Cq) I4qqZaCCSZIAG X)GGg.r4V! aXCC! IISIXZGC S4GqGaXC)XgHZSzX!GX g) qaa-CZZ-ISSGXGG! ))g-.I-g.!XI.g X)G- Z)4!S)CCG!4I)gaZ.-Z q44ZC. C!!-ASg4ZSka.q4I-)ax4.!aIqgXZC-  g)--S.4CGqaI)g!))--S.)X-q. 4C!ZaIS!XGe4 -Xa-I.!4)qgc.gqZq<.SC)qGIa-4ZZ4ItCaZ4K!SaXg!X.z4qCXaCg0!I=CSZXgGS a!qq!a Cg!.EeS!XX-S.C)Iq4aZC.!SIaSG4!-I g4qq7aCCXXGI  GXaGZ I)SZ aGC!!)< SBXnGS X4X- .IC-Z)v.gSX)GG.G))-g..C8! IXgIZ G4 -))-4aSZ!!GICg)4S>. X)q-XQ)4 !&I-ggZ4(.SaCG!^.)4Sq.IGgqX4jCS 4q--.X44q.aag-Z!GC 4X.-G.qg4qCa CIX!/gS4X.Ga.!4!q)agC.XC*qS)XCGa I4qqZIggX!aw-S!4qGg .41ZqGGCC!.IISqXZ-C SCpCXa!Cg!gGXSQXqGX C4S-IaqCZ!SISSjXGq!.X)g-aatC!!Xc4g ZI-4 Z)S-S.aCG!!I)S XaGN ))XqG. 4I!-GZgSZSG- G)4-)aI4.Z-cqgXZav .Z)--Z.4C.-GIGggZ)G4S.)+-qIXXqq IZg-ZSy4 GXa!Ga44)!ja.gXZqnISC)a-X.-4 q4ICCaZG>!.)4-G..)4qq.aCg !I--  X4-- a44q!GsCg!.G SqXgGC.q)Iq!aZC4Z.IaSXX!G) g)aq:IZ)C!CT-gIX)GZ 4)S!a--C!!.IgSqXp-S X4Sq!.ICC!Z-XgSZaGG.XC!-gaZCoZgIXgCZ -G S)ZqG.SCS!GI!g)Zg-h 6)C-Xa-4 !GI-SZZa,S q)GZZ.)Ciq.I^SqZXLgS )!--.)44ZSGCgGZZB)SSX.q-.q4X4Xa g}Z-=)S4X Gaaq4.q)aSC.)-mqSXXC-a.I4-q)a4Ca!aHGS!X)-g .4Gqqa4CC!.II !)-G4  )a!.a!C)!gG.SCXqG) C).-IIqCZZg_4gaX!G!aP)g-.a6CqgXICg.ZIGZ Z)g-SIa!.!!I4ggZaG2.-)X-Cag4I!ZIZg4ZSLa G4X-C.gCG!8ISgXZCU .I4P-Z. 4S!-IGSCZ)G .X)f-4.XCIq aIg-X)GqSS)!-Ga-4)qga. ^X)xXSIX -Z.-4Sq4OSqCZGkgS))AG..C4q!4uCC ZX&- qX4GS agGq.a)gG!.E)Sq)XGCa 4)q-a C4Z-Ia.gX!G)a-).q!aqC.!CIagIX--G 44U-aaGC!!4IgSI) Gq  )CqG.IC-!ZG4S.ZaG) !).-gIZCmZZ4)gCXq=IIp)Z-4.Sg3SaI!gIZgqS K)q-XaSgZqIISgZXZPSSa)G-!aa4g!qI5g ZX3SS )Iq..Z4.qSGIgGZg2)Sg)S-N.!4Xqaa gGZ--Z -XSGI.G4Zq)I C.ZNG-SXXgG .G4-qXa4g.qGWGSZX)q  .4EqqI4-g! =GS-X4G4 S)aqG!qC)!SI.S-XqG) C4a< a-CX!4G)gaXGG!a)44-.aGCq!)ICS.ZI-!aG)4-a.agg!!I)ggZ.GS q))-C.I4I!!IZ 4XS%a -)!-4.gC !#IqSaZCFISI)--Z.44SZiICg!ZScg Z)z-q.XgC.)aIgXZZo SS4q-GaXS)qgI-gnXC<XSCX qG.44ZqaaSg ZG>!S)4g-).W4CqXaIC ZZ>-.Z4YGS.!4Gqga)gq!.G- ZXX-V  4.q-aZC4XSP.SGXSG).G).!OaqSX! I SXX-G  4g!-aaGI!!)Iag.X)Gq 4)C- gGC-!gI4gSZaG- !4C!q..CX!qISgCZ +Ia-)C-4aG4a!)I!SIZgGI .)q-..CCCqII-gZXgGISa)C-!yZ4gq.IzSZXvKC ZXI-I.Z44qSaagSZ!z.Sg)X-/.Z4X!CS-CIZ):ZaCXS-!.G4!XZagCaZT,4SXXSG aI4!qZaCCS!IYG XX)GgaG46q!aXCS! (=S-))q! S)IqG(XC)!gI. -X.GX S) q-a-CZ!4IS !XGGZ )) -.aGCqZ4Gqg XlG-aG)4-S.aSGXII)gSZ.GG q4)-CaaI!!-I4g4)!Ya G)!-)aG4.!GIqgCZCJaSIC--).44 qaI-g!XXEgS.)Z-q.C4Cq aIg-ZZGg.!Xa-Z.!4Iqga.g?)qG!SC)LGI.X4Z!.aSSLZ.7!S Xgqq.r4qqXIS)I!Iu4SZ)XGS a4GZ! GCgZqbhSCXXGI  CIqCaZCa!S8!SGX.G). 4!q9agCXZ)I gIX-qZ.I)SqZaGCS!)Hgg.4OG4 X4x- aXC-XaI4gSXCGG 4))qG..C-!qIXSCZ G! -)Z-4. 4aZq.)g)XQr. Z)q-X.Cg 4>I-gSZ4GGSa4C-!aCgGq.I)gqXqjCS XIq!aS44!qaa IZ!9)Sg)Iqm.q4IqCGgCIZ-sZS4XaGa.)4!!bagCIZ8Gq !XC-G ISqqZaaCS!aDCS!X4Gg.-4NqZaXSC))IISqXZGC SCnqGa!a!!gIaS=XZGX g) !GIrCZ!CIS.KXGG! )4 qIa7CZ!XI g ZIG- Z4g-S.ICG!XI)gSZ.--  )X-g. gS!-IZg4)S-X G)Z-).S4.ZGIqS4Xq7  -)-qa.44SqaIGu!Z)bSS.)q-q.44CZ gSg-ZX{4S Xaqy.!4)!Ga.gqZq/XSCX GIa!C!q4aICaZC,!S)Xgq.aZ4qqgaCgu!IG)SZ)g-. a4Xq!I.Cg!.7y ZX.GC.-)I!yaZC4!SGa  X!G. g4qqraCCXXCC)gIX4GZ a)Sq)aGgXX)IgS!X5-G X)C- IIgS!ZIIgSXZGG.!))!gagCN!gIXS_Z q4 -)Zq .SC-!GISg)Z }. v)S-X.a4 qII-gXZ4G..4)G-g.)4Iq.Iwgq)XJ S )Z--.S44ZqaaSqaZV) GX.-..q4XqCIaG Z-#.S44-Ga.G4!!COGC.ZCeqa!XCG  I4-!Ia4gG!a5gS!XCGg..4GqqaSCC).IIS4XZG4. )aq-a!C !gIISp4q-4 C).-IaqCZZgISgaXSG! 4)g-Ia5C!!XDS4IZIGq ZCg-S.aCGZX44ggZIG> X)X-C. 4IgGIZgCZSG_ G)Z-)a Xg!AI!gX)Zf SI)-!Z.a4SqIIGgZZ)GSS.4-q4.X4 q 34g-ZZ/4SS)--G.Z4)q.a.g-Zq-X -X -u.-4Xq4IgCaZG1.S)X.G..#4qqXaCgaZXu-SCX4-q a4Gq!D)qZ!.y!SqXgGCaG)I!!GZC4ZDIa )X!G) g4Iq)aqC !CyggIX-GZa4Cq-aa)C!!.IgSqXMqq.g)Cq-.IC4!ZyGgS)#G4 !)a-gaSCl!qIX C)XyI C)Z-I.SCa!GG!gaZgG! z)g-Xc-4 qIZ-gZZ %S Z)G-X.)4gIII/g4ZX1CS )N--a)gZqSI!gGZCO)SgX.!#a 4XqIa gZZ-G.S4).qX.G4Sq)G4C.ZtUq 4)4G .)4-!-a4CS!aGqS4X)-q .gaqqaXCC! G S-XSG4.!)aqqa!g)G5I.SZXq!) C4--Ia- q!4I gaXXG! C)g!.IgCq!)ICg.ZI-! Z)4qC.aC-!!ICggZaGs.Z4--C..4IX!IZg4ZS-A.X)!-C.gC9!tIqgXZCG)SI)q-Z.g4SqIIGSXZ.1gSa)dqI.X4Cq nI .ZZ*CSSXI-GaZ4)! Z-geZXsX.-X GI.-4ZZZaSCIZG=)S)X G.IV4 qXagC Z<V- !X4GS.44Gq)a)Cg!.^<Sq)4-   4qq-a.C4!SIa.G))G) a).q!aqgS!C,aSWX-Gg 4CG-aaGC!ZC..g.XXGq.!)C- .IS-GII4SGZaG) !).-gI.C)!qI gCX-yI S)Zqgag4a!4I!SZZgz. iCqqg.CCqqIICgZX4&S.a)--!.a4g!!I5  ZXNCSIXI-X.Z4IqSIpgGZ!G Sg)--w.q4Xqga SGqZ3ZSaXS-q.G4!q)Dg.aZJTCSXXIG a)4-!)I4CSZZ{Ga-X)Gg .C-!GaXgG! 2 S-XZG4..CGqGa.C)XGI.SEXqGXaq) qZa-Ca!4I.ga)GGS ))I-.GGCq! ICg )CG- X)4q=.aCq!!G)aXZ.GG q))-Caa4I!-I g4Z _a q)!-4.gCIZ4Iqg)ZC-aSI)--Zagg!qaIqg!Zg:gS.)5-q.44Cq.aIg!ZZWCSS)-qZ.!4)qgragxZ!^XS.ZXGI.-4Z4ga CIZGGXCgXgG..3CIqXaCC XI)qSZX4GS a4G!Za)g X!8=SZXX!G  )Iq-aZCg!SIaSGXXG)  ).ZTaXCX!CI gIX-!) 44.!!aGCX!)M!g.X=Gq XCq- .IC-!)I4g.ZaG).!))-g..a-!!I)gCZ wI XZI-4.S4aCqIZg4ZgGIgq)q-X.Cg4qII-gZ)4gXSa)G-!.)4gXZIp qIG^CS XI--.ZC-qSKm4!Z!:4SgCq-r.q4XZC=4CIZqUZSCXSqq.GCX!GagCIZKGISXXCG aICaqZagCSZb>G.IX)qg.C4}qZaXCS! -qS-4Z-G S4jqGaXC)X4I..+)aGX S) qGa-g4!4GS lXGGX )) -.DXCqXXGZg XGG- ))4Z4.agq!gI)g.Z.-  q)X-CI g-!-I4g4Zanaa )!!)aq4.!qIqgCZCq/SIC-q4.44aqaI!g!)Ztg..4Z-q.C4CqIaISZZZ-4.)Xa-!.!4gqgGqg7)qgqSCXIGI.Z4ZZ.aSSaX /!SgXg-%.*g!qXISga!IEXSZ4!GS a4GZ!h!CgZG&KS)XX!!  CI!GaZC !Sr-SG44G)ag4-qBa)CX!.I  .X-qZ.!)Sq-aGC4!)i.g.4yC! X).- aqC-XSI4 S)ZGG 4))-a..C !qIXg.Z GY -)C-4..4aZGjag)Zg{.aX)q-).CCcZ=I-gZZ4Z.SI)--!aCX.q.I#gqZ.QCS XI!- )44qSaagGZ!q)SgCqqC.q4XqC-ag3ZqfZS XS--SS4!q)ag.IZG0!SXX.fX I4-qZqgC !IcG X!gGg .4D!IaXCC! GISSXZG4 S)aqGIZC)Z O!SkXZGXIG) -Ia-CZZ4ISgaXGGX )) -.7:g%!XICg ZIG-I))4q.IQCG!XI)S!Z.Gv q)X-a. 4I!-I)g4Z Ba.q4S-).g4.Z IqgXZC- ag)--Z.44SqaU-g!XCG.S.)--qIa4Cq aIg-X-?4SSXa-q.!4Cqgf.S)ZqQXSCX GI}!4Z!gI7CaZqw! GXgG..r4qqIaCC !IL!SZXgGSaa4!q!a)Cg!.V( )XXGC. )Iq-aZCg!SIISGX!Sq g).qxa!CX!CI gIXSGZ 4)S!oGSC!!)IgS-XvGq XCC!X.IC-!ZI4gSXGGG.X4Z-g.ICK!)IXgCZ cI.Z)Z-4.SCc!GIXg))gG  b)q-X.C4 !GI- ZXZMSSa)G-!.)4Sq.I- gZX:SS XI--.Z44qS ZgGZ!^)S X.-G.q4X.Za CIZ-_XS4XSGa.G44q)agC.X-aXSXXCG .64-qZa4C.)ZEGSZX)Gg .4cqqaXI4! IIS-X)G4  )aqG4oC)!gI.SGXqGX C) qga-CZ!4<.CGXGGZ ))a-.a1CqZXSIg XMG- ))4-S.agq-)I)gSZ.G! q)X-CI 4G!-IXg4Z Ha q)!!.aG4.!GIqg.ZCx.SI)Z-Z. )ZqaIGg!ZaogSa)&-) E4Cq aIg ZZ:CSS4UK!.!44qgaag>Zq,XSSCqGI.!4Zq4aSCaZG/!GXXgGa.f4ZqXagC !ICaSZX4GS I4Gq!a)CS}G?dSqXXGCaa)Iq-aZCC!SIaSG)X-  g).qEq0CX!CI  GX GZ 4)SXZaGC!!)-b !XwGq X)I- aBC-)CI4gI!4GG !))qB..CG!qIgCqZ KI -) -4. 4a!GCzg)Zg_. G)q-X.CCa--I-gZZ4ZbSa)G-!I))Iq.I>gqZXVCSIXI--aV44qSaagqZ!/CSg)q-C.q4XqCICCIZq5ZS4XS--SS4!q)agggZDe!SXX.9X I4-qZIICS!ImG X!gGg .4<)4aXCC! GIaGXZG4 S)aqG-XC)XgjqSJXqGX C) q)a-CZ XISgaXGGX ))S-.I-g!!XICg g!G- Z)4!SaPCG!!I)ggZ.Gq q)XqX. 4I!-I)g4Z._a )4a-).g4.Z)Iqg)ZCb.SI)X3I.44Sqa&4g!Z4Qg GZg-q.X4C!CaIgqZZGgCaXa-G.!  qga.gm)q{SSCX GI.-4Z4AaS !X.*!S)XgqS.84!qX?aC Zqa SZX4GSa 4GqZa)Cg-X;cSqXXGg  )Iq-I)qX!SIaSG)XG) g).q!I&CX!CI . X-GX 44.GGaGC!!)qIg.X&GqaXXS- .IC-!ZI4IqZaq).X))-g..Sq!qI)gC4afI XZI-4.S4aX!I!g4ZgGGgg)q-X.CS-qIIqgZZ4a!Sa)G-!.44gq.I1SZI!2CS XIqS.Z44qSI-S4Z!0)SgCg-E.!4X!S ICIZ-cZI.XSGa.Gg!-CagC.ZPhqSXSGG IZCqqZa4CS)C_GSZX)X. .4!G.aXCC! -gS-XXG4 IX4qGa!C)))I.SGXqGXg-) -Ia-CX!4ISga)q 4 ))g-.GgCq!XICSa!-G- Z)4)^.aCG!!G)q)Z.G_ q)X-Cqh4IZ!IIg4Z.AaIC)!-).g4.ZgIqgXZCyaSI)!-ZaggGqaI-g!C mgS.)%!qag4Cq.aIgqZZZ SS42q .!4gqg}CgnZqVXSC)CGI.q4ZqSaSgNZG-! aXgGa.F4!qXqqC XIqGSZXCGS I4GqCa)SgZS}9S!XXGg  4Iq-aS)4!S#GSGX!G) S).qGaqCX.4I gIX-GZ 4)S-aaG4q!)ISg.XqGq ))CqaI C-!XI4I(ZaGG !C)q^..CG!qI)gCS3PI.!))-4.a4a)XI!g)Zg>. 4)q-).C4IqII!gZ)4/ Sa)--!.44g)aIV qX=sCS.XI-q.ZC4qSI% 4Z!bgSgXI-#.q4XqC.SCIZqjZSSXSGI.GCXq.agCaZ9!4SXXCG aI4 qZaCCS!ItGr4X)- a!49qXaX a! IIS-XZG  S)IqGa)C)! I..yXgGX g) q2a-.S!4GSS-XGGZ ))S-.IKCq!4-eg X-G- C)4-S.aCGZpI)gSZ.Gq q))-Caag!!-IXg4gQna G)!!)IZ4.!GIqg)ZC!)SIC-qX.44 qaI-g!Z4fg I)--q.C4C) aIg-ZZN4.4Xa-Z.!4)qgI8g<4qG)SC)wGI-!4ZZ4aS aZ 7!SSXg! .Vg qXGCg)!IwXSZCaGSIZ4Gq!SaCg!a{7S)XXGg  4GZCaZCC!SIISGX!G). .-qDa!CXXqI gIX--)aq)S-IaG.-!)Igg.)--- X)S- -!C-!ZI4 S))GG X))- ..CI!qH4S4Z Gq - g-4.S4a!GTZg)Z _. !)q-X.C4 !ZI-gXZ4>SSa)q-!.)>Zq.IGgqZ)yCSaXIq!-q44q.aaaXZ!Q)Sg4.-4.q44qCaaCIXafZ.44-Ga.q4!qCaga)Zv-q aXCGI I4qqZ1gCS!a* S!X Gg .4?q)aX CXZIIS)XZ!X SCZqGG!S-!g+-SlX GXG-) ZIa.CZ!.ISS4XGqa )gg-YaLC4!XmXg g4G- Z4--SaGCG!CI)g Z.q=.U)X-.. C^!--Gg4ZS-X G)g-).g4.!!Iq.XZaL  Z)-Zq.4C-qajq HZ)GGS.4.-q.X4CZ ICg-Z.p4S.Xa!I.!CCZqa.gCZq!gSCX GI.-4Sq4I-CaZ4i! MXg-.aM4qq aCS.!INCSZC4-- a4)q!-gCgX.p8aq).GC.-)IqXaZ q!SIa !X!GS g4qqja!CXXCI.gIXXGZ S)S)IaGC!XSIgSqX1Gq X) - yIg !ZIagS4 GGGQ))Zg!ICO!CIXISZ q  -gZqa.SC!!GGgg)gqD. c44-X..4 !ZI-g)Z4-S.X)G-C.)4aq.-pgqZX8SS )X--.Z44q aa.GXav) GX.!a.qgZqCa SXZ-BgS4)-Ga.q4!Z)GZC.ZX#qS)XC!4 I4-ZCa4gq!a5GS!XSGgI.CGqqaaCC)gIIIGXZ!44C)aqCa!S4!gGvSnCq-  C4!-I-ZCZX4IS.a)4G! I)gqGa,Sa!XICSaZIG4 Z4d-S.ICG!!ICggXqGB.Z)X-C. gGqCIZgIZS!G G)!-)a gC!JISgXg!T SI)-q)a)4S!)IGggZ)igS.4-q-.XCqq kzg-ZZd4 .4G-G.I4))Xa.g5ZqG4.qX -S.-.Sq4aSCaXqGGS)))G.Ga4qqXaCga!Xf- qX4G. a4Gq!ICgg!.}ISq4aGC  )I!!aCC4ZSIaWGX!G) g4I!Caqg)!CM)gIX-GZ.g4g-aIqC!4iIgg.XW-Za?)CqI.I.C!ZI4gS)5-X !4S-gIZCj!qIXSS!g_I.))Z)).S4a!G=X OZg-q hg!-X.C4 ZGIagZXINS. )G-!.)C Z4I_SSZX-.S XI--a)CCqSy)gGCGu)SgX.-?aC4XqIa S4Z-wXS44S!C.G4Sq)aaC.XX6qSX4.G .44-qZa4C.!aqG 4X)-q .gaqqAGCC!a-XS-XIG4.o)aqGa!g)aCI.SCXqX. C4X-Ia-gX!4i-gaXgG! 4)g!.I Cq!.ICS&ZI-p Z)4q-.aCg!!I)ggXxG1IqCq-CaZ4I)8IZS.ZSqa !)!q_.gS*!0q gXZSqqSI) -Z.a4SqaIGS!IXDg X)_)g.XCqq aIgSZZcISS))-G.Z4)ZgIqgiZg^XS.X -..-4Z!.aSg)ZG{!S)X.G.U*CSqXI-C ).>- CX4!Sa>4Gq.a)S.!.-gSqX4!=  4Cq-a4C4!SIa G+qG).q).4)aqgV!CI SSX-G  44!-aa-C!X)Kqg.X)Gq g)Cqg.IC-!aI4S!ZaGG !)g-gv.g4!qIIgC4g1I a)ZZ4a!4a!gI! gZgZX ;)Z!..CCXqIICgZZ4?S aG--!af4gC!I1g.ZXUC qXI-C.ZCGqSaIgGZ!o4SgX.-p.!4XqCa CI");local a=0;k.Iwyp_Qcc(function()k.xlpdkXoq()a=a+1 end)local function e(n,e)if e then return a end;a=n+a;end local n,a,o=f(0,f,e,h,k.TGfUbGHW);local function t()local n,a=k.TGfUbGHW(h,e(1,3),e(5,6)+2);e(2);return(a*256)+n;end;local b=true;local b=0 local function _()local e=a();local a=a();local d=1;local g=(n(a,1,20)*(2^32))+e;local e=n(a,21,31);local a=((-1)^n(a,32));if(e==0)then if(g==b)then return a*0;else e=1;d=0;end;elseif(e==2047)then return(g==0)and(a*(1/0))or(a*(0/0));end;return k.jgFnyubi(a,e-1023)*(d+(g/(2^52)));end;local u=a;local function p(a)local n;if(not a)then a=u();if(a==0)then return'';end;end;n=k.hOHmRsCe(h,e(1,3),e(5,6)+a-1);e(a)local e=""for a=(1+b),#n do e=e..k.hOHmRsCe(n,a,a)end return e;end;local u=#k.vbsbRKsu(s('\49.\48'))~=1 local e=a;local function ae(...)return{...},k._VAPtXyA('#',...)end local function ne()local e={};local h={};local b={};local s={b,h,nil,e};local e=a()local f={}for g=1,e do local n=o();local e;if(n==2)then e=(o()~=#{});elseif(n==0)then local a=_();if u and k.PCBtpesj(k.vbsbRKsu(a),'.(\48+)$')then a=k.WWTVYixf(a);end e=a;elseif(n==3)then e=p();end;f[g]=e;end;for e=1,a()do h[e-(#{1})]=ne();end;for s=1,a()do local e=o();if(n(e,1,1)==0)then local h=n(e,2,3);local r=n(e,4,6);local e={t(),t(),nil,nil};if(h==0)then e[d]=t();e[l]=t();elseif(h==#{1})then e[d]=a();elseif(h==c[2])then e[d]=a()-(2^16)elseif(h==c[3])then e[d]=a()-(2^16)e[l]=t();end;if(n(r,1,1)==1)then e[g]=f[e[g]]end if(n(r,2,2)==1)then e[d]=f[e[d]]end if(n(r,3,3)==1)then e[l]=f[e[l]]end b[s]=e;end end;s[3]=o();return s;end;local function ge(n,e,a)local g=e;local g=a;return s(k.PCBtpesj(k.PCBtpesj(({k.Iwyp_Qcc(n)})[2],e),a))end local function p(m,o,h)local function ge(...)local t,u,_,ne,b,a,s,z,j,ee,c,n;local e=0;while-1<e do if 2>=e then if e<=0 then t=f(6,92,1,38,m);u=f(6,62,2,23,m);else if-3<e then repeat if e<2 then _=f(6,28,3,95,m);b=ae ne=0;break;end;a=-41;s=-1;until true;else _=f(6,28,3,95,m);b=ae ne=0;end end else if e<5 then if 0<=e then repeat if e<4 then z={};j={...};break;end;ee=k._VAPtXyA('#',...)-1;c={};until true;else z={};j={...};end else if 6~=e then n=f(7);else e=-2;end end end e=e+1;end;for e=0,ee do if(e>=_)then z[e-_]=j[e+1];else n[e]=j[e+1];end;end;local e=ee-_+1 local e;local f;local function _(...)while true do end end while true do if a<-40 then a=a+42 end e=t[a];f=e[y];if 127>=f then if 64<=f then if 96>f then if f<=79 then if 72>f then if 67>=f then if 65>=f then if f>61 then repeat if f~=64 then local f;for h=0,6 do if h<3 then if 1>h then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if-1<h then for l=24,73 do if 2~=h then n(e[g],e[d]);a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];break;end;else n(e[g],e[d]);a=a+1;e=t[a];end end else if h>=5 then if h~=2 then for o=11,57 do if h~=6 then n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))break;end;else n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];end else if-1<h then for l=15,76 do if h~=4 then n(e[g],e[d]);a=a+1;e=t[a];break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];break;end;else f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];end end end end break;end;for l=0,1 do if l==0 then h[e[d]]=n[e[g]];a=a+1;e=t[a];else a=e[d];end end until true;else local f;for h=0,6 do if h<3 then if 1>h then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if-1<h then for l=24,73 do if 2~=h then n(e[g],e[d]);a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];break;end;else n(e[g],e[d]);a=a+1;e=t[a];end end else if h>=5 then if h~=2 then for o=11,57 do if h~=6 then n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))break;end;else n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];end else if-1<h then for l=15,76 do if h~=4 then n(e[g],e[d]);a=a+1;e=t[a];break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];break;end;else f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];end end end end end else if f<67 then n[e[g]]={};else local g=e[g];local t=n[g]local l=n[g+2];if(l>0)then if(t>n[g+1])then a=e[d];else n[g+3]=t;end elseif(t<n[g+1])then a=e[d];else n[g+3]=t;end end end else if 70<=f then if 67<=f then repeat if 70~=f then local t=e[g];local g={};for e=1,#c do local e=c[e];for a=0,#e do local a=e[a];local d=a[1];local e=a[2];if d==n and e>=t then g[e]=d[e];a[1]=g;end;end;end;break;end;local e=e[g]n[e]=n[e](r(n,e+1,s))until true;else local e=e[g]n[e]=n[e](r(n,e+1,s))end else if f>=67 then for r=13,69 do if f>68 then for f=0,4 do if 2>f then if f~=-3 then for h=27,67 do if 0<f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;else n[e[g]]=o[e[d]];a=a+1;e=t[a];end else if f>2 then if f~=0 then for h=32,84 do if f~=4 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;if n[e[g]]then a=a+1;else a=e[d];end;break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end break;end;for f=0,6 do if 3<=f then if 5>f then if f>=2 then for r=26,74 do if f~=4 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if f~=3 then repeat if f~=5 then n[e[g]]=n[e[d]][e[l]];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];end end else if f>=1 then if f>1 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end break;end;else for f=0,6 do if 3<=f then if 5>f then if f>=2 then for r=26,74 do if f~=4 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if f~=3 then repeat if f~=5 then n[e[g]]=n[e[d]][e[l]];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];end end else if f>=1 then if f>1 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end end end else if 75>=f then if 73>=f then if f>=70 then for r=38,60 do if f>72 then local a=e[g]local g,e=b(n[a]())s=e+a-1 local e=0;for a=a,s do e=e+1;n[a]=g[e];end;break;end;for f=0,6 do if f<=2 then if 1>f then n[e[g]]=h[e[d]];a=a+1;e=t[a];else if-2<f then for h=23,97 do if 1~=f then n[e[g]]=n[e[d]]^n[e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]]^n[e[l]];a=a+1;e=t[a];end end else if 4<f then if 6>f then n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];else n[e[g]]=o[e[d]];end else if f==3 then n[e[g]]=n[e[d]]^n[e[l]];a=a+1;e=t[a];else n[e[g]]=-n[e[d]];a=a+1;e=t[a];end end end end break;end;else for f=0,6 do if f<=2 then if 1>f then n[e[g]]=h[e[d]];a=a+1;e=t[a];else if-2<f then for h=23,97 do if 1~=f then n[e[g]]=n[e[d]]^n[e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]]^n[e[l]];a=a+1;e=t[a];end end else if 4<f then if 6>f then n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];else n[e[g]]=o[e[d]];end else if f==3 then n[e[g]]=n[e[d]]^n[e[l]];a=a+1;e=t[a];else n[e[g]]=-n[e[d]];a=a+1;e=t[a];end end end end end else if f~=73 then for o=44,74 do if 75~=f then local o,b,s,k,c,f,u;for f=0,6 do if f<3 then if f<1 then n[e[g]]=h[e[d]];a=a+1;e=t[a];else if-1<f then repeat if f~=1 then f=0;while f>-1 do if 3<=f then if 5>f then if f>1 then repeat if 3<f then c=o[b];break;end;k=o[s];until true;else k=o[s];end else if 5<f then f=-2;else n(c,k);end end else if 0>=f then o=e;else if-1<f then for e=47,97 do if 2~=f then b=g;break;end;s=d;break;end;else b=g;end end end f=f+1 end a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else f=0;while f>-1 do if 3<=f then if 5>f then if f>1 then repeat if 3<f then c=o[b];break;end;k=o[s];until true;else k=o[s];end else if 5<f then f=-2;else n(c,k);end end else if 0>=f then o=e;else if-1<f then for e=47,97 do if 2~=f then b=g;break;end;s=d;break;end;else b=g;end end end f=f+1 end a=a+1;e=t[a];end end else if 4>=f then if 0<f then for l=41,82 do if 4>f then n(e[g],e[d]);a=a+1;e=t[a];break;end;u=e[g]n[u]=n[u](r(n,u+1,e[d]))a=a+1;e=t[a];break;end;else n(e[g],e[d]);a=a+1;e=t[a];end else if 1<=f then for r=11,81 do if f~=6 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];break;end;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end end end end break;end;local f;for o=0,6 do if o>=3 then if o>=5 then if o>=4 then for l=33,82 do if o~=5 then f=e[g]n[f](r(n,f+1,e[d]))break;end;n[e[g]]=n[e[d]];a=a+1;e=t[a];break;end;else f=e[g]n[f](r(n,f+1,e[d]))end else if 4==o then f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];else n[e[g]]=n[e[d]]*e[l];a=a+1;e=t[a];end end else if 0>=o then n[e[g]]=h[e[d]];a=a+1;e=t[a];else if o==1 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=n[e[d]]/e[l];a=a+1;e=t[a];end end end end break;end;else local f;for o=0,6 do if o>=3 then if o>=5 then if o>=4 then for l=33,82 do if o~=5 then f=e[g]n[f](r(n,f+1,e[d]))break;end;n[e[g]]=n[e[d]];a=a+1;e=t[a];break;end;else f=e[g]n[f](r(n,f+1,e[d]))end else if 4==o then f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];else n[e[g]]=n[e[d]]*e[l];a=a+1;e=t[a];end end else if 0>=o then n[e[g]]=h[e[d]];a=a+1;e=t[a];else if o==1 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=n[e[d]]/e[l];a=a+1;e=t[a];end end end end end end else if 77>=f then if f>=75 then repeat if f~=77 then n[e[g]]=n[e[d]][n[e[l]]];break;end;local f,r;f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];f=e[g];r=n[e[d]];n[f+1]=r;n[f]=r[e[l]];a=a+1;e=t[a];n(e[g],e[d]);until true;else local f,r;f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];f=e[g];r=n[e[d]];n[f+1]=r;n[f]=r[e[l]];a=a+1;e=t[a];n(e[g],e[d]);end else if 79~=f then local r,f;n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];r=e[g];f=n[e[d]];n[r+1]=f;n[r]=f[e[l]];a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]][e[d]]=e[l];a=a+1;e=t[a];n[e[g]][e[d]]=e[l];else n[e[g]]=p(u[e[d]],nil,h);end end end end else if f<=87 then if f<=83 then if 82>f then if f~=79 then repeat if 81>f then local e=e[g]n[e]=n[e](n[e+1])break;end;local g=e[g];local l=e[l];local t=g+2 local g={n[g](n[g+1],n[t])};for e=1,l do n[t+e]=g[e];end;local g=g[1]if g then n[t]=g a=e[d];else a=a+1;end;until true;else local e=e[g]n[e]=n[e](n[e+1])end else if f>82 then n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]]*n[e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]]-n[e[l]];a=a+1;e=t[a];o[e[d]]=n[e[g]];a=a+1;e=t[a];do return end;else local g=e[g];local l=n[g+2];local t=n[g]+l;n[g]=t;if(l>0)then if(t<=n[g+1])then a=e[d];n[g+3]=t;end elseif(t>=n[g+1])then a=e[d];n[g+3]=t;end end end else if 85>=f then if f==85 then local f,k,u,c,o;h[e[d]]=n[e[g]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];f=e[g];k=n[e[d]];n[f+1]=k;n[f]=k[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]u,c=b(n[f](r(n,f+1,e[d])))s=c+f-1 o=0;for e=f,s do o=o+1;n[e]=u[o];end;a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,s))else local f,s,o;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]];a=a+1;e=t[a];f=e[g]s={n[f](n[f+1])};o=0;for e=f,e[l]do o=o+1;n[e]=s[o];end a=a+1;e=t[a];a=e[d];end else if 85<=f then repeat if 86~=f then local o;for f=0,6 do if f>2 then if f<5 then if f>2 then repeat if 4>f then n(e[g],e[d]);a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]];a=a+1;e=t[a];until true;else n(e[g],e[d]);a=a+1;e=t[a];end else if 4<=f then for l=22,61 do if 5<f then n[e[g]]=h[e[d]];break;end;o=e[g]n[o](r(n,o+1,e[d]))a=a+1;e=t[a];break;end;else n[e[g]]=h[e[d]];end end else if f<=0 then n[e[g]]=h[e[d]];a=a+1;e=t[a];else if 2>f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end break;end;for l=0,6 do if 3>l then if l>0 then if-2<=l then for f=21,83 do if l<2 then n(e[g],e[d]);a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];break;end;else n(e[g],e[d]);a=a+1;e=t[a];end else n(e[g],e[d]);a=a+1;e=t[a];end else if 4>=l then if l~=1 then for f=21,89 do if l<4 then n(e[g],e[d]);a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];break;end;else n(e[g],e[d]);a=a+1;e=t[a];end else if 6==l then n(e[g],e[d]);else n(e[g],e[d]);a=a+1;e=t[a];end end end end until true;else for l=0,6 do if 3>l then if l>0 then if-2<=l then for f=21,83 do if l<2 then n(e[g],e[d]);a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];break;end;else n(e[g],e[d]);a=a+1;e=t[a];end else n(e[g],e[d]);a=a+1;e=t[a];end else if 4>=l then if l~=1 then for f=21,89 do if l<4 then n(e[g],e[d]);a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];break;end;else n(e[g],e[d]);a=a+1;e=t[a];end else if 6==l then n(e[g],e[d]);else n(e[g],e[d]);a=a+1;e=t[a];end end end end end end end else if f<=91 then if f<=89 then if 89~=f then local g=e[g]local d={n[g](n[g+1])};local a=0;for e=g,e[l]do a=a+1;n[e]=d[a];end else local f,o;for h=0,6 do if h>2 then if 4<h then if 2<h then repeat if 5~=h then if n[e[g]]then a=a+1;else a=e[d];end;break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];until true;else f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];end else if-1<=h then for r=49,74 do if 4~=h then f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];break;end;else f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];end end else if h>=1 then if h==1 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end else if f~=89 then for h=46,87 do if f>90 then local f,c,k,o;for h=0,4 do if h>=2 then if h>=3 then if h>3 then n[e[g]]=n[e[d]][e[l]];else f=e[g]n[f]=n[f](r(n,f+1,s))a=a+1;e=t[a];end else f=e[g]c,k=b(n[f](n[f+1]))s=k+f-1 o=0;for e=f,s do o=o+1;n[e]=c[o];end;a=a+1;e=t[a];end else if-1~=h then for f=30,74 do if h~=0 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end break;end;n[e[g]]={};break;end;else n[e[g]]={};end end else if f<=93 then if 89<=f then repeat if f~=93 then n[e[g]]();a=a+1;e=t[a];n[e[g]]=n[e[d]]+e[l];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n[e[g]]=n[e[d]];break;end;for f=0,6 do if f<=2 then if 1<=f then if 1==f then n[e[g]]=n[e[d]]+e[l];a=a+1;e=t[a];else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else n[e[g]]();a=a+1;e=t[a];end else if f>=5 then if 6==f then n[e[g]]=n[e[d]];else n(e[g],e[d]);a=a+1;e=t[a];end else if 1<=f then for h=32,78 do if f<4 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end until true;else n[e[g]]();a=a+1;e=t[a];n[e[g]]=n[e[d]]+e[l];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n[e[g]]=n[e[d]];end else if 94<f then local e=e[g]n[e](n[e+1])else local f,o;for h=0,6 do if h>2 then if 5<=h then if h~=4 then for l=47,69 do if h>5 then if not n[e[g]]then a=a+1;else a=e[d];end;break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];break;end;else f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];end else if 4==h then n(e[g],e[d]);a=a+1;e=t[a];else f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];end end else if h>0 then if h>0 then repeat if h>1 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end end end end end else if f<112 then if 104<=f then if f>=108 then if f<110 then if f>=104 then for s=46,77 do if 108<f then local o,b,s,u,k,c,p,f;o=e[g];b=n[e[d]];n[o+1]=b;n[o]=b[e[l]];a=a+1;e=t[a];f=0;while f>-1 do if f>=3 then if 4>=f then if f~=0 then for e=41,64 do if f<4 then c=s[k];break;end;p=s[u];break;end;else p=s[u];end else if f>5 then f=-2;else n(p,c);end end else if f>0 then if f>0 then for e=16,94 do if f<2 then u=g;break;end;k=d;break;end;else k=d;end else s=e;end end f=f+1 end a=a+1;e=t[a];o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];o=e[g];b=n[e[d]];n[o+1]=b;n[o]=b[e[l]];a=a+1;e=t[a];f=0;while f>-1 do if f>2 then if 5<=f then if 6==f then f=-2;else n(p,c);end else if f>=2 then for e=27,98 do if f>3 then p=s[u];break;end;c=s[k];break;end;else c=s[k];end end else if 0<f then if 2>f then u=g;else k=d;end else s=e;end end f=f+1 end a=a+1;e=t[a];n[e[g]]=h[e[d]];break;end;for f=0,6 do if 2>=f then if f>0 then if f>-1 then for h=46,84 do if f~=2 then n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]][e[d]]=e[l];a=a+1;e=t[a];end else if f>4 then if f>2 then for h=21,91 do if f~=6 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]][e[d]]=e[l];break;end;else n[e[g]][e[d]]=e[l];end else if f>=-1 then for h=43,89 do if f~=3 then n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;n[e[g]][e[d]]=e[l];a=a+1;e=t[a];break;end;else n[e[g]][e[d]]=e[l];a=a+1;e=t[a];end end end end break;end;else for f=0,6 do if 2>=f then if f>0 then if f>-1 then for h=46,84 do if f~=2 then n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]][e[d]]=e[l];a=a+1;e=t[a];end else if f>4 then if f>2 then for h=21,91 do if f~=6 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]][e[d]]=e[l];break;end;else n[e[g]][e[d]]=e[l];end else if f>=-1 then for h=43,89 do if f~=3 then n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;n[e[g]][e[d]]=e[l];a=a+1;e=t[a];break;end;else n[e[g]][e[d]]=e[l];a=a+1;e=t[a];end end end end end else if f>=107 then repeat if 111>f then n[e[g]]=n[e[d]]+n[e[l]];break;end;do return n[e[g]]end until true;else n[e[g]]=n[e[d]]+n[e[l]];end end else if f<=105 then if 100<f then repeat if f>104 then local f;for r=0,6 do if r<=2 then if 0>=r then h[e[d]]=n[e[g]];a=a+1;e=t[a];else if r==1 then n[e[g]]=h[e[d]];a=a+1;e=t[a];else n[e[g]]=h[e[d]];a=a+1;e=t[a];end end else if 5<=r then if 2~=r then for h=31,92 do if 6~=r then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;f=e[g]n[f]=n[f](n[f+1])break;end;else f=e[g]n[f]=n[f](n[f+1])end else if 3~=r then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end break;end;local f,r,s;for h=0,5 do if h<3 then if 1<=h then if h<2 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n(e[g],e[d]);a=a+1;e=t[a];end else n[e[g]]=o[e[d]];a=a+1;e=t[a];end else if 3<h then if h>2 then repeat if h>4 then f=e[g];r=n[f]s=n[f+2];if(s>0)then if(r>n[f+1])then a=e[d];else n[f+3]=r;end elseif(r<n[f+1])then a=e[d];else n[f+3]=r;end break;end;n(e[g],e[d]);a=a+1;e=t[a];until true;else n(e[g],e[d]);a=a+1;e=t[a];end else n(e[g],e[d]);a=a+1;e=t[a];end end end until true;else local f,r,s;for h=0,5 do if h<3 then if 1<=h then if h<2 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n(e[g],e[d]);a=a+1;e=t[a];end else n[e[g]]=o[e[d]];a=a+1;e=t[a];end else if 3<h then if h>2 then repeat if h>4 then f=e[g];r=n[f]s=n[f+2];if(s>0)then if(r>n[f+1])then a=e[d];else n[f+3]=r;end elseif(r<n[f+1])then a=e[d];else n[f+3]=r;end break;end;n(e[g],e[d]);a=a+1;e=t[a];until true;else n(e[g],e[d]);a=a+1;e=t[a];end else n(e[g],e[d]);a=a+1;e=t[a];end end end end else if 105<=f then repeat if f>106 then n(e[g],e[d]);break;end;n[e[g]]=n[e[d]]*n[e[l]];until true;else n(e[g],e[d]);end end end else if f>=100 then if 102>f then if f<101 then local f,s;for o=0,6 do if o>2 then if 4<o then if 6>o then f=e[g]n[f](n[f+1])a=a+1;e=t[a];else n[e[g]]=h[e[d]];end else if o>=-1 then for l=46,52 do if 3<o then n(e[g],e[d]);a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;else n(e[g],e[d]);a=a+1;e=t[a];end end else if o>=1 then if-3<o then repeat if o<2 then f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];break;end;f=e[g]n[f](n[f+1])a=a+1;e=t[a];until true;else f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];end else f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];end end end else local f,s;for o=0,6 do if o<=2 then if 0>=o then n(e[g],e[d]);a=a+1;e=t[a];else if o>-1 then for h=16,81 do if 2>o then f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];break;end;f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];break;end;else f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];end end else if o<=4 then if-1<=o then repeat if 4>o then n[e[g]]=n[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];until true;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if o==5 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n(e[g],e[d]);end end end end end else if f~=103 then if(n[e[g]]==n[e[l]])then a=a+1;else a=e[d];end;else local a=e[g]local g,e=b(n[a](r(n,a+1,e[d])))s=e+a-1 local e=0;for a=a,s do e=e+1;n[a]=g[e];end;end end else if 97<f then if f~=94 then repeat if 98<f then n[e[g]]=n[e[d]]*e[l];break;end;local a=e[g]n[a](r(n,a+1,e[d]))until true;else n[e[g]]=n[e[d]]*e[l];end else if 92<=f then repeat if 97~=f then local a=e[g]n[a]=n[a](r(n,a+1,e[d]))break;end;local s=u[e[d]];local r;local f={};r=k.MhOPJbdO({},{__index=function(a,e)local e=f[e];return e[1][e[2]];end,__newindex=function(n,e,a)local e=f[e]e[1][e[2]]=a;end;});for g=1,e[l]do a=a+1;local e=t[a];if e[y]==143 then f[g-1]={n,e[d]};else f[g-1]={o,e[d]};end;c[#c+1]=f;end;n[e[g]]=p(s,r,h);until true;else local a=e[g]n[a]=n[a](r(n,a+1,e[d]))end end end end else if 119>=f then if f<=115 then if 114<=f then if 112<f then for h=35,92 do if 115>f then local f,h;n[e[g]][e[d]]=e[l];a=a+1;e=t[a];n[e[g]][e[d]]=e[l];a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]][e[d]]=e[l];a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))break;end;local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]][n[e[d]]]=e[l];break;end;else local f,h;n[e[g]][e[d]]=e[l];a=a+1;e=t[a];n[e[g]][e[d]]=e[l];a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]][e[d]]=e[l];a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))end else if f~=109 then for h=29,98 do if 112~=f then local f,h;f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];if n[e[g]]then a=a+1;else a=e[d];end;break;end;n[e[g]]=n[e[d]]%e[l];break;end;else local f,h;f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];if n[e[g]]then a=a+1;else a=e[d];end;end end else if f>=118 then if 117<f then repeat if 119~=f then local h;for f=0,6 do if 2>=f then if 0>=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if 0<=f then repeat if 1<f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end else if f<=4 then if 3<f then h=e[g]n[h](r(n,h+1,e[d]))a=a+1;e=t[a];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if 4<=f then for h=18,68 do if f~=6 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]][n[e[d]]]=e[l];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end break;end;n[e[g]][e[d]]=e[l];until true;else n[e[g]][e[d]]=e[l];end else if f>=112 then repeat if f<117 then n[e[g]]=n[e[d]]%n[e[l]];break;end;local f,o;for r=0,6 do if 3>r then if 0>=r then f=e[g]n[f](n[f+1])a=a+1;e=t[a];else if r>0 then for l=20,93 do if 2~=r then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];break;end;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end end else if 5>r then if 3<r then n[e[g]]=h[e[d]];a=a+1;e=t[a];else f=e[g]n[f](n[f+1])a=a+1;e=t[a];end else if 4<r then for h=35,73 do if r>5 then n(e[g],e[d]);break;end;f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];break;end;else f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];end end end end until true;else n[e[g]]=n[e[d]]%n[e[l]];end end end else if f>123 then if 126<=f then if 123<f then for o=19,53 do if 126~=f then local f;for l=0,4 do if 2>l then if-1<l then repeat if l~=1 then n(e[g],e[d]);a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]];a=a+1;e=t[a];until true;else n(e[g],e[d]);a=a+1;e=t[a];end else if l<=2 then n[e[g]]=n[e[d]];a=a+1;e=t[a];else if l==3 then n(e[g],e[d]);a=a+1;e=t[a];else f=e[g]n[f](r(n,f+1,e[d]))end end end end break;end;local f,o;for r=0,4 do if r>=2 then if r>2 then if r>=1 then for l=19,66 do if r~=3 then if not n[e[g]]then a=a+1;else a=e[d];end;break;end;f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];break;end;else if not n[e[g]]then a=a+1;else a=e[d];end;end else f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];end else if-4<=r then repeat if 1>r then f=e[g]n[f](n[f+1])a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];until true;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end end end break;end;else local f,o;for r=0,4 do if r>=2 then if r>2 then if r>=1 then for l=19,66 do if r~=3 then if not n[e[g]]then a=a+1;else a=e[d];end;break;end;f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];break;end;else if not n[e[g]]then a=a+1;else a=e[d];end;end else f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];end else if-4<=r then repeat if 1>r then f=e[g]n[f](n[f+1])a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];until true;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end end end end else if 123<f then for h=27,68 do if 124<f then local o,k,s,b,u,h,f,c;n(e[g],e[d]);a=a+1;e=t[a];h=0;while h>-1 do if h>=3 then if 5<=h then if 6~=h then n(u,b);else h=-2;end else if 1<h then for e=27,79 do if 4~=h then b=o[s];break;end;u=o[k];break;end;else b=o[s];end end else if 1>h then o=e;else if 0~=h then for e=20,89 do if 1~=h then s=d;break;end;k=g;break;end;else k=g;end end end h=h+1 end a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];c=n[e[d]];n[f+1]=c;n[f]=c[e[l]];a=a+1;e=t[a];f=e[g]n[f](n[f+1])break;end;local l;for f=0,4 do if 2>f then if f==1 then n[e[g]]=n[e[d]];a=a+1;e=t[a];else n(e[g],e[d]);a=a+1;e=t[a];end else if f>=3 then if-1~=f then for h=17,80 do if f<4 then n(e[g],e[d]);a=a+1;e=t[a];break;end;l=e[g]n[l](r(n,l+1,e[d]))break;end;else l=e[g]n[l](r(n,l+1,e[d]))end else n[e[g]]=n[e[d]];a=a+1;e=t[a];end end end break;end;else local l;for f=0,4 do if 2>f then if f==1 then n[e[g]]=n[e[d]];a=a+1;e=t[a];else n(e[g],e[d]);a=a+1;e=t[a];end else if f>=3 then if-1~=f then for h=17,80 do if f<4 then n(e[g],e[d]);a=a+1;e=t[a];break;end;l=e[g]n[l](r(n,l+1,e[d]))break;end;else l=e[g]n[l](r(n,l+1,e[d]))end else n[e[g]]=n[e[d]];a=a+1;e=t[a];end end end end end else if f<=121 then if f~=120 then local f,s;for h=0,6 do if 2>=h then if 0<h then if h>0 then for f=29,90 do if h~=1 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else f=e[g]n[f](n[f+1])a=a+1;e=t[a];end else if 4<h then if 4<=h then repeat if 6>h then f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];break;end;if n[e[g]]then a=a+1;else a=e[d];end;until true;else if n[e[g]]then a=a+1;else a=e[d];end;end else if 0~=h then for r=31,97 do if 4>h then f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];break;end;else f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];end end end end else n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]]*n[e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]]-n[e[l]];a=a+1;e=t[a];o[e[d]]=n[e[g]];a=a+1;e=t[a];do return end;end else if f>118 then repeat if 123>f then local e=e[g]local g,a=b(n[e](n[e+1]))s=a+e-1 local a=0;for e=e,s do a=a+1;n[e]=g[a];end;break;end;local e=e[g]n[e]=n[e]()until true;else local e=e[g]n[e]=n[e]()end end end end end end else if 32<=f then if f<=47 then if f<40 then if 35<f then if f<38 then if f~=32 then repeat if 36~=f then local f;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];break;end;for f=0,1 do if f~=1 then n[e[g]]={};a=a+1;e=t[a];else n[e[g]][e[d]]=e[l];end end until true;else for f=0,1 do if f~=1 then n[e[g]]={};a=a+1;e=t[a];else n[e[g]][e[d]]=e[l];end end end else if f>=35 then for a=38,71 do if 39~=f then n[e[g]]();break;end;n[e[g]]=p(u[e[d]],nil,h);break;end;else n[e[g]]();end end else if 34>f then if f~=33 then local f;n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];else local o,s,b,p,c,k,u,f;for f=0,6 do if 3>f then if f>0 then if 2==f then o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];else n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];end else o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];end else if f>=5 then if 6==f then f=0;while f>-1 do if 2<f then if 4<f then if f>=1 then for e=47,70 do if 6>f then n(u,k);break;end;f=-2;break;end;else n(u,k);end else if 1<f then for e=11,56 do if f>3 then u=b[p];break;end;k=b[c];break;end;else k=b[c];end end else if f>=1 then if f==1 then p=g;else c=d;end else b=e;end end f=f+1 end else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if f>2 then for h=17,92 do if 3~=f then o=e[g]n[o](n[o+1])a=a+1;e=t[a];break;end;o=e[g];s=n[e[d]];n[o+1]=s;n[o]=s[e[l]];a=a+1;e=t[a];break;end;else o=e[g];s=n[e[d]];n[o+1]=s;n[o]=s[e[l]];a=a+1;e=t[a];end end end end end else if f~=35 then for f=0,3 do if 2<=f then if f>2 then if(n[e[g]]==e[l])then a=a+1;else a=e[d];end;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if 0~=f then h[e[d]]=n[e[g]];a=a+1;e=t[a];else n[e[g]]=(e[d]~=0);a=a+1;e=t[a];end end end else if(n[e[g]]~=n[e[l]])then a=a+1;else a=e[d];end;end end end else if f>=44 then if f<=45 then if f>=41 then for h=20,67 do if 45>f then local f,h;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];f=e[g]n[f](n[f+1])break;end;n[e[g]][n[e[d]]]=e[l];break;end;else n[e[g]][n[e[d]]]=e[l];end else if 43<=f then repeat if 46~=f then local f,h;for r=0,1 do if-2<r then for o=17,93 do if 0~=r then f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];end end break;end;local f,o;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];until true;else local f,h;for r=0,1 do if-2<r then for o=17,93 do if 0~=r then f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];end end end end else if f>=42 then if 43==f then local a=e[g];local g=n[e[d]];n[a+1]=g;n[a]=g[e[l]];else local f;n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n[e[g]]=n[e[d]];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];end else if 40~=f then local a=e[g]local g,e=b(n[a](r(n,a+1,e[d])))s=e+a-1 local e=0;for a=a,s do e=e+1;n[a]=g[e];end;else for f=0,4 do if f>1 then if f<=2 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if 2<f then for h=49,82 do if f~=3 then if(n[e[g]]==n[e[l]])then a=a+1;else a=e[d];end;break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else if(n[e[g]]==n[e[l]])then a=a+1;else a=e[d];end;end end else if-3<f then repeat if f<1 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end end end end else if f>=56 then if 60<=f then if 61>=f then if 61==f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]]/n[e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];else local f,r;f=e[g];r=n[e[d]];n[f+1]=r;n[f]=r[e[l]];a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];a=e[d];end else if f~=62 then n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];else local h,r;for f=0,4 do if 2>f then if-3<f then for l=13,78 do if f~=1 then n[e[g]]={};a=a+1;e=t[a];break;end;n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;else n[e[g]]={};a=a+1;e=t[a];end else if f>=3 then if f>=1 then repeat if f>3 then h=e[g];r=n[h];for e=h+1,e[d]do k.FgedQAGC(r,n[e])end;break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end end else if 58>f then if 53~=f then repeat if 56<f then local o;for f=0,6 do if f<=2 then if f<=0 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if 2>f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n(e[g],e[d]);a=a+1;e=t[a];end end else if f<=4 then if-1<=f then repeat if f~=3 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];until true;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if f>=4 then repeat if f>5 then n[e[g]]=n[e[d]][e[l]];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];end end end end break;end;for f=0,6 do if f>=3 then if f>=5 then if f~=2 then for h=19,88 do if 6>f then n[e[g]][e[d]]=e[l];a=a+1;e=t[a];break;end;n[e[g]]=o[e[d]];break;end;else n[e[g]][e[d]]=e[l];a=a+1;e=t[a];end else if 3==f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end else if 0>=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if 1==f then n[e[g]][e[d]]=e[l];a=a+1;e=t[a];else n[e[g]]=o[e[d]];a=a+1;e=t[a];end end end end until true;else for f=0,6 do if f>=3 then if f>=5 then if f~=2 then for h=19,88 do if 6>f then n[e[g]][e[d]]=e[l];a=a+1;e=t[a];break;end;n[e[g]]=o[e[d]];break;end;else n[e[g]][e[d]]=e[l];a=a+1;e=t[a];end else if 3==f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end else if 0>=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if 1==f then n[e[g]][e[d]]=e[l];a=a+1;e=t[a];else n[e[g]]=o[e[d]];a=a+1;e=t[a];end end end end end else if f~=56 then repeat if f~=59 then local f,o;n[e[g]]=h[e[d]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];break;end;local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]]*e[l];a=a+1;e=t[a];n[e[g]]=n[e[d]]*e[l];a=a+1;e=t[a];n[e[g]]=n[e[d]]+n[e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]]%n[e[l]];until true;else local f,o;n[e[g]]=h[e[d]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];end end end else if f<52 then if 50>f then if 44~=f then for o=11,94 do if 48~=f then local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n[e[g]]=n[e[d]];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];break;end;local r,o,k,b,s,f;f=0;while f>-1 do if f<3 then if 0<f then if 2>f then o=g;else k=d;end else r=e;end else if f>=5 then if 3<=f then repeat if f~=6 then n(s,b);break;end;f=-2;until true;else f=-2;end else if 0<f then for e=31,98 do if f>3 then s=r[o];break;end;b=r[k];break;end;else s=r[o];end end end f=f+1 end a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];break;end;else local r,s,b,k,o,f;f=0;while f>-1 do if f<3 then if 0<f then if 2>f then s=g;else b=d;end else r=e;end else if f>=5 then if 3<=f then repeat if f~=6 then n(o,k);break;end;f=-2;until true;else f=-2;end else if 0<f then for e=31,98 do if f>3 then o=r[s];break;end;k=r[b];break;end;else o=r[s];end end end f=f+1 end a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];end else if f>=47 then for l=26,98 do if 51>f then local f;for l=0,4 do if 2>l then if l>0 then n[e[g]]=n[e[d]];a=a+1;e=t[a];else n(e[g],e[d]);a=a+1;e=t[a];end else if 2<l then if 4==l then f=e[g]n[f](r(n,f+1,e[d]))else n(e[g],e[d]);a=a+1;e=t[a];end else n[e[g]]=n[e[d]];a=a+1;e=t[a];end end end break;end;n[e[g]]=-n[e[d]];break;end;else local f;for l=0,4 do if 2>l then if l>0 then n[e[g]]=n[e[d]];a=a+1;e=t[a];else n(e[g],e[d]);a=a+1;e=t[a];end else if 2<l then if 4==l then f=e[g]n[f](r(n,f+1,e[d]))else n(e[g],e[d]);a=a+1;e=t[a];end else n[e[g]]=n[e[d]];a=a+1;e=t[a];end end end end end else if 53>=f then if 52==f then n[e[g]]=n[e[d]]-n[e[l]];else n[e[g]]=n[e[d]];end else if f>50 then repeat if 55~=f then local f;n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=o[e[d]];break;end;local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]]*e[l];a=a+1;e=t[a];n[e[g]]=n[e[d]]*e[l];a=a+1;e=t[a];n[e[g]]=n[e[d]]+n[e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]]%n[e[l]];until true;else local f;n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=o[e[d]];end end end end end else if f<16 then if f>7 then if 11<f then if 14>f then if 11~=f then for o=37,96 do if f<13 then local f,o;f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]][e[d]]=e[l];break;end;n[e[g]]=n[e[d]]^n[e[l]];break;end;else n[e[g]]=n[e[d]]^n[e[l]];end else if f>=11 then repeat if f>14 then local h,u,o,k,s,c,b,f;for f=0,6 do if 2>=f then if f>=1 then if f>=-3 then for h=30,90 do if f~=2 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if 5<=f then if f>=3 then repeat if f>5 then if not n[e[g]]then a=a+1;else a=e[d];end;break;end;h=e[g]n[h]=n[h](r(n,h+1,e[d]))a=a+1;e=t[a];until true;else if not n[e[g]]then a=a+1;else a=e[d];end;end else if 0<f then for r=42,79 do if 3~=f then f=0;while f>-1 do if 3>f then if f<=0 then o=e;else if 1<f then s=d;else k=g;end end else if 5<=f then if 1<f then repeat if 6>f then n(b,c);break;end;f=-2;until true;else f=-2;end else if f==3 then c=o[s];else b=o[k];end end end f=f+1 end a=a+1;e=t[a];break;end;h=e[g];u=n[e[d]];n[h+1]=u;n[h]=u[e[l]];a=a+1;e=t[a];break;end;else f=0;while f>-1 do if 3>f then if f<=0 then o=e;else if 1<f then s=d;else k=g;end end else if 5<=f then if 1<f then repeat if 6>f then n(b,c);break;end;f=-2;until true;else f=-2;end else if f==3 then c=o[s];else b=o[k];end end end f=f+1 end a=a+1;e=t[a];end end end end break;end;local f,s;for o=0,6 do if 3<=o then if o>4 then if o<6 then n(e[g],e[d]);a=a+1;e=t[a];else f=e[g]n[f]=n[f](r(n,f+1,e[d]))end else if o==3 then n[e[g]]=h[e[d]];a=a+1;e=t[a];else f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];end end else if o>=1 then if o~=-3 then repeat if 2~=o then f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];end else n[e[g]]=n[e[d]];a=a+1;e=t[a];end end end until true;else local h,u,o,b,c,s,k,f;for f=0,6 do if 2>=f then if f>=1 then if f>=-3 then for h=30,90 do if f~=2 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if 5<=f then if f>=3 then repeat if f>5 then if not n[e[g]]then a=a+1;else a=e[d];end;break;end;h=e[g]n[h]=n[h](r(n,h+1,e[d]))a=a+1;e=t[a];until true;else if not n[e[g]]then a=a+1;else a=e[d];end;end else if 0<f then for r=42,79 do if 3~=f then f=0;while f>-1 do if 3>f then if f<=0 then o=e;else if 1<f then c=d;else b=g;end end else if 5<=f then if 1<f then repeat if 6>f then n(k,s);break;end;f=-2;until true;else f=-2;end else if f==3 then s=o[c];else k=o[b];end end end f=f+1 end a=a+1;e=t[a];break;end;h=e[g];u=n[e[d]];n[h+1]=u;n[h]=u[e[l]];a=a+1;e=t[a];break;end;else f=0;while f>-1 do if 3>f then if f<=0 then o=e;else if 1<f then c=d;else b=g;end end else if 5<=f then if 1<f then repeat if 6>f then n(k,s);break;end;f=-2;until true;else f=-2;end else if f==3 then s=o[c];else k=o[b];end end end f=f+1 end a=a+1;e=t[a];end end end end end end else if 9>=f then if f>8 then local f,o;f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];else n[e[g]]=h[e[d]];end else if 11~=f then o[e[d]]=n[e[g]];else n[e[g]][e[d]]=e[l];end end end else if 3<f then if 5<f then if 2~=f then repeat if f~=6 then n[e[g]][e[d]]=n[e[l]];break;end;local a=e[g]n[a]=n[a](r(n,a+1,e[d]))until true;else local a=e[g]n[a]=n[a](r(n,a+1,e[d]))end else if f>2 then for r=32,81 do if 5>f then local f;for l=0,6 do if l<=2 then if l>0 then if l>=-1 then repeat if 1<l then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;f=e[g]n[f](n[f+1])a=a+1;e=t[a];until true;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else n(e[g],e[d]);a=a+1;e=t[a];end else if l<5 then if 0<l then for f=17,97 do if 4~=l then n[e[g]]();a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if 1~=l then for f=29,52 do if 5~=l then n[e[g]]=h[e[d]];break;end;n[e[g]]();a=a+1;e=t[a];break;end;else n[e[g]]();a=a+1;e=t[a];end end end end break;end;for f=0,1 do if f>-2 then repeat if f>0 then if(n[e[g]]==e[l])then a=a+1;else a=e[d];end;break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end break;end;else for f=0,1 do if f>-2 then repeat if f>0 then if(n[e[g]]==e[l])then a=a+1;else a=e[d];end;break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end else if f>1 then if f~=-2 then repeat if f>2 then local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]]/n[e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];o[e[d]]=n[e[g]];a=a+1;e=t[a];n[e[g]]=o[e[d]];break;end;local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]][n[e[d]]]=e[l];until true;else local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]]/n[e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];o[e[d]]=n[e[g]];a=a+1;e=t[a];n[e[g]]=o[e[d]];end else if f>=-4 then repeat if 0~=f then if(n[e[g]]~=e[l])then a=a+1;else a=e[d];end;break;end;h[e[d]]=n[e[g]];until true;else if(n[e[g]]~=e[l])then a=a+1;else a=e[d];end;end end end end else if f>23 then if 28<=f then if 29>=f then if 27<f then for r=47,64 do if f>28 then n[e[g]]=n[e[d]][n[e[l]]];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];break;end;else n[e[g]]=n[e[d]][n[e[l]]];end else if 28~=f then repeat if f~=30 then for f=0,6 do if f>=3 then if 4>=f then if f~=1 then repeat if f<4 then n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]]+n[e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]]+n[e[l]];a=a+1;e=t[a];end else if 4<=f then for h=32,58 do if f>5 then o[e[d]]=n[e[g]];break;end;n[e[g]]=n[e[d]]%e[l];a=a+1;e=t[a];break;end;else o[e[d]]=n[e[g]];end end else if f>0 then if 2~=f then n[e[g]]=o[e[d]];a=a+1;e=t[a];else n[e[g]]=n[e[d]]*n[e[l]];a=a+1;e=t[a];end else n[e[g]]=o[e[d]];a=a+1;e=t[a];end end end break;end;if(e[g]<=n[e[l]])then a=e[d];else a=a+1;end;until true;else for f=0,6 do if f>=3 then if 4>=f then if f~=1 then repeat if f<4 then n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]]+n[e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]]+n[e[l]];a=a+1;e=t[a];end else if 4<=f then for h=32,58 do if f>5 then o[e[d]]=n[e[g]];break;end;n[e[g]]=n[e[d]]%e[l];a=a+1;e=t[a];break;end;else o[e[d]]=n[e[g]];end end else if f>0 then if 2~=f then n[e[g]]=o[e[d]];a=a+1;e=t[a];else n[e[g]]=n[e[d]]*n[e[l]];a=a+1;e=t[a];end else n[e[g]]=o[e[d]];a=a+1;e=t[a];end end end end end else if 26<=f then if 27==f then local s,k,r,h,f,o,t;local a=0;while a>-1 do if 3<=a then if a>4 then if 4<=a then for e=33,90 do if a~=5 then a=-2;break;end;n[o]=t;break;end;else a=-2;end else if a>-1 then for e=47,69 do if 4>a then o=h[s];break;end;t=n[f];for e=1+f,h[r]do t=t..n[e];end;break;end;else t=n[f];for e=1+f,h[r]do t=t..n[e];end;end end else if 1>a then s=g;k=d;r=l;else if 2==a then f=h[k];else h=e;end end end a=a+1 end else local h,r;for f=0,4 do if f>1 then if f>=3 then if-1<f then for o=22,55 do if 4~=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;h=e[g];r=n[h];for e=h+1,e[d]do k.FgedQAGC(r,n[e])end;break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if-3<=f then repeat if 0~=f then n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;n[e[g]]={};a=a+1;e=t[a];until true;else n[e[g]]={};a=a+1;e=t[a];end end end end else if 24<f then local h,o,f;n(e[g],e[d]);a=a+1;e=t[a];h=e[d];o=n[h]for e=h+1,e[l]do o=o..n[e];end;n[e[g]]=o;a=a+1;e=t[a];n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];n[e[g]][e[d]]=e[l];a=a+1;e=t[a];n[e[g]][e[d]]=e[l];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];else do return n[e[g]]end end end end else if f>19 then if 21>=f then if 18<=f then for o=47,81 do if f>20 then local f,u,c,o,k;n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]];a=a+1;e=t[a];f=e[g]k,c=b(n[f](n[f+1]))s=c+f-1 o=0;for e=f,s do o=o+1;n[e]=k[o];end;a=a+1;e=t[a];f=e[g]k={n[f](r(n,f+1,s))};o=0;for e=f,e[l]do o=o+1;n[e]=k[o];end a=a+1;e=t[a];a=e[d];break;end;if(n[e[g]]==n[e[l]])then a=a+1;else a=e[d];end;break;end;else local f,u,c,o,k;n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]];a=a+1;e=t[a];f=e[g]k,c=b(n[f](n[f+1]))s=c+f-1 o=0;for e=f,s do o=o+1;n[e]=k[o];end;a=a+1;e=t[a];f=e[g]k={n[f](r(n,f+1,s))};o=0;for e=f,e[l]do o=o+1;n[e]=k[o];end a=a+1;e=t[a];a=e[d];end else if f>=21 then for s=19,73 do if f>22 then if(n[e[g]]==e[l])then a=a+1;else a=e[d];end;break;end;local f;for s=0,6 do if 3<=s then if 5>s then if 0<s then repeat if 4~=s then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];until true;else n(e[g],e[d]);a=a+1;e=t[a];end else if s==5 then f=e[g]n[f](n[f+1])a=a+1;e=t[a];else n[e[g]]=o[e[d]];end end else if 1<=s then if-3~=s then repeat if s~=2 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];until true;else f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end break;end;else local f;for s=0,6 do if 3<=s then if 5>s then if 0<s then repeat if 4~=s then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];until true;else n(e[g],e[d]);a=a+1;e=t[a];end else if s==5 then f=e[g]n[f](n[f+1])a=a+1;e=t[a];else n[e[g]]=o[e[d]];end end else if 1<=s then if-3~=s then repeat if s~=2 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];until true;else f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end end else if 17>=f then if f>=14 then repeat if 17~=f then local h,k,f,y,p,_,f,f,o,j,u,c,b,s;for f=0,6 do if f<=2 then if f<1 then h=e[g];k=n[e[d]];n[h+1]=k;n[h]=k[e[l]];a=a+1;e=t[a];else if 1==f then n(e[g],e[d]);a=a+1;e=t[a];else h=e[g]n[h]=n[h](r(n,h+1,e[d]))a=a+1;e=t[a];end end else if f>4 then if 5<f then f=0;while f>-1 do if 3>=f then if f>=2 then if-1~=f then repeat if f<3 then u=d;break;end;c=n;until true;else c=n;end else if-3<=f then repeat if f~=1 then o=e;break;end;j=g;until true;else o=e;end end else if f>=6 then if f>3 then for e=38,82 do if f>6 then f=-2;break;end;n[s]=b;break;end;else n[s]=b;end else if 0~=f then repeat if f>4 then s=o[j];break;end;b=c[o[u]];until true;else b=c[o[u]];end end end f=f+1 end else f=0;while f>-1 do if 3<=f then if 5<=f then if f>1 then for e=20,53 do if 6>f then n(s,_);break;end;f=-2;break;end;else n(s,_);end else if f==4 then s=o[y];else _=o[p];end end else if 0>=f then o=e;else if f>=-1 then for e=15,52 do if f~=2 then y=g;break;end;p=d;break;end;else p=d;end end end f=f+1 end a=a+1;e=t[a];end else if 1<f then for r=24,79 do if f<4 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;h=e[g];k=n[e[d]];n[h+1]=k;n[h]=k[e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end break;end;local l,o,s,b,l,l,f,u,c,p,k,h,_;for l=0,4 do if l<=1 then if l>0 then l=0;while l>-1 do if 3<l then if l<=5 then if 0~=l then for e=27,67 do if l<5 then k=p[f[c]];break;end;h=f[u];break;end;else h=f[u];end else if l>=3 then repeat if 6~=l then l=-2;break;end;n[h]=k;until true;else n[h]=k;end end else if 1>=l then if-2<l then repeat if l<1 then f=e;break;end;u=g;until true;else f=e;end else if l>0 then for e=12,53 do if 3~=l then c=d;break;end;p=n;break;end;else c=d;end end end l=l+1 end a=a+1;e=t[a];else l=0;while l>-1 do if l>2 then if l>=5 then if 3<=l then repeat if l>5 then l=-2;break;end;n(h,b);until true;else l=-2;end else if l>3 then h=f[o];else b=f[s];end end else if 1>l then f=e;else if l~=-2 then for e=11,57 do if 1~=l then s=d;break;end;o=g;break;end;else s=d;end end end l=l+1 end a=a+1;e=t[a];end else if l<=2 then l=0;while l>-1 do if l<=3 then if 1<l then if 2<l then p=n;else c=d;end else if l~=0 then u=g;else f=e;end end else if 5>=l then if l>0 then for e=25,91 do if 4<l then h=f[u];break;end;k=p[f[c]];break;end;else k=p[f[c]];end else if 3~=l then repeat if l~=7 then n[h]=k;break;end;l=-2;until true;else n[h]=k;end end end l=l+1 end a=a+1;e=t[a];else if-1~=l then repeat if 4>l then l=0;while l>-1 do if l>2 then if 5>l then if 2<l then for e=20,81 do if 3~=l then h=f[o];break;end;b=f[s];break;end;else h=f[o];end else if 3<=l then repeat if 5<l then l=-2;break;end;n(h,b);until true;else l=-2;end end else if l<1 then f=e;else if 0<l then repeat if 2~=l then o=g;break;end;s=d;until true;else o=g;end end end l=l+1 end a=a+1;e=t[a];break;end;_=e[g]n[_](r(n,_+1,e[d]))until true;else l=0;while l>-1 do if l>2 then if 5>l then if 2<l then for e=20,81 do if 3~=l then h=f[o];break;end;b=f[s];break;end;else h=f[o];end else if 3<=l then repeat if 5<l then l=-2;break;end;n(h,b);until true;else l=-2;end end else if l<1 then f=e;else if 0<l then repeat if 2~=l then o=g;break;end;s=d;until true;else o=g;end end end l=l+1 end a=a+1;e=t[a];end end end end until true;else local h,k,f,j,_,p,f,f,o,y,u,b,c,s;for f=0,6 do if f<=2 then if f<1 then h=e[g];k=n[e[d]];n[h+1]=k;n[h]=k[e[l]];a=a+1;e=t[a];else if 1==f then n(e[g],e[d]);a=a+1;e=t[a];else h=e[g]n[h]=n[h](r(n,h+1,e[d]))a=a+1;e=t[a];end end else if f>4 then if 5<f then f=0;while f>-1 do if 3>=f then if f>=2 then if-1~=f then repeat if f<3 then u=d;break;end;b=n;until true;else b=n;end else if-3<=f then repeat if f~=1 then o=e;break;end;y=g;until true;else o=e;end end else if f>=6 then if f>3 then for e=38,82 do if f>6 then f=-2;break;end;n[s]=c;break;end;else n[s]=c;end else if 0~=f then repeat if f>4 then s=o[y];break;end;c=b[o[u]];until true;else c=b[o[u]];end end end f=f+1 end else f=0;while f>-1 do if 3<=f then if 5<=f then if f>1 then for e=20,53 do if 6>f then n(s,p);break;end;f=-2;break;end;else n(s,p);end else if f==4 then s=o[j];else p=o[_];end end else if 0>=f then o=e;else if f>=-1 then for e=15,52 do if f~=2 then j=g;break;end;_=d;break;end;else _=d;end end end f=f+1 end a=a+1;e=t[a];end else if 1<f then for r=24,79 do if f<4 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;h=e[g];k=n[e[d]];n[h+1]=k;n[h]=k[e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end end else if 19==f then local f,h;n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];f=e[g]n[f](n[f+1])else n[e[g]]=n[e[d]]/n[e[l]];end end end end end end end else if f>=192 then if 224<=f then if 239<f then if 248<=f then if 251<f then if 253<f then if f<=254 then local o,s,r;for f=0,4 do if 2<=f then if 3<=f then if 2<f then repeat if f>3 then a=e[d];break;end;o=e[g]s={n[o](n[o+1])};r=0;for e=o,e[l]do r=r+1;n[e]=s[r];end a=a+1;e=t[a];until true;else a=e[d];end else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if-1~=f then repeat if 0~=f then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;h[e[d]]=n[e[g]];a=a+1;e=t[a];until true;else h[e[d]]=n[e[g]];a=a+1;e=t[a];end end end else if 252<=f then repeat if 255~=f then n[e[g]]=n[e[d]][e[l]];break;end;if not n[e[g]]then a=a+1;else a=e[d];end;until true;else if not n[e[g]]then a=a+1;else a=e[d];end;end end else if 250~=f then for t=27,97 do if 252<f then local g=e[g];local t=n[g]local l=n[g+2];if(l>0)then if(t>n[g+1])then a=e[d];else n[g+3]=t;end elseif(t<n[g+1])then a=e[d];else n[g+3]=t;end break;end;if(e[g]<n[e[l]])then a=e[d];else a=a+1;end;break;end;else local g=e[g];local t=n[g]local l=n[g+2];if(l>0)then if(t>n[g+1])then a=e[d];else n[g+3]=t;end elseif(t<n[g+1])then a=e[d];else n[g+3]=t;end end end else if 249>=f then if f~=244 then repeat if 248<f then local f,s;for h=0,6 do if h>2 then if h>4 then if h>2 then repeat if 5<h then if not n[e[g]]then a=a+1;else a=e[d];end;break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];until true;else f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];end else if h~=1 then repeat if 4~=h then f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];until true;else n(e[g],e[d]);a=a+1;e=t[a];end end else if 1>h then f=e[g]n[f](n[f+1])a=a+1;e=t[a];else if 0<h then for f=15,82 do if h~=2 then n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=o[e[d]];a=a+1;e=t[a];end end end end break;end;n[e[g]]=#n[e[d]];until true;else n[e[g]]=#n[e[d]];end else if 249<f then for o=48,94 do if f<251 then local f;n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]]/e[l];a=a+1;e=t[a];n[e[g]]=n[e[d]]*e[l];a=a+1;e=t[a];f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=n[e[d]];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))break;end;n[e[g]]=n[e[d]]+n[e[l]];break;end;else n[e[g]]=n[e[d]]+n[e[l]];end end end else if 243<f then if 245>=f then if f~=241 then for h=19,96 do if 245~=f then do return end;break;end;local f,h;for r=0,2 do if 0<r then if-1~=r then for l=31,76 do if r~=1 then if n[e[g]]then a=a+1;else a=e[d];end;break;end;f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];break;end;else if n[e[g]]then a=a+1;else a=e[d];end;end else f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];end end break;end;else local f,r;for h=0,2 do if 0<h then if-1~=h then for l=31,76 do if h~=1 then if n[e[g]]then a=a+1;else a=e[d];end;break;end;f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];break;end;else if n[e[g]]then a=a+1;else a=e[d];end;end else f=e[g];r=n[e[d]];n[f+1]=r;n[f]=r[e[l]];a=a+1;e=t[a];end end end else if f<247 then local d=e[d];local a=n[d]for e=d+1,e[l]do a=a..n[e];end;n[e[g]]=a;else for l=0,6 do if l>2 then if l<5 then if 0<l then repeat if 3<l then n(e[g],e[d]);a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];until true;else n(e[g],e[d]);a=a+1;e=t[a];end else if 4<=l then for f=18,55 do if l<6 then n(e[g],e[d]);a=a+1;e=t[a];break;end;n(e[g],e[d]);break;end;else n(e[g],e[d]);a=a+1;e=t[a];end end else if l<=0 then n(e[g],e[d]);a=a+1;e=t[a];else if 1==l then n(e[g],e[d]);a=a+1;e=t[a];else n(e[g],e[d]);a=a+1;e=t[a];end end end end end end else if f>=242 then if f>241 then for h=40,65 do if 243~=f then for f=0,1 do if-1<f then repeat if f~=1 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;if(n[e[g]]~=e[l])then a=a+1;else a=e[d];end;until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end break;end;local h,c,s,u,b,o,k,f;n[e[g]][e[d]]=e[l];a=a+1;e=t[a];h=e[g]n[h]=n[h](r(n,h+1,e[d]))a=a+1;e=t[a];h=e[g];c=n[e[d]];n[h+1]=c;n[h]=c[e[l]];a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]][e[d]]=e[l];a=a+1;e=t[a];f=0;while f>-1 do if f<=2 then if f<1 then s=e;else if 1<f then b=d;else u=g;end end else if f<5 then if f~=1 then repeat if 3~=f then k=s[u];break;end;o=s[b];until true;else o=s[b];end else if f>2 then for e=43,52 do if 5~=f then f=-2;break;end;n(k,o);break;end;else n(k,o);end end end f=f+1 end a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];break;end;else local h,k,o,u,b,s,c,f;n[e[g]][e[d]]=e[l];a=a+1;e=t[a];h=e[g]n[h]=n[h](r(n,h+1,e[d]))a=a+1;e=t[a];h=e[g];k=n[e[d]];n[h+1]=k;n[h]=k[e[l]];a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]][e[d]]=e[l];a=a+1;e=t[a];f=0;while f>-1 do if f<=2 then if f<1 then o=e;else if 1<f then b=d;else u=g;end end else if f<5 then if f~=1 then repeat if 3~=f then c=o[u];break;end;s=o[b];until true;else s=o[b];end else if f>2 then for e=43,52 do if 5~=f then f=-2;break;end;n(c,s);break;end;else n(c,s);end end end f=f+1 end a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];end else if 240==f then n[e[g]]=n[e[d]]%e[l];else local r,k,s;for f=0,6 do if 3<=f then if 4<f then if f>=1 then repeat if f<6 then r=e[g]k={n[r](n[r+1])};s=0;for e=r,e[l]do s=s+1;n[e]=k[s];end a=a+1;e=t[a];break;end;a=e[d];until true;else a=e[d];end else if f<4 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end else if f<=0 then n[e[g]]=h[e[d]];a=a+1;e=t[a];else if f~=-3 then for h=45,70 do if 1~=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end end end end end else if f<232 then if f<228 then if f>=226 then if 227>f then n[e[g]][n[e[d]]]=e[l];else n[e[g]]=h[e[d]];end else if f~=220 then for r=30,90 do if 224~=f then if(n[e[g]]~=e[l])then a=a+1;else a=e[d];end;break;end;local s=u[e[d]];local r;local f={};r=k.MhOPJbdO({},{__index=function(a,e)local e=f[e];return e[1][e[2]];end,__newindex=function(n,e,a)local e=f[e]e[1][e[2]]=a;end;});for g=1,e[l]do a=a+1;local e=t[a];if e[y]==143 then f[g-1]={n,e[d]};else f[g-1]={o,e[d]};end;c[#c+1]=f;end;n[e[g]]=p(s,r,h);break;end;else local s=u[e[d]];local r;local f={};r=k.MhOPJbdO({},{__index=function(a,e)local e=f[e];return e[1][e[2]];end,__newindex=function(n,e,a)local e=f[e]e[1][e[2]]=a;end;});for g=1,e[l]do a=a+1;local e=t[a];if e[y]==143 then f[g-1]={n,e[d]};else f[g-1]={o,e[d]};end;c[#c+1]=f;end;n[e[g]]=p(s,r,h);end end else if 230<=f then if 226<f then repeat if 231~=f then local o,s,k,c,b,u,f;for f=0,6 do if f>=3 then if f<5 then if 2<=f then for h=22,80 do if f<4 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;f=0;while f>-1 do if f<3 then if f>=1 then if-3<f then for e=35,87 do if 1~=f then c=d;break;end;k=g;break;end;else k=g;end else s=e;end else if 5<=f then if f~=5 then f=-2;else n(u,b);end else if f<4 then b=s[c];else u=s[k];end end end f=f+1 end a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if f~=2 then repeat if 5~=f then n[e[g]]=h[e[d]];break;end;o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];until true;else o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];end end else if f>0 then if 1~=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];end end end break;end;n[e[g]]=-n[e[d]];until true;else n[e[g]]=-n[e[d]];end else if f~=225 then for o=49,82 do if 228~=f then local f,k,u,o,c;for k=0,4 do if k<2 then if k~=-3 then repeat if k<1 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];until true;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if k<3 then f=e[g]c,u=b(n[f]())s=u+f-1 o=0;for e=f,s do o=o+1;n[e]=c[o];end;a=a+1;e=t[a];else if 0<=k then for h=42,95 do if 4>k then f=e[g]c={n[f](r(n,f+1,s))};o=0;for e=f,e[l]do o=o+1;n[e]=c[o];end a=a+1;e=t[a];break;end;a=e[d];break;end;else a=e[d];end end end end break;end;local e=e[g]local g,a=b(n[e](r(n,e+1,s)))s=a+e-1 local a=0;for e=e,s do a=a+1;n[e]=g[a];end;break;end;else local f,k,u,o,c;for k=0,4 do if k<2 then if k~=-3 then repeat if k<1 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];until true;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if k<3 then f=e[g]c,u=b(n[f]())s=u+f-1 o=0;for e=f,s do o=o+1;n[e]=c[o];end;a=a+1;e=t[a];else if 0<=k then for h=42,95 do if 4>k then f=e[g]c={n[f](r(n,f+1,s))};o=0;for e=f,e[l]do o=o+1;n[e]=c[o];end a=a+1;e=t[a];break;end;a=e[d];break;end;else a=e[d];end end end end end end end else if 236<=f then if f>237 then if 237~=f then for o=37,71 do if 239>f then local f,r,h,o,s,l,b,c;l=0;while l>-1 do if l<=2 then if 0>=l then f=e;else if l>0 then for e=49,55 do if l<2 then r=g;break;end;h=d;break;end;else r=g;end end else if 5>l then if 3==l then o=f[h];else s=f[r];end else if l>3 then for e=12,93 do if 6>l then n(s,o);break;end;l=-2;break;end;else l=-2;end end end l=l+1 end a=a+1;e=t[a];l=0;while l>-1 do if 3>l then if 0<l then if-3~=l then for e=28,83 do if 2~=l then r=g;break;end;h=d;break;end;else h=d;end else f=e;end else if 4<l then if 4~=l then for e=23,57 do if l~=6 then n(s,o);break;end;l=-2;break;end;else n(s,o);end else if l>3 then s=f[r];else o=f[h];end end end l=l+1 end a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];l=0;while l>-1 do if l<=2 then if l>=1 then if 0<=l then for e=30,87 do if 1<l then h=d;break;end;r=g;break;end;else h=d;end else f=e;end else if l>=5 then if 6~=l then n(s,o);else l=-2;end else if l~=4 then o=f[h];else s=f[r];end end end l=l+1 end a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];b=e[g];c=n[b];for e=b+1,e[d]do k.FgedQAGC(c,n[e])end;break;end;local f,o;f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];break;end;else local f,r,h,s,o,l,b,c;l=0;while l>-1 do if l<=2 then if 0>=l then f=e;else if l>0 then for e=49,55 do if l<2 then r=g;break;end;h=d;break;end;else r=g;end end else if 5>l then if 3==l then s=f[h];else o=f[r];end else if l>3 then for e=12,93 do if 6>l then n(o,s);break;end;l=-2;break;end;else l=-2;end end end l=l+1 end a=a+1;e=t[a];l=0;while l>-1 do if 3>l then if 0<l then if-3~=l then for e=28,83 do if 2~=l then r=g;break;end;h=d;break;end;else h=d;end else f=e;end else if 4<l then if 4~=l then for e=23,57 do if l~=6 then n(o,s);break;end;l=-2;break;end;else n(o,s);end else if l>3 then o=f[r];else s=f[h];end end end l=l+1 end a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];l=0;while l>-1 do if l<=2 then if l>=1 then if 0<=l then for e=30,87 do if 1<l then h=d;break;end;r=g;break;end;else h=d;end else f=e;end else if l>=5 then if 6~=l then n(o,s);else l=-2;end else if l~=4 then s=f[h];else o=f[r];end end end l=l+1 end a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];b=e[g];c=n[b];for e=b+1,e[d]do k.FgedQAGC(c,n[e])end;end else if f~=233 then for t=21,63 do if f~=237 then a=e[d];break;end;local e=e[g]n[e](r(n,e+1,s))break;end;else local e=e[g]n[e](r(n,e+1,s))end end else if f>233 then if f>=230 then for t=40,93 do if f>234 then n[e[g]]=n[e[d]]/n[e[l]];break;end;a=e[d];break;end;else n[e[g]]=n[e[d]]/n[e[l]];end else if f>230 then repeat if 232<f then for f=0,4 do if 2>f then if-3<f then repeat if 1>f then n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=o[e[d]];a=a+1;e=t[a];end else if f<=2 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if f>=2 then repeat if f<4 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;if n[e[g]]then a=a+1;else a=e[d];end;until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end break;end;local h,r;for f=0,4 do if f>=2 then if f<3 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if f>-1 then repeat if f~=3 then h=e[g];r=n[h];for e=h+1,e[d]do k.FgedQAGC(r,n[e])end;break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else h=e[g];r=n[h];for e=h+1,e[d]do k.FgedQAGC(r,n[e])end;end end else if f>=-4 then repeat if 1~=f then n[e[g]]={};a=a+1;e=t[a];break;end;n[e[g]]=o[e[d]];a=a+1;e=t[a];until true;else n[e[g]]=o[e[d]];a=a+1;e=t[a];end end end until true;else local h,r;for f=0,4 do if f>=2 then if f<3 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if f>-1 then repeat if f~=3 then h=e[g];r=n[h];for e=h+1,e[d]do k.FgedQAGC(r,n[e])end;break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else h=e[g];r=n[h];for e=h+1,e[d]do k.FgedQAGC(r,n[e])end;end end else if f>=-4 then repeat if 1~=f then n[e[g]]={};a=a+1;e=t[a];break;end;n[e[g]]=o[e[d]];a=a+1;e=t[a];until true;else n[e[g]]=o[e[d]];a=a+1;e=t[a];end end end end end end end end else if f<=207 then if f<=199 then if f>195 then if 197>=f then if 194<f then repeat if f~=197 then local f,o;f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n[e[g]]=h[e[d]];break;end;local f,s;for o=0,6 do if 2>=o then if 1<=o then if-2~=o then for h=36,60 do if 1<o then f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];break;end;else f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];end else n(e[g],e[d]);a=a+1;e=t[a];end else if 5>o then if o==3 then n[e[g]]=n[e[d]];a=a+1;e=t[a];else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if o~=4 then repeat if 5<o then n(e[g],e[d]);break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n(e[g],e[d]);end end end end until true;else local f,o;f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n[e[g]]=h[e[d]];end else if 194<=f then repeat if 198~=f then n[e[g]]=n[e[d]]-e[l];break;end;n[e[g]][e[d]]=n[e[l]];until true;else n[e[g]]=n[e[d]]-e[l];end end else if 194<=f then if 192<=f then for o=23,97 do if 194~=f then local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]]*e[l];a=a+1;e=t[a];n[e[g]]=n[e[d]]*e[l];a=a+1;e=t[a];n[e[g]]=n[e[d]]+n[e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]]%n[e[l]];break;end;local o,b,k,c,u,f,s;for f=0,6 do if f>=3 then if 5>f then if f>=2 then for l=34,69 do if 3<f then f=0;while f>-1 do if 3<=f then if 4>=f then if f~=0 then repeat if 3<f then u=o[b];break;end;c=o[k];until true;else c=o[k];end else if 4<=f then repeat if 6>f then n(u,c);break;end;f=-2;until true;else f=-2;end end else if f<1 then o=e;else if 2>f then b=g;else k=d;end end end f=f+1 end a=a+1;e=t[a];break;end;f=0;while f>-1 do if 3<=f then if 4<f then if 5==f then n(u,c);else f=-2;end else if f>=0 then for e=40,88 do if f~=3 then u=o[b];break;end;c=o[k];break;end;else u=o[b];end end else if f<1 then o=e;else if 0<f then repeat if f>1 then k=d;break;end;b=g;until true;else b=g;end end end f=f+1 end a=a+1;e=t[a];break;end;else f=0;while f>-1 do if 3<=f then if 4>=f then if f~=0 then repeat if 3<f then u=o[b];break;end;c=o[k];until true;else c=o[k];end else if 4<=f then repeat if 6>f then n(u,c);break;end;f=-2;until true;else f=-2;end end else if f<1 then o=e;else if 2>f then b=g;else k=d;end end end f=f+1 end a=a+1;e=t[a];end else if 3~=f then for l=18,86 do if 5~=f then s=e[g]n[s]=n[s](r(n,s+1,e[d]))break;end;n(e[g],e[d]);a=a+1;e=t[a];break;end;else s=e[g]n[s]=n[s](r(n,s+1,e[d]))end end else if f>=1 then if f>-2 then repeat if 1<f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];until true;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else n[e[g]]={};a=a+1;e=t[a];end end end break;end;else local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]]*e[l];a=a+1;e=t[a];n[e[g]]=n[e[d]]*e[l];a=a+1;e=t[a];n[e[g]]=n[e[d]]+n[e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]]%n[e[l]];end else if f==193 then if n[e[g]]then a=a+1;else a=e[d];end;else local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];end end end else if f<204 then if 202<=f then if f~=199 then for r=42,61 do if f~=203 then for f=0,6 do if f>=3 then if 5<=f then if f~=2 then repeat if f~=5 then n[e[g]]=n[e[d]];break;end;n(e[g],e[d]);a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]];end else if 0<f then for h=38,90 do if 4>f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end else if 0>=f then n[e[g]]();a=a+1;e=t[a];else if f>-1 then for r=30,73 do if f~=1 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]]+e[l];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]]+e[l];a=a+1;e=t[a];end end end end break;end;n[e[g]]=o[e[d]];break;end;else for f=0,6 do if f>=3 then if 5<=f then if f~=2 then repeat if f~=5 then n[e[g]]=n[e[d]];break;end;n(e[g],e[d]);a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]];end else if 0<f then for h=38,90 do if 4>f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end else if 0>=f then n[e[g]]();a=a+1;e=t[a];else if f>-1 then for r=30,73 do if f~=1 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]]+e[l];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]]+e[l];a=a+1;e=t[a];end end end end end else if 198<f then repeat if 201~=f then n[e[g]]=#n[e[d]];break;end;local e=e[g]local g,a=b(n[e]())s=a+e-1 local a=0;for e=e,s do a=a+1;n[e]=g[a];end;until true;else local a=e[g]local g,e=b(n[a]())s=e+a-1 local e=0;for a=a,s do e=e+1;n[a]=g[e];end;end end else if 205>=f then if 201~=f then repeat if 204<f then local a=e[g];local g=n[e[d]];n[a+1]=g;n[a]=g[e[l]];break;end;local f,r;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g];r=n[e[d]];n[f+1]=r;n[f]=r[e[l]];a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];f=e[g];r=n[e[d]];n[f+1]=r;n[f]=r[e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];if not n[e[g]]then a=a+1;else a=e[d];end;until true;else local g=e[g];local a=n[e[d]];n[g+1]=a;n[g]=a[e[l]];end else if 205<f then for t=34,57 do if 206<f then if(e[g]<n[e[l]])then a=e[d];else a=a+1;end;break;end;local t=e[g];local g={};for e=1,#c do local e=c[e];for a=0,#e do local e=e[a];local d=e[1];local a=e[2];if d==n and a>=t then g[a]=d[a];e[1]=g;end;end;end;break;end;else if(e[g]<n[e[l]])then a=e[d];else a=a+1;end;end end end end else if f<216 then if 211>=f then if 210>f then if 206<f then for o=39,52 do if f<209 then local f;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];break;end;else n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];end else if 206<=f then for t=33,94 do if 210<f then n[e[g]]=n[e[d]]+e[l];break;end;if(n[e[g]]<e[l])then a=a+1;else a=e[d];end;break;end;else n[e[g]]=n[e[d]]+e[l];end end else if f>=214 then if f>=213 then for s=28,89 do if 215~=f then local f,r;f=e[g];r=n[e[d]];n[f+1]=r;n[f]=r[e[l]];a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];break;end;local a=e[g]n[a](r(n,a+1,e[d]))break;end;else local f,r;f=e[g];r=n[e[d]];n[f+1]=r;n[f]=r[e[l]];a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];end else if f>=211 then repeat if 212~=f then local a=e[g];local g=n[a];for e=a+1,e[d]do k.FgedQAGC(g,n[e])end;break;end;n[e[g]]=n[e[d]]/e[l];until true;else local a=e[g];local g=n[a];for e=a+1,e[d]do k.FgedQAGC(g,n[e])end;end end end else if 219>=f then if f<218 then if 215<f then repeat if 217>f then local g=e[g];local l=n[g+2];local t=n[g]+l;n[g]=t;if(l>0)then if(t<=n[g+1])then a=e[d];n[g+3]=t;end elseif(t>=n[g+1])then a=e[d];n[g+3]=t;end break;end;n[e[g]]=(e[d]~=0);until true;else local g=e[g];local l=n[g+2];local t=n[g]+l;n[g]=t;if(l>0)then if(t<=n[g+1])then a=e[d];n[g+3]=t;end elseif(t>=n[g+1])then a=e[d];n[g+3]=t;end end else if 214~=f then for o=13,98 do if f~=218 then local f,o;n[e[g]]=h[e[d]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];break;end;local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]={};break;end;else local f,o;n[e[g]]=h[e[d]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];end end else if f<222 then if f>=219 then for o=33,84 do if 220<f then local f,s;for o=0,6 do if o>2 then if o<=4 then if o>0 then repeat if o~=3 then f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];until true;else f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];end else if o>3 then for l=28,62 do if o~=6 then n[e[g]]=n[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];break;end;else n[e[g]]=h[e[d]];end end else if 1>o then n[e[g]]=h[e[d]];a=a+1;e=t[a];else if 2==o then n(e[g],e[d]);a=a+1;e=t[a];else f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];end end end end break;end;n[e[g]]();break;end;else local f,s;for o=0,6 do if o>2 then if o<=4 then if o>0 then repeat if o~=3 then f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];until true;else f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];end else if o>3 then for l=28,62 do if o~=6 then n[e[g]]=n[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];break;end;else n[e[g]]=h[e[d]];end end else if 1>o then n[e[g]]=h[e[d]];a=a+1;e=t[a];else if 2==o then n(e[g],e[d]);a=a+1;e=t[a];else f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];end end end end end else if 218<=f then repeat if f>222 then local o;for f=0,6 do if 3<=f then if 4>=f then if 0<=f then for r=15,67 do if f~=4 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if f~=6 then n(e[g],e[d]);a=a+1;e=t[a];else n(e[g],e[d]);end end else if f>=1 then if f>=0 then for l=49,88 do if 2~=f then o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];break;end;n[e[g]]={};a=a+1;e=t[a];break;end;else o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end break;end;local g=e[g];local l=e[l];local t=g+2 local g={n[g](n[g+1],n[t])};for e=1,l do n[t+e]=g[e];end;local g=g[1]if g then n[t]=g a=e[d];else a=a+1;end;until true;else local g=e[g];local l=e[l];local t=g+2 local g={n[g](n[g+1],n[t])};for e=1,l do n[t+e]=g[e];end;local g=g[1]if g then n[t]=g a=e[d];else a=a+1;end;end end end end end end else if 159<f then if f>=176 then if f<=183 then if 180<=f then if 181>=f then if 178~=f then for o=42,68 do if f~=180 then local o;for f=0,6 do if 3<=f then if f<=4 then if-1<=f then for l=17,74 do if 4>f then o=e[g]n[o](r(n,o+1,e[d]))a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;else o=e[g]n[o](r(n,o+1,e[d]))a=a+1;e=t[a];end else if 2<f then repeat if 6~=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];until true;else n[e[g]]=n[e[d]][e[l]];end end else if 1<=f then if-3<=f then repeat if f~=1 then n[e[g]]=n[e[d]];a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]];a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end break;end;h[e[d]]=n[e[g]];break;end;else local o;for f=0,6 do if 3<=f then if f<=4 then if-1<=f then for l=17,74 do if 4>f then o=e[g]n[o](r(n,o+1,e[d]))a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;else o=e[g]n[o](r(n,o+1,e[d]))a=a+1;e=t[a];end else if 2<f then repeat if 6~=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];until true;else n[e[g]]=n[e[d]][e[l]];end end else if 1<=f then if-3<=f then repeat if f~=1 then n[e[g]]=n[e[d]];a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]];a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end else if f~=178 then for k=17,61 do if 183>f then local r;for f=0,6 do if f>2 then if 5>f then if 3==f then n[e[g]]=o[e[d]];a=a+1;e=t[a];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if f~=5 then n(e[g],e[d]);else n(e[g],e[d]);a=a+1;e=t[a];end end else if f>=1 then if-1<f then for l=12,88 do if 1<f then r=e[g]n[r](n[r+1])a=a+1;e=t[a];break;end;n(e[g],e[d]);a=a+1;e=t[a];break;end;else n(e[g],e[d]);a=a+1;e=t[a];end else n[e[g]]=h[e[d]];a=a+1;e=t[a];end end end break;end;local a=e[g]local d={n[a](r(n,a+1,s))};local g=0;for e=a,e[l]do g=g+1;n[e]=d[g];end break;end;else local g=e[g]local d={n[g](r(n,g+1,s))};local a=0;for e=g,e[l]do a=a+1;n[e]=d[a];end end end else if 177>=f then if 173<f then repeat if f>176 then n[e[g]]=o[e[d]];break;end;local e=e[g]n[e](n[e+1])until true;else local e=e[g]n[e](n[e+1])end else if f>177 then repeat if f<179 then local e=e[g]n[e]=n[e](r(n,e+1,s))break;end;local s,k,r;for f=0,6 do if 2>=f then if 1<=f then if-2~=f then repeat if 2~=f then n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=o[e[d]];a=a+1;e=t[a];end else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if f<5 then if 1~=f then repeat if f~=3 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if f>2 then for h=12,81 do if 5<f then a=e[d];break;end;s=e[g]k={n[s](n[s+1])};r=0;for e=s,e[l]do r=r+1;n[e]=k[r];end a=a+1;e=t[a];break;end;else a=e[d];end end end end until true;else local s,k,r;for f=0,6 do if 2>=f then if 1<=f then if-2~=f then repeat if 2~=f then n[e[g]]=o[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=o[e[d]];a=a+1;e=t[a];end else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if f<5 then if 1~=f then repeat if f~=3 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if f>2 then for h=12,81 do if 5<f then a=e[d];break;end;s=e[g]k={n[s](n[s+1])};r=0;for e=s,e[l]do r=r+1;n[e]=k[r];end a=a+1;e=t[a];break;end;else a=e[d];end end end end end end end else if f<=187 then if f<186 then if 183~=f then for o=24,54 do if 184~=f then local f,k,c,o;f=e[g]k,c=b(n[f]())s=c+f-1 o=0;for e=f,s do o=o+1;n[e]=k[o];end;a=a+1;e=t[a];f=e[g]k,c=b(n[f](r(n,f+1,s)))s=c+f-1 o=0;for e=f,s do o=o+1;n[e]=k[o];end;a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,s))a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];break;end;n[e[g]]();a=a+1;e=t[a];n[e[g]]=n[e[d]]+e[l];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n[e[g]]=n[e[d]];break;end;else n[e[g]]();a=a+1;e=t[a];n[e[g]]=n[e[d]]+e[l];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n[e[g]]=n[e[d]];end else if 185<=f then for o=17,94 do if 186<f then local f,h;for o=0,6 do if 3<=o then if o<=4 then if-1<o then repeat if o>3 then f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];end else if o==6 then n[e[g]]=n[e[d]];else n(e[g],e[d]);a=a+1;e=t[a];end end else if o>=1 then if o>0 then repeat if o~=2 then n(e[g],e[d]);a=a+1;e=t[a];break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];until true;else n(e[g],e[d]);a=a+1;e=t[a];end else f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];end end end break;end;local f;n[e[g]][e[d]]=e[l];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))break;end;else local f;n[e[g]][e[d]]=e[l];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))end end else if 190>f then if 188==f then local f,r;f=e[g];r=n[e[d]];n[f+1]=r;n[f]=r[e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];else local r,s,f;n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];r=e[g]s={n[r](n[r+1])};f=0;for e=r,e[l]do f=f+1;n[e]=s[f];end a=a+1;e=t[a];a=e[d];end else if f~=191 then local h;for f=0,4 do if 1>=f then if f>-1 then repeat if 1>f then n[e[g]][e[d]]=e[l];a=a+1;e=t[a];break;end;n[e[g]][e[d]]=e[l];a=a+1;e=t[a];until true;else n[e[g]][e[d]]=e[l];a=a+1;e=t[a];end else if f<3 then n[e[g]][e[d]]=e[l];a=a+1;e=t[a];else if f>1 then repeat if 4~=f then h=e[g]n[h](r(n,h+1,e[d]))a=a+1;e=t[a];break;end;n[e[g]]={};until true;else n[e[g]]={};end end end end else if n[e[g]]then a=a+1;else a=e[d];end;end end end end else if 167>=f then if f<164 then if 161>=f then if 157<f then repeat if 161~=f then local a=e[g];local g=n[a];for e=a+1,e[d]do k.FgedQAGC(g,n[e])end;break;end;local f;n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];do return end;until true;else local f;n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];do return end;end else if 158<f then repeat if f>162 then n[e[g]]=n[e[d]]*n[e[l]];break;end;local s,k,r;for f=0,6 do if f>2 then if 5<=f then if 3<f then repeat if 5<f then a=e[d];break;end;s=e[g]k={n[s](n[s+1])};r=0;for e=s,e[l]do r=r+1;n[e]=k[r];end a=a+1;e=t[a];until true;else a=e[d];end else if f>=-1 then repeat if 4~=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end else if 1>f then n[e[g]]=h[e[d]];a=a+1;e=t[a];else if 1<f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=o[e[d]];a=a+1;e=t[a];end end end end until true;else local r,k,s;for f=0,6 do if f>2 then if 5<=f then if 3<f then repeat if 5<f then a=e[d];break;end;r=e[g]k={n[r](n[r+1])};s=0;for e=r,e[l]do s=s+1;n[e]=k[s];end a=a+1;e=t[a];until true;else a=e[d];end else if f>=-1 then repeat if 4~=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end else if 1>f then n[e[g]]=h[e[d]];a=a+1;e=t[a];else if 1<f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=o[e[d]];a=a+1;e=t[a];end end end end end end else if f>165 then if f~=163 then for o=10,63 do if f~=166 then local o;for f=0,6 do if f<=2 then if f>=1 then if f>1 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if f<5 then if 0<f then for l=46,70 do if 4~=f then n(e[g],e[d]);a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]];a=a+1;e=t[a];break;end;else n(e[g],e[d]);a=a+1;e=t[a];end else if f>=3 then repeat if f<6 then o=e[g]n[o](r(n,o+1,e[d]))a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];until true;else n[e[g]]=h[e[d]];end end end end break;end;if(n[e[g]]<e[l])then a=a+1;else a=e[d];end;break;end;else if(n[e[g]]<e[l])then a=a+1;else a=e[d];end;end else if 163<f then repeat if 164<f then n[e[g]]=n[e[d]]-n[e[l]];break;end;local e=e[g]local g,a=b(n[e](n[e+1]))s=a+e-1 local a=0;for e=e,s do a=a+1;n[e]=g[a];end;until true;else n[e[g]]=n[e[d]]-n[e[l]];end end end else if 172<=f then if 174>f then if f==173 then if(n[e[g]]==e[l])then a=a+1;else a=e[d];end;else n[e[g]]=n[e[d]]*e[l];end else if 171<f then for a=12,72 do if 175~=f then n[e[g]]=n[e[d]]%n[e[l]];break;end;n[e[g]]=n[e[d]]/e[l];break;end;else n[e[g]]=n[e[d]]/e[l];end end else if f>=170 then if 167<f then repeat if 170~=f then local o,f,h,u,c,b,s,r,k;local t=0;while t>-1 do if 2<t then if t>4 then if 5==t then a=k;else t=-2;end else if t>2 then repeat if 4>t then s=o[u];r=o[c];break;end;k=s==r and f[b]or 1+h;until true;else k=s==r and f[b]or 1+h;end end else if t>0 then if t>=0 then repeat if t~=1 then u=f[g];c=f[l];b=d;break;end;f=e;h=a;until true;else f=e;h=a;end else o=n;end end t=t+1 end break;end;o[e[d]]=n[e[g]];until true;else local b,f,h,c,u,k,s,r,o;local t=0;while t>-1 do if 2<t then if t>4 then if 5==t then a=o;else t=-2;end else if t>2 then repeat if 4>t then s=b[c];r=b[u];break;end;o=s==r and f[k]or 1+h;until true;else o=s==r and f[k]or 1+h;end end else if t>0 then if t>=0 then repeat if t~=1 then c=f[g];u=f[l];k=d;break;end;f=e;h=a;until true;else f=e;h=a;end else b=n;end end t=t+1 end end else if 169==f then local e=e[g]n[e](r(n,e+1,s))else local e=e[g]n[e]=n[e]()end end end end end else if f<=143 then if 135>=f then if 131<f then if f>133 then if f>131 then for r=44,79 do if 134<f then local e=e[g]n[e]=n[e](n[e+1])break;end;local r;for f=0,6 do if 3<=f then if f>=5 then if f>4 then repeat if f~=6 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]][e[d]]=n[e[l]];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if f~=1 then repeat if f>3 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]][e[d]]=e[l];a=a+1;e=t[a];until true;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end end else if f>0 then if f~=2 then n(e[g],e[d]);a=a+1;e=t[a];else r=e[g]n[r]=n[r](n[r+1])a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end break;end;else local r;for f=0,6 do if 3<=f then if f>=5 then if f>4 then repeat if f~=6 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]][e[d]]=n[e[l]];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if f~=1 then repeat if f>3 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]][e[d]]=e[l];a=a+1;e=t[a];until true;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end end else if f>0 then if f~=2 then n(e[g],e[d]);a=a+1;e=t[a];else r=e[g]n[r]=n[r](n[r+1])a=a+1;e=t[a];end else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end end else if 130<=f then repeat if f>132 then local g=e[g]local d={n[g](n[g+1])};local a=0;for e=g,e[l]do a=a+1;n[e]=d[a];end break;end;local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]]/n[e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];o[e[d]]=n[e[g]];a=a+1;e=t[a];n[e[g]]=o[e[d]];until true;else local f;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]]/n[e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](n[f+1])a=a+1;e=t[a];o[e[d]]=n[e[g]];a=a+1;e=t[a];n[e[g]]=o[e[d]];end end else if f<130 then if 128~=f then local h;for f=0,4 do if 1<f then if 3>f then h=e[g]n[h]=n[h](r(n,h+1,e[d]))a=a+1;e=t[a];else if 2~=f then repeat if f>3 then a=e[d];break;end;n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];until true;else a=e[d];end end else if f>-4 then for h=36,92 do if 1~=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end end else local f,s;for o=0,4 do if o<=1 then if o~=1 then n[e[g]]=h[e[d]];a=a+1;e=t[a];else f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];a=a+1;e=t[a];end else if o<3 then n(e[g],e[d]);a=a+1;e=t[a];else if o>1 then repeat if o>3 then n[e[g]]=n[e[d]][e[l]];break;end;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];until true;else f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];end end end end end else if f>=127 then repeat if 131~=f then local a=e[g]local d={n[a](r(n,a+1,s))};local g=0;for e=a,e[l]do g=g+1;n[e]=d[g];end break;end;local f,u,c,k;for o=0,6 do if 2>=o then if o<1 then f=e[g]u,c=b(n[f]())s=c+f-1 k=0;for e=f,s do k=k+1;n[e]=u[k];end;a=a+1;e=t[a];else if-1~=o then for d=43,88 do if o<2 then f=e[g]u,c=b(n[f](r(n,f+1,s)))s=c+f-1 k=0;for e=f,s do k=k+1;n[e]=u[k];end;a=a+1;e=t[a];break;end;f=e[g]n[f](r(n,f+1,s))a=a+1;e=t[a];break;end;else f=e[g]n[f](r(n,f+1,s))a=a+1;e=t[a];end end else if o>=5 then if o>5 then n[e[g]]=n[e[d]][e[l]];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if o>=0 then for f=11,55 do if 4>o then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end end end end until true;else local f,c,u,k;for o=0,6 do if 2>=o then if o<1 then f=e[g]c,u=b(n[f]())s=u+f-1 k=0;for e=f,s do k=k+1;n[e]=c[k];end;a=a+1;e=t[a];else if-1~=o then for d=43,88 do if o<2 then f=e[g]c,u=b(n[f](r(n,f+1,s)))s=u+f-1 k=0;for e=f,s do k=k+1;n[e]=c[k];end;a=a+1;e=t[a];break;end;f=e[g]n[f](r(n,f+1,s))a=a+1;e=t[a];break;end;else f=e[g]n[f](r(n,f+1,s))a=a+1;e=t[a];end end else if o>=5 then if o>5 then n[e[g]]=n[e[d]][e[l]];else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if o>=0 then for f=11,55 do if 4>o then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end end end end end end end else if 140<=f then if f>=142 then if 139<f then repeat if 143>f then local o,s,k,b,u,p,c,f;o=e[g];s=n[e[d]];n[o+1]=s;n[o]=s[e[l]];a=a+1;e=t[a];f=0;while f>-1 do if 3<=f then if f>=5 then if 3~=f then for e=15,60 do if 5~=f then f=-2;break;end;n(c,p);break;end;else f=-2;end else if f~=2 then for e=17,63 do if f<4 then p=k[u];break;end;c=k[b];break;end;else c=k[b];end end else if 0<f then if 0<f then for e=34,90 do if 1<f then u=d;break;end;b=g;break;end;else u=d;end else k=e;end end f=f+1 end a=a+1;e=t[a];o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];o=e[g];s=n[e[d]];n[o+1]=s;n[o]=s[e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];break;end;n[e[g]]=n[e[d]];until true;else local o,s,k,c,b,p,u,f;o=e[g];s=n[e[d]];n[o+1]=s;n[o]=s[e[l]];a=a+1;e=t[a];f=0;while f>-1 do if 3<=f then if f>=5 then if 3~=f then for e=15,60 do if 5~=f then f=-2;break;end;n(u,p);break;end;else f=-2;end else if f~=2 then for e=17,63 do if f<4 then p=k[b];break;end;u=k[c];break;end;else u=k[c];end end else if 0<f then if 0<f then for e=34,90 do if 1<f then b=d;break;end;c=g;break;end;else b=d;end else k=e;end end f=f+1 end a=a+1;e=t[a];o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];o=e[g];s=n[e[d]];n[o+1]=s;n[o]=s[e[l]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];end else if 137<=f then repeat if f~=140 then local f,o;f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];break;end;for f=0,4 do if 2>f then if-4~=f then repeat if f~=0 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]]-n[e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if 3>f then h[e[d]]=n[e[g]];a=a+1;e=t[a];else if 0~=f then for r=10,90 do if 3<f then if(n[e[g]]<e[l])then a=a+1;else a=e[d];end;break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;else if(n[e[g]]<e[l])then a=a+1;else a=e[d];end;end end end end until true;else for f=0,4 do if 2>f then if-4~=f then repeat if f~=0 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]]-n[e[l]];a=a+1;e=t[a];until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if 3>f then h[e[d]]=n[e[g]];a=a+1;e=t[a];else if 0~=f then for r=10,90 do if 3<f then if(n[e[g]]<e[l])then a=a+1;else a=e[d];end;break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;else if(n[e[g]]<e[l])then a=a+1;else a=e[d];end;end end end end end end else if f<=137 then if 133<f then for s=30,98 do if 136<f then if(e[g]<=n[e[l]])then a=e[d];else a=a+1;end;break;end;local f,s;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];break;end;else local f,s;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=o[e[d]];a=a+1;e=t[a];f=e[g];s=n[e[d]];n[f+1]=s;n[f]=s[e[l]];end else if f~=134 then repeat if 138<f then local f,o;for h=0,5 do if h<3 then if h<=0 then n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];else if-2<h then repeat if h~=2 then f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];break;end;f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];until true;else f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];end end else if 4<=h then if 2~=h then repeat if 5~=h then n[e[g]][e[d]]=e[l];a=a+1;e=t[a];break;end;n[e[g]][e[d]]=e[l];until true;else n[e[g]][e[d]]=e[l];end else n[e[g]]={};a=a+1;e=t[a];end end end break;end;local f,o;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n(e[g],e[d]);until true;else local f,o;f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];o=n[e[d]];n[f+1]=o;n[f]=o[e[l]];a=a+1;e=t[a];f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n(e[g],e[d]);end end end end else if 151>=f then if 147>=f then if f>145 then if 144<=f then repeat if 146<f then local e=e[g]local g,a=b(n[e](r(n,e+1,s)))s=a+e-1 local a=0;for e=e,s do a=a+1;n[e]=g[a];end;break;end;local o;for f=0,6 do if f<3 then if 1>f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if-2<f then repeat if 2~=f then o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];break;end;n[e[g]]={};a=a+1;e=t[a];until true;else o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];end end else if 5>f then if f~=-1 then for r=25,79 do if f<4 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end else if 1<=f then repeat if f~=5 then n(e[g],e[d]);break;end;n(e[g],e[d]);a=a+1;e=t[a];until true;else n(e[g],e[d]);end end end end until true;else local e=e[g]local g,a=b(n[e](r(n,e+1,s)))s=a+e-1 local a=0;for e=e,s do a=a+1;n[e]=g[a];end;end else if f>=143 then repeat if 144<f then n(e[g],e[d]);break;end;local f;n[e[g]]={};a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))until true;else local f;n[e[g]]={};a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];n(e[g],e[d]);a=a+1;e=t[a];f=e[g]n[f]=n[f](r(n,f+1,e[d]))end end else if f>=150 then if f==150 then local o,k,s;for f=0,6 do if f>=3 then if f<=4 then if f>0 then for l=10,94 do if f~=3 then n[e[g]]=n[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end else if f>=2 then for h=18,52 do if 6~=f then o=e[g]k={n[o](n[o+1])};s=0;for e=o,e[l]do s=s+1;n[e]=k[s];end a=a+1;e=t[a];break;end;a=e[d];break;end;else a=e[d];end end else if f>0 then if f==2 then n[e[g]]={};a=a+1;e=t[a];else n[e[g]]={};a=a+1;e=t[a];end else o=e[g]n[o]=n[o](r(n,o+1,e[d]))a=a+1;e=t[a];end end end else local r,o,u,s,c,p,k,b,_,f;for f=0,4 do if f>=2 then if f<=2 then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];else if f>-1 then for h=25,90 do if f>3 then f=0;while f>-1 do if 2>=f then if 1>f then r=n;else if 1==f then o=e;u=a;else s=o[g];c=o[l];p=d;end end else if f>=5 then if 6>f then a=_;else f=-2;end else if 0<f then for e=23,81 do if 4~=f then k=r[s];b=r[c];break;end;_=k==b and o[p]or 1+u;break;end;else k=r[s];b=r[c];end end end f=f+1 end break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];end end else if-1<=f then repeat if f<1 then n[e[g]]=h[e[d]];a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];until true;else n[e[g]]=h[e[d]];a=a+1;e=t[a];end end end end else if f>147 then repeat if 148<f then n[e[g]]=(e[d]~=0);break;end;n[e[g]]=n[e[d]]-e[l];until true;else n[e[g]]=(e[d]~=0);end end end else if 156<=f then if 157<f then if 155<=f then repeat if f>158 then local f,h;n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]][e[d]]=e[l];a=a+1;e=t[a];n[e[g]][e[d]]=e[l];break;end;for l=0,1 do if l>-3 then for f=34,85 do if 0~=l then a=e[d];break;end;h[e[d]]=n[e[g]];a=a+1;e=t[a];break;end;else a=e[d];end end until true;else local f,h;n[e[g]][e[d]]=n[e[l]];a=a+1;e=t[a];f=e[g]n[f](r(n,f+1,e[d]))a=a+1;e=t[a];f=e[g];h=n[e[d]];n[f+1]=h;n[f]=h[e[l]];a=a+1;e=t[a];n[e[g]]={};a=a+1;e=t[a];n[e[g]][e[d]]=e[l];a=a+1;e=t[a];n[e[g]][e[d]]=e[l];end else if f>=155 then repeat if 156~=f then n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]]-e[l];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];break;end;do return end;until true;else n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]]-e[l];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];end end else if 154<=f then if f==154 then local f,h,s;for r=0,5 do if 2>=r then if r<1 then n[e[g]]=o[e[d]];a=a+1;e=t[a];else if r>-1 then for f=26,92 do if r~=1 then n(e[g],e[d]);a=a+1;e=t[a];break;end;n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];break;end;else n(e[g],e[d]);a=a+1;e=t[a];end end else if 4<=r then if 1<r then repeat if 5>r then n(e[g],e[d]);a=a+1;e=t[a];break;end;f=e[g];h=n[f]s=n[f+2];if(s>0)then if(h>n[f+1])then a=e[d];else n[f+3]=h;end elseif(h<n[f+1])then a=e[d];else n[f+3]=h;end until true;else f=e[g];h=n[f]s=n[f+2];if(s>0)then if(h>n[f+1])then a=e[d];else n[f+3]=h;end elseif(h<n[f+1])then a=e[d];else n[f+3]=h;end end else n(e[g],e[d]);a=a+1;e=t[a];end end end else n[e[g]]=n[e[d]][e[l]];end else if f>150 then repeat if 153>f then n[e[g]]=n[e[d]]^n[e[l]];break;end;local f;f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](n[f+1])until true;else local f;f=e[g]n[f](n[f+1])a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=h[e[d]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];n[e[g]]=n[e[d]][e[l]];a=a+1;e=t[a];f=e[g]n[f]=n[f](n[f+1])end end end end end end end end a=1+a;end;end;return ge end;local d=0xff;local h={};local t=(1);local g='';(function(a)local n=a local l=0x00 local e=0x00 n={(function(t)if l>0x24 then return t end l=l+1 e=(e+0xa3f-t)%0x2f return(e%0x03==0x1 and(function(n)if not a[n]then e=e+0x01 a[n]=(0x54);g='\37';d={function()d()end};g=g..'\100\43';end return true end)'jwGnm'and n[0x2](0x3ba+t))or(e%0x03==0x2 and(function(n)if not a[n]then e=e+0x01 a[n]=(0x59);end return true end)'fAfUS'and n[0x3](t+0x2c6))or(e%0x03==0x0 and(function(n)if not a[n]then e=e+0x01 a[n]=(0x3e);end return true end)'hEwTi'and n[0x1](t+0x122))or t end),(function(f)if l>0x31 then return f end l=l+1 e=(e+0x954-f)%0xa return(e%0x03==0x1 and(function(n)if not a[n]then e=e+0x01 a[n]=(0xbe);g={g..'\58 a',g};h[t]=ne();t=t+((not k.mJdTqBUg)and 1 or 0);g[1]='\58'..g[1];d[2]=0xff;end return true end)'WZcZz'and n[0x3](0x19e+f))or(e%0x03==0x0 and(function(n)if not a[n]then e=e+0x01 a[n]=(0x30);end return true end)'SpvlD'and n[0x1](f+0x23c))or(e%0x03==0x2 and(function(n)if not a[n]then e=e+0x01 a[n]=(0x20);end return true end)'kkYkQ'and n[0x2](f+0x360))or f end),(function(f)if l>0x2f then return f end l=l+1 e=(e+0xcf2-f)%0xa return(e%0x03==0x2 and(function(n)if not a[n]then e=e+0x01 a[n]=(0xec);h[t]=te();t=t+d;end return true end)'DicXm'and n[0x1](0x221+f))or(e%0x03==0x1 and(function(n)if not a[n]then e=e+0x01 a[n]=(0xee);d[2]=(d[2]*(ge(function()h()end,r(g))-ge(d[1],r(g))))+1;h[t]={};d=d[2];t=t+d;end return true end)'zXMuw'and n[0x3](f+0x3c3))or(e%0x03==0x0 and(function(n)if not a[n]then e=e+0x01 a[n]=(0x6f);end return true end)'xPZxR'and n[0x2](f+0x384))or f end)}n[0x1](0x133f)end){};local e=p(r(h));return e(...);end return de((function()local a={}local e=0x01;local n;if k.mJdTqBUg then n=k.mJdTqBUg(de)else n=''end if k.PCBtpesj(n,k.AFnJaBiF)then e=e+0;else e=e+1;end a[e]=0x02;a[a[e]+0x01]=0x03;return a;end)(),...)end)((function(e,n,a,d,g,t)local t;if e>=4 then if 5<e then if 6>=e then do return g[a]end;else if e>=5 then repeat if e~=8 then do return setmetatable({},{['__\99\97\108\108']=function(e,g,d,n,a)if a then return e[a]elseif n then return e else e[g]=d end end})end break;end;do return a(e,nil,a);end until true;else do return a(e,nil,a);end end end else if 4==e then local e=d;local t,l,f=g(2);do return function()local d,n,g,a=n(a,e(e,e),e(e,e)+3);e(4);return(a*t)+(g*l)+(n*f)+d;end;end;else local e=d;do return function()local a=n(a,e(e,e),e(e,e));e(1);return a;end;end;end end else if e>1 then if 2<e then do return n(1),n(4,g,d,a,n),n(5,g,d,a)end;else do return 16777216,65536,256 end;end else if e~=0 then do return function(a,e,n)if n then local e=(a/2^(e-1))%2^((n-1)-(e-1)+1);return e-e%1;else local e=2^(e-1);return(a%(e+e)>=e)and 1 or 0;end;end;end;else do return n(1),n(4,g,d,a,n),n(5,g,d,a)end;end end end end),...)
+if not game:IsLoaded() then repeat game.Loaded:Wait() until game:IsLoaded() end
+
+if game.PlaceId == 2753915549 then
+        W = true
+    elseif game.PlaceId == 4442272183 then
+        W2 = true
+    elseif game.PlaceId == 7449423635 then
+        W3 = true
+    end
+    
+spawn(function()
+    _G.Team = "Pirate"
+    
+    if game:GetService("Players").LocalPlayer.PlayerGui.Main:FindFirstChild("ChooseTeam") then
+        repeat wait()
+            if game:GetService("Players").LocalPlayer.PlayerGui:WaitForChild("Main").ChooseTeam.Visible == true then
+                if _G.Team == "Pirate" then
+                    for i, v in pairs(getconnections(game:GetService("Players").LocalPlayer.PlayerGui.Main.ChooseTeam.Container.Pirates.Frame.ViewportFrame.TextButton.Activated)) do                                                                                                
+                        v.Function()
+                    end
+                elseif _G.Team == "Marine" then
+                    for i, v in pairs(getconnections(game:GetService("Players").LocalPlayer.PlayerGui.Main.ChooseTeam.Container.Marines.Frame.ViewportFrame.TextButton.Activated)) do                                                                                                
+                        v.Function()
+                    end
+                else
+                    for i, v in pairs(getconnections(game:GetService("Players").LocalPlayer.PlayerGui.Main.ChooseTeam.Container.Pirates.Frame.ViewportFrame.TextButton.Activated)) do                                                                                                
+                        v.Function()
+                    end
+                end
+            end
+        until game.Players.LocalPlayer.Team ~= nil and game:IsLoaded()
+    end
+    end)
+
+    local vu = game:GetService("VirtualUser")
+game:GetService("Players").LocalPlayer.Idled:connect(function()
+vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+wait(1)
+vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+end)
+
+  function TP(Pos)
+    Distance = (Pos.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude
+    if Distance < 360 then
+        Speed = 200
+    elseif Distance < 1000 then
+        Speed = 360
+    elseif Distance < 360 then
+        Speed = 1200
+    elseif Distance >= 1000 then
+        Speed = 360
+    end
+    game:GetService("TweenService"):Create(
+        game.Players.LocalPlayer.Character.HumanoidRootPart,
+        TweenInfo.new(Distance/Speed, Enum.EasingStyle.Linear),
+        {CFrame = Pos}
+    ):Play()
+end
+
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Player = game.Players.LocalPlayer
+local Window = OrionLib:MakeWindow({Name = "UPPERCUT HUB", HidePremium = false, SaveConfig = true, IntroEnabled = false})
+
+OrionLib:MakeNotification({
+	Name = "Logged in!",
+	Content = "Welcome to Uppercut Hub"..Player.Name.." ",
+	Image = "rbxassetid://11915607895",
+	Time = 3
+})
+
+local Tab = Window:MakeTab({
+	Name = "Main",
+	Icon = "rbxassetid://4483345998",
+	PremiumOnly = false
+})
+local Section = Tab:AddSection({
+	Name = "General"
+})
+OrionLib:MakeNotification({
+	Name = "Yo!",
+	Content = "Enjoys with our scripts . . .",
+	Image = "rbxassetid://11915607895",
+	Time = 5
+})
+
+local X2Code = {
+    "TheGreatAce",        
+    "Bignews",      
+    "Fudd10",
+    "Axiore",
+    "TantaiGaming",
+    "StrawHatMaine",
+    "Sub20fficialNoobie",
+    "Sub2NoobMaster123",
+    "Sub2Daigrock",
+    "SUB2GAMERROBOT_EXP1",
+    "UPD16",
+    "3BVISITS",
+    "fudd10_v2",
+    "Bluxxy",
+    "JCWK",
+    "Sub2Fer999",
+    "Enyu_is_Pro",
+    "Magicbus",
+    "Starcodeheo"
+}
+
+Tab:AddButton({
+	Name = "RedeemCodeX2",
+	Callback = function(v)
+        function RedeemCode(v)
+            game:GetService("ReplicatedStorage").Remotes.Redeem:InvokeServer(value)
+        end
+        for i,v in pairs(x2Code) do
+            RedeemCode(v)
+        end
+  	end    
+})
+
+Tab:AddToggle({
+	Name = "AuToFarM",
+	Default = false,
+	Callback = function(Value)
+        spawn(function()
+            _G.AUTOFARM = Value
+        _G.By_Pass = false
+        
+        
+        
+        getgenv().ToTargets = function(p)
+        task.spawn(function()
+            pcall(function()
+                if game:GetService("Players").LocalPlayer:DistanceFromCharacter(p.Position) <= 250 then 
+                    game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = p
+                elseif not game.Players.LocalPlayer.Character:FindFirstChild("Root")then 
+                    local K = Instance.new("Part",game.Players.LocalPlayer.Character)
+                    K.Size = Vector3.new(1,0.5,1)
+                    K.Name = "Root"
+                    K.Anchored = true
+                    K.Transparency = 1
+                    K.CanCollide = false
+                    K.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame * CFrame.new(0,20,0)
+                end
+                local U = (game.Players.LocalPlayer.Character.HumanoidRootPart.Position-p.Position).Magnitude
+                local z = game:service("TweenService")
+                local B = TweenInfo.new((p.Position-game.Players.LocalPlayer.Character.Root.Position).Magnitude/300,Enum.EasingStyle.Linear)
+                local S,g = pcall(function()
+                local q = z:Create(game.Players.LocalPlayer.Character.Root,B,{CFrame = p})
+                q:Play()
+            end)
+            if not S then 
+                return g
+            end
+            game.Players.LocalPlayer.Character.Root.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+                if S and game.Players.LocalPlayer.Character:FindFirstChild("Root") then 
+                    pcall(function()
+                        if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position-p.Position).Magnitude >= 20 then 
+                            spawn(function()
+                                pcall(function()
+                                    if (game.Players.LocalPlayer.Character.Root.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 150 then 
+                                        game.Players.LocalPlayer.Character.Root.CFrame = game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+                                    else 
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=game.Players.LocalPlayer.Character.Root.CFrame
+                                    end
+                                end)
+                            end)
+                        elseif (game.Players.LocalPlayer.Character.HumanoidRootPart.Position-p.Position).Magnitude >= 10 and(game.Players.LocalPlayer.Character.HumanoidRootPart.Position-p.Position).Magnitude < 20 then 
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = p
+                        elseif (game.Players.LocalPlayer.Character.HumanoidRootPart.Position-p.Position).Magnitude < 10 then 
+                            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = p
+                        end
+                    end)
+                end
+            end)
+        end)
+        end
+        
+        function Hop()
+        local PlaceID = game.PlaceId
+        local AllIDs = {}
+        local foundAnything = ""
+        local actualHour = os.date("!*t").hour
+        local Deleted = false
+        function TPReturner()
+            local Site;
+            if foundAnything == "" then
+                Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100'))
+            else
+                Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100&cursor=' .. foundAnything))
+            end
+            local ID = ""
+            if Site.nextPageCursor and Site.nextPageCursor ~= "null" and Site.nextPageCursor ~= nil then
+                foundAnything = Site.nextPageCursor
+            end
+            local num = 0;
+            for i,v in pairs(Site.data) do
+                local Possible = true
+                ID = tostring(v.id)
+                if tonumber(v.maxPlayers) > tonumber(v.playing) then
+                    for _,Existing in pairs(AllIDs) do
+                        if num ~= 0 then
+                            if ID == tostring(Existing) then
+                                Possible = false
+                            end
+                        else
+                            if tonumber(actualHour) ~= tonumber(Existing) then
+                                local delFile = pcall(function()
+                                    AllIDs = {}
+                                    table.insert(AllIDs, actualHour)
+                                end)
+                            end
+                        end
+                        num = num + 1
+                    end
+                    if Possible == true then
+                        table.insert(AllIDs, ID)
+                        wait()
+                        pcall(function()
+                            wait()
+                            game:GetService("TeleportService"):TeleportToPlaceInstance(PlaceID, ID, game.Players.LocalPlayer)
+                        end)
+                        wait(4)
+                    end
+                end
+            end
+        end
+        function Teleport() 
+            while wait() do
+                pcall(function()
+                    TPReturner()
+                    if foundAnything ~= "" then
+                        TPReturner()
+                    end
+                end)
+            end
+        end
+        Teleport()
+        end
+        
+        
+        function Attack()
+        pcall(function()
+            wait()
+            game:GetService'VirtualUser':CaptureController()
+            game:GetService'VirtualUser':Button1Down(Vector2.new(1280, 672))
+        end)
+        end
+        
+        function toTarget(targetPos, targetCFrame)
+        local tweenfunc = {}
+        local tween_s = game:service"TweenService"
+        local info = TweenInfo.new((targetPos - game:GetService("Players").LocalPlayer.Character:WaitForChild("HumanoidRootPart").Position).Magnitude/300, Enum.EasingStyle.Linear)
+        local tween = tween_s:Create(game:GetService("Players").LocalPlayer.Character["HumanoidRootPart"], info, {CFrame = targetCFrame * CFrame.fromAxisAngle(Vector3.new(1,0,0), math.rad(0))})
+        tween:Play()
+        
+        function tweenfunc:Stop()
+            tween:Cancel()
+            return tween
+        end
+        
+        if not tween then return tween end
+        return tweenfunc
+        end
+        
+        function EquipTool(Tool)
+        pcall(function()
+        game.Players.LocalPlayer.Character.Humanoid:EquipTool(game.Players.LocalPlayer.Backpack[Tool])
+        end)
+        end
+        
+        ---------------------------------------------------------------
+        
+        task.spawn(function()
+        while wait() do
+        pcall(function()
+        if _G.AUTOFARM  then
+        if not game:GetService("Players").LocalPlayer.Character.HumanoidRootPart:FindFirstChild("BodyClip") then
+            local Noclip = Instance.new("BodyVelocity")
+            Noclip.Name = "BodyClip"
+            Noclip.Parent = game:GetService("Players").LocalPlayer.Character.HumanoidRootPart
+            Noclip.MaxForce = Vector3.new(100000,100000,100000)
+            Noclip.Velocity = Vector3.new(0,0,0)
+        end
+            for _, no in pairs(game:GetService("Players").LocalPlayer.Character:GetDescendants()) do
+                if no:IsA("BasePart") then
+                    no.CanCollide = false    
+                end
+            end
+        else
+            if game:GetService("Players").LocalPlayer.Character.HumanoidRootPart:FindFirstChild("BodyClip") then
+               game:GetService("Players").LocalPlayer.Character.HumanoidRootPart:FindFirstChild("BodyClip"):Destroy()
+            end
+        end
+        end)
+        end
+        end)
+        
+        function AutoHaki()
+            if not game:GetService("Players").LocalPlayer.Character:FindFirstChild("HasBuso") then
+                wait(1)
+                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Buso")
+            end
+         end
+        local placeId = game.PlaceId;
+                             if placeId == 2753915549 then
+                                OldWorld = true;
+                             elseif placeId == 4442272183 then
+                                NewWorld = true;
+                             elseif placeId == 7449423635 then
+                                Three = true;
+                                do
+                                   local count = 0;
+                                   for i,v in pairs(game:GetService("Workspace").Map.Turtle:GetChildren()) do
+                                      if v.Name == "Model" and #v:GetChildren() >= 40 and v:FindFirstChild("Meshes/Plank7") and i > 20 then
+                                         v:Destroy()
+                                         count = count + 1
+                                         if count > 2 then
+                                            break
+                                         end
+                                      end
+                                   end
+                                end
+                             end
+                             function CheckQuest()
+                                local MyLevel = game.Players.LocalPlayer.Data.Level.Value
+                                if OldWorld then
+                                   if MyLevel == 1 or MyLevel <= 9 then -- Bandit
+                                    Ms = "Bandit [Lv. 5]"
+                                    NaemQuest = "BanditQuest1"
+                                    LevelQuest = 1
+                                    NameMon = "Bandit"
+                                    CFrameQuest = CFrame.new(1061.66699, 16.5166187, 1544.52905, -0.942978859, -3.33851502e-09, 0.332852632, 7.04340497e-09, 1, 2.99841325e-08, -0.332852632, 3.06188177e-08, -0.942978859)
+                                    CFrameMon = CFrame.new(1199.31287, 52.2717781, 1536.91516, -0.929782331, 6.60215846e-08, -0.368109822, 3.9077392e-08, 1, 8.06501603e-08, 0.368109822, 6.06023249e-08, -0.929782331)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 10 or MyLevel <= 14 then -- Monkey
+                                    magbring = 400
+                                    Ms = "Monkey [Lv. 14]"
+                                    NaemQuest = "JungleQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Monkey"
+                                    CFrameQuest = CFrame.new(-1604.12012, 36.8521118, 154.23732, 0.0648873374, -4.70858913e-06, -0.997892559, 1.41431883e-07, 1, -4.70933674e-06, 0.997892559, 1.64442184e-07, 0.0648873374)
+                                    CFrameMon = CFrame.new(-1502.74609, 98.5633316, 90.6417007, 0.836947978, 0, 0.547282517, -0, 1, -0, -0.547282517, 0, 0.836947978)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 500 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 15 or MyLevel <= 29 then -- Gorilla
+                                    magbring = 240
+                                    Ms = "Gorilla [Lv. 20]"
+                                    NaemQuest = "JungleQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Gorilla"
+                                    CFrameQuest = CFrame.new(-1604.12012, 36.8521118, 154.23732, 0.0648873374, -4.70858913e-06, -0.997892559, 1.41431883e-07, 1, -4.70933674e-06, 0.997892559, 1.64442184e-07, 0.0648873374)
+                                    CFrameMon = CFrame.new(-1223.52808, 6.27936459, -502.292664, 0.310949147, -5.66602516e-08, 0.950426519, -3.37275488e-08, 1, 7.06501808e-08, -0.950426519, -5.40241736e-08, 0.310949147)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 30 or MyLevel <= 39 then -- Pirate
+                                    Dis = 150
+                                    Ms = "Pirate [Lv. 35]"
+                                    NaemQuest = "BuggyQuest1"
+                                    LevelQuest = 1
+                                    NameMon = "Pirate"
+                                    CFrameQuest = CFrame.new(-1139.59717, 4.75205183, 3825.16211, -0.959730506, -7.5857054e-09, 0.280922383, -4.06310328e-08, 1, -1.11807175e-07, -0.280922383, -1.18718916e-07, -0.959730506)
+                                    CFrameMon = CFrame.new(-1219.32324, 4.75205183, 3915.63452, -0.966492832, -6.91238853e-08, 0.25669381, -5.21195496e-08, 1, 7.3047012e-08, -0.25669381, 5.72206496e-08, -0.966492832)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 40 or MyLevel <= 59 then -- Brute
+                                    Dis = 150
+                                    Ms = "Brute [Lv. 45]"
+                                    NaemQuest = "BuggyQuest1"
+                                    LevelQuest = 2
+                                    NameMon = "Brute"
+                                    CFrameQuest = CFrame.new(-1139.59717, 4.75205183, 3825.16211, -0.959730506, -7.5857054e-09, 0.280922383, -4.06310328e-08, 1, -1.11807175e-07, -0.280922383, -1.18718916e-07, -0.959730506)
+                                    CFrameMon = CFrame.new(-1146.49646, 96.0936813, 4312.1333, -0.978175163, -1.53222057e-08, 0.207781896, -3.33316912e-08, 1, -8.31738873e-08, -0.207781896, -8.82843523e-08, -0.978175163)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 60 or MyLevel <= 74 then -- Desert Bandit
+                                    Ms = "Desert Bandit [Lv. 60]"
+                                    NaemQuest = "DesertQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Desert Bandit"
+                                    CFrameQuest = CFrame.new(897.031128, 6.43846416, 4388.97168, -0.804044724, 3.68233266e-08, 0.594568789, 6.97835176e-08, 1, 3.24365246e-08, -0.594568789, 6.75715199e-08, -0.804044724)
+                                    CFrameMon = CFrame.new(932.788818, 6.4503746, 4488.24609, -0.998625934, 3.08948351e-08, 0.0524050146, 2.79967303e-08, 1, -5.60361286e-08, -0.0524050146, -5.44919629e-08, -0.998625934)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 500 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 75 or MyLevel <= 89 then -- Desert Officre
+                                    Ms = "Desert Officer [Lv. 70]"
+                                    NaemQuest = "DesertQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Desert Officer"
+                                    CFrameQuest = CFrame.new(897.031128, 6.43846416, 4388.97168, -0.804044724, 3.68233266e-08, 0.594568789, 6.97835176e-08, 1, 3.24365246e-08, -0.594568789, 6.75715199e-08, -0.804044724)
+                                    CFrameMon = CFrame.new(1580.03198, 4.61375761, 4366.86426, 0.135744005, -6.44280718e-08, -0.990743816, 4.35738308e-08, 1, -5.90598574e-08, 0.990743816, -3.51534837e-08, 0.135744005)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 90 or MyLevel <= 99 then -- Snow Bandits
+                                    Ms = "Snow Bandit [Lv. 90]"
+                                    NaemQuest = "SnowQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Snow Bandits"
+                                    CFrameQuest = CFrame.new(1384.14001, 87.272789, -1297.06482, 0.348555952, -2.53947841e-09, -0.937287986, 1.49860568e-08, 1, 2.86358204e-09, 0.937287986, -1.50443711e-08, 0.348555952)
+                                    CFrameMon = CFrame.new(1370.24316, 102.403511, -1411.52905, 0.980274439, -1.12995728e-08, 0.197641045, -9.57343449e-09, 1, 1.04655214e-07, -0.197641045, -1.04482936e-07, 0.980274439)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 500 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 100 or MyLevel <= 119 then -- Snowman
+                                    Ms = "Snowman [Lv. 100]"
+                                    NaemQuest = "SnowQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Snowman"
+                                    CFrameQuest = CFrame.new(1384.14001, 87.272789, -1297.06482, 0.348555952, -2.53947841e-09, -0.937287986, 1.49860568e-08, 1, 2.86358204e-09, 0.937287986, -1.50443711e-08, 0.348555952)
+                                    CFrameMon = CFrame.new(1370.24316, 102.403511, -1411.52905, 0.980274439, -1.12995728e-08, 0.197641045, -9.57343449e-09, 1, 1.04655214e-07, -0.197641045, -1.04482936e-07, 0.980274439)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 120 or MyLevel <= 149 then -- Chief Petty Officer
+                                    Ms = "Chief Petty Officer [Lv. 120]"
+                                    NaemQuest = "MarineQuest2"
+                                    LevelQuest = 1
+                                    NameMon = "Chief Petty Officer"
+                                    CFrameQuest = CFrame.new(-5035.0835, 28.6520386, 4325.29443, 0.0243340395, -7.08064647e-08, 0.999703884, -6.36926814e-08, 1, 7.23777944e-08, -0.999703884, -6.54350671e-08, 0.0243340395)
+                                    CFrameMon = CFrame.new(-4882.8623, 22.6520386, 4255.53516, 0.273695946, -5.40380647e-08, -0.96181643, 4.37720793e-08, 1, -4.37274998e-08, 0.96181643, -3.01326679e-08, 0.273695946)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 500 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 150 or MyLevel <= 174 then -- Sky Bandit
+                                    Ms = "Sky Bandit [Lv. 150]"
+                                    NaemQuest = "SkyQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Sky Bandit"
+                                    CFrameQuest = CFrame.new(-4841.83447, 717.669617, -2623.96436, -0.875942111, 5.59710216e-08, -0.482416272, 3.04023082e-08, 1, 6.08195947e-08, 0.482416272, 3.86078725e-08, -0.875942111)
+                                    CFrameMon = CFrame.new(-4970.74219, 294.544342, -2890.11353, -0.994874597, -8.61311236e-08, -0.101116329, -9.10836206e-08, 1, 4.43614923e-08, 0.101116329, 5.33441664e-08, -0.994874597)
+                                    if _G.AUTOFARM and _G.By_Pass and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1000 then
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-4607.82275, 872.54248, -1667.55688))
+                                    end
+                                elseif MyLevel == 175 or MyLevel <= 189 then -- Dark Master
+                                    Ms = "Dark Master [Lv. 175]"
+                                    NaemQuest = "SkyQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Dark Master"
+                                    CFrameQuest = CFrame.new(-4841.83447, 717.669617, -2623.96436, -0.875942111, 5.59710216e-08, -0.482416272, 3.04023082e-08, 1, 6.08195947e-08, 0.482416272, 3.86078725e-08, -0.875942111)
+                                    CFrameMon = CFrame.new(-5220.58594, 430.693298, -2278.17456, -0.925375521, 1.12086873e-08, 0.379051805, -1.05115507e-08, 1, -5.52320891e-08, -0.379051805, -5.50948407e-08, -0.925375521)
+                                    if _G.AUTOFARM and _G.By_Pass and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1000 then
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-4607.82275, 872.54248, -1667.55688))
+                                    end
+                                elseif MyLevel == 190 or MyLevel <= 209 then -- Dark Master
+                                    Ms = "Prisoner [Lv. 190]"
+                                    NaemQuest = "PrisonerQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Prisoner"
+                                    CFrameQuest = CFrame.new(5310.61, 0.350015, 474.947)
+                                    CFrameMon = CFrame.new(4977.88525390625, 72.67780303955078, 498.108642578125)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 210 or MyLevel <= 249 then -- Dark Master
+                                    Ms = "Dangerous Prisoner [Lv. 210]"
+                                    NaemQuest = "PrisonerQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Dangerous Prisoner"
+                                    CFrameQuest = CFrame.new(5310.61, 0.350015, 474.947)
+                                    CFrameMon = CFrame.new(5656.42333984375, 72.67793273925781, 866.1055908203125)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 250 or MyLevel <= 274 then -- Toga Warrior
+                                    Ms = "Toga Warrior [Lv. 250]"
+                                    NaemQuest = "ColosseumQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Toga Warrior"
+                                    CFrameQuest = CFrame.new(-1576.11743, 7.38933945, -2983.30762, 0.576966345, 1.22114863e-09, 0.816767931, -3.58496594e-10, 1, -1.24185606e-09, -0.816767931, 4.2370063e-10, 0.576966345)
+                                    CFrameMon = CFrame.new(-1779.97583, 44.6077499, -2736.35474, 0.984437346, 4.10396339e-08, 0.175734788, -3.62286876e-08, 1, -3.05844168e-08, -0.175734788, 2.3741821e-08, 0.984437346)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 275 or MyLevel <= 299 then -- Gladiato
+                                    Ms = "Gladiator [Lv. 275]"
+                                    NaemQuest = "ColosseumQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Gladiato"
+                                    CFrameQuest = CFrame.new(-1576.11743, 7.38933945, -2983.30762, 0.576966345, 1.22114863e-09, 0.816767931, -3.58496594e-10, 1, -1.24185606e-09, -0.816767931, 4.2370063e-10, 0.576966345)
+                                    CFrameMon = CFrame.new(-1274.75903, 58.1895943, -3188.16309, 0.464524001, 6.21005611e-08, 0.885560572, -4.80449414e-09, 1, -6.76054768e-08, -0.885560572, 2.71497012e-08, 0.464524001)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 300 or MyLevel <= 329 then -- Military Soldier
+                                    Ms = "Military Soldier [Lv. 300]"
+                                    NaemQuest = "MagmaQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Military Soldier"
+                                    CFrameQuest = CFrame.new(-5316.55859, 12.2370615, 8517.2998, 0.588437557, -1.37880001e-08, -0.808542669, -2.10116209e-08, 1, -3.23446478e-08, 0.808542669, 3.60215964e-08, 0.588437557)
+                                    CFrameMon = CFrame.new(-5363.01123, 41.5056877, 8548.47266, -0.578253984, -3.29503091e-10, 0.815856814, 9.11209668e-08, 1, 6.498761e-08, -0.815856814, 1.11920997e-07, -0.578253984)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 325 or MyLevel <= 374 then -- Military Spy
+                                    FM = false
+                                    Ms = "Military Spy [Lv. 325]"
+                                    NaemQuest = "MagmaQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Military Spy"
+                                    CFrameQuest = CFrame.new(-5316.55859, 12.2370615, 8517.2998, 0.588437557, -1.37880001e-08, -0.808542669, -2.10116209e-08, 1, -3.23446478e-08, 0.808542669, 3.60215964e-08, 0.588437557)
+                                    CFrameMon = CFrame.new(-5787.99023, 120.864456, 8762.25293, -0.188358366, -1.84706277e-08, 0.982100308, -1.23782129e-07, 1, -4.93306951e-09, -0.982100308, -1.22495649e-07, -0.188358366)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 375 or MyLevel <= 399 then -- Fishman Warrior
+                                    FM = true
+                                    Ms = "Fishman Warrior [Lv. 375]"
+                                    NaemQuest = "FishmanQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Fishman Warrior"
+                                    CFrameQuest = CFrame.new(61122.5625, 18.4716396, 1568.16504, 0.893533468, 3.95251609e-09, 0.448996574, -2.34327455e-08, 1, 3.78297464e-08, -0.448996574, -4.43233645e-08, 0.893533468)
+                                    CFrameMon = CFrame.new(60946.6094, 48.6735229, 1525.91687, -0.0817126185, 8.90751153e-08, 0.996655822, 2.00889794e-08, 1, -8.77269599e-08, -0.996655822, 1.28533992e-08, -0.0817126185)
+                                    if _G.AUTOFARM and _G.By_Pass and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 11.6796875, 1819.7841796875))
+                                    end
+                                elseif MyLevel == 400 or MyLevel <= 449 then -- Fishman Commando
+                                    FM = true
+                                    Ms = "Fishman Commando [Lv. 400]"
+                                    NaemQuest = "FishmanQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Fishman Commando"
+                                    CFrameQuest = CFrame.new(61122.5625, 18.4716396, 1568.16504, 0.893533468, 3.95251609e-09, 0.448996574, -2.34327455e-08, 1, 3.78297464e-08, -0.448996574, -4.43233645e-08, 0.893533468)
+                                    CFrameMon = CFrame.new(61885.5039, 18.4828243, 1504.17896, 0.577502489, 0, -0.816389024, -0, 1.00000012, -0, 0.816389024, 0, 0.577502489)
+                                    if _G.AUTOFARM and _G.By_Pass and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(61163.8515625, 11.6796875, 1819.7841796875))
+                                    end
+                                elseif MyLevel == 450 or MyLevel <= 474 then -- God's Guards
+                                    FM = false
+                                    Ms = "God's Guard [Lv. 450]"
+                                    NaemQuest = "SkyExp1Quest"
+                                    LevelQuest = 1
+                                    NameMon = "God's Guards"
+                                    CFrameQuest = CFrame.new(-4721.71436, 845.277161, -1954.20105, -0.999277651, -5.56969759e-09, 0.0380011722, -4.14751478e-09, 1, 3.75035256e-08, -0.0380011722, 3.73188307e-08, -0.999277651)
+                                    CFrameMon = CFrame.new(-4716.95703, 853.089722, -1933.92542, -0.93441087, -6.77488776e-09, -0.356197298, 1.12145182e-08, 1, -4.84390199e-08, 0.356197298, -4.92565206e-08, -0.93441087)
+                                    if _G.AUTOFARM and _G.By_Pass and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-4607.82275, 872.54248, -1667.55688))
+                                    end
+                                elseif MyLevel == 475 or MyLevel <= 524 then -- Shandas
+                                    sky = false
+                                    Ms = "Shanda [Lv. 475]"
+                                    NaemQuest = "SkyExp1Quest"
+                                    LevelQuest = 2
+                                    NameMon = "Shandas"
+                                    CFrameQuest = CFrame.new(-7863.63672, 5545.49316, -379.826324, 0.362120807, -1.98046344e-08, -0.93213129, 4.05822291e-08, 1, -5.48095125e-09, 0.93213129, -3.58431969e-08, 0.362120807)
+                                    CFrameMon = CFrame.new(-7685.12354, 5601.05127, -443.171509, 0.150056243, 1.79768236e-08, -0.988677442, 6.67798661e-09, 1, 1.91962481e-08, 0.988677442, -9.48289181e-09, 0.150056243)
+                                    if _G.AUTOFARM and _G.By_Pass and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(-7894.6176757813, 5547.1416015625, -380.29119873047))
+                                    end
+                                elseif MyLevel == 525 or MyLevel <= 549 then -- Royal Squad
+                                    sky = true
+                                    Ms = "Royal Squad [Lv. 525]"
+                                    NaemQuest = "SkyExp2Quest"
+                                    LevelQuest = 1
+                                    NameMon = "Royal Squad"
+                                    CFrameQuest = CFrame.new(-7902.66895, 5635.96387, -1411.71802, 0.0504222959, 2.5710392e-08, 0.998727977, 1.12541557e-07, 1, -3.14249675e-08, -0.998727977, 1.13982921e-07, 0.0504222959)
+                                    CFrameMon = CFrame.new(-7685.02051, 5606.87842, -1442.729, 0.561947823, 7.69527464e-09, -0.827172697, -4.24974544e-09, 1, 6.41599973e-09, 0.827172697, -9.01838604e-11, 0.561947823)
+                                elseif MyLevel == 550 or MyLevel <= 624 then -- Royal Soldier
+                                    Dis = 240
+                                    sky = true
+                                    Ms = "Royal Soldier [Lv. 550]"
+                                    NaemQuest = "SkyExp2Quest"
+                                    LevelQuest = 2
+                                    NameMon = "Royal Soldier"
+                                    CFrameQuest = CFrame.new(-7902.66895, 5635.96387, -1411.71802, 0.0504222959, 2.5710392e-08, 0.998727977, 1.12541557e-07, 1, -3.14249675e-08, -0.998727977, 1.13982921e-07, 0.0504222959)
+                                    CFrameMon = CFrame.new(-7864.44775, 5661.94092, -1708.22351, 0.998389959, 2.28686137e-09, -0.0567218624, 1.99431383e-09, 1, 7.54200258e-08, 0.0567218624, -7.54117195e-08, 0.998389959)
+                                elseif MyLevel == 625 or MyLevel <= 649 then -- Galley Pirate
+                                    Dis = 240
+                                    sky = false
+                                    Ms = "Galley Pirate [Lv. 625]"
+                                    NaemQuest = "FountainQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Galley Pirate"
+                                    CFrameQuest = CFrame.new(5254.60156, 38.5011406, 4049.69678, -0.0504891425, -3.62066501e-08, -0.998724639, -9.87921389e-09, 1, -3.57534553e-08, 0.998724639, 8.06145284e-09, -0.0504891425)
+                                    CFrameMon = CFrame.new(5595.06982, 41.5013695, 3961.47095, -0.992138803, -2.11610267e-08, -0.125142589, -1.34249509e-08, 1, -6.26613996e-08, 0.125142589, -6.04887518e-08, -0.992138803)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel >= 650 then -- Galley Captain
+                                    Dis = 240
+                                    Ms = "Galley Captain [Lv. 650]"
+                                    NaemQuest = "FountainQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Galley Captain"
+                                    CFrameQuest = CFrame.new(5254.60156, 38.5011406, 4049.69678, -0.0504891425, -3.62066501e-08, -0.998724639, -9.87921389e-09, 1, -3.57534553e-08, 0.998724639, 8.06145284e-09, -0.0504891425)
+                                    CFrameMon = CFrame.new(5658.5752, 38.5361786, 4928.93506, -0.996873081, 2.12391046e-06, -0.0790185928, 2.16989656e-06, 1, -4.96097414e-07, 0.0790185928, -6.66008248e-07, -0.996873081)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                end
+                            elseif NewWorld then
+                                local MyLevel = game.Players.LocalPlayer.Data.Level.Value
+                                Dis = 240
+                                if MyLevel == 700 or MyLevel <= 724 then -- Raider [Lv. 700]
+                                    Ms = "Raider [Lv. 700]"
+                                    NaemQuest = "Area1Quest"
+                                    LevelQuest = 1
+                                    NameMon = "Raider"
+                                    CFrameQuest = CFrame.new(-424.080078, 73.0055847, 1836.91589, 0.253544956, -1.42165932e-08, 0.967323601, -6.00147771e-08, 1, 3.04272909e-08, -0.967323601, -6.5768397e-08, 0.253544956)
+                                    CFrameMon = CFrame.new(-217.138626, 39.2450829, 2393.54468, 0.146848485, 0, -0.989159107, 0, 1, 0, 0.989159107, 0, 0.146848485)
+                                elseif MyLevel == 725 or MyLevel <= 774 then -- Mercenary [Lv. 725]
+                                    Ms = "Mercenary [Lv. 725]"
+                                    NaemQuest = "Area1Quest"
+                                    LevelQuest = 2
+                                    NameMon = "Mercenary"
+                                    CFrameQuest = CFrame.new(-424.080078, 73.0055847, 1836.91589, 0.253544956, -1.42165932e-08, 0.967323601, -6.00147771e-08, 1, 3.04272909e-08, -0.967323601, -6.5768397e-08, 0.253544956)
+                                    CFrameMon = CFrame.new(-973.731995, 95.8733215, 1836.46936, 0.999135971, 2.02326991e-08, -0.0415605344, -1.90767793e-08, 1, 2.82094952e-08, 0.0415605344, -2.73922804e-08, 0.999135971)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 1000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 775 or MyLevel <= 799 then -- Swan Pirate [Lv. 775]
+                                    Ms = "Swan Pirate [Lv. 775]"
+                                    NaemQuest = "Area2Quest"
+                                    LevelQuest = 1
+                                    NameMon = "Swan Pirate"
+                                    CFrameQuest = CFrame.new(632.698608, 73.1055908, 918.666321, -0.0319722369, 8.96074881e-10, -0.999488771, 1.36326533e-10, 1, 8.92172336e-10, 0.999488771, -1.07732087e-10, -0.0319722369)
+                                    CFrameMon = CFrame.new(970.369446, 142.653198, 1217.3667, 0.162079468, -4.85452638e-08, -0.986777723, 1.03357589e-08, 1, -4.74980872e-08, 0.986777723, -2.50063148e-09, 0.162079468)
+                                elseif MyLevel == 800 or MyLevel <= 874 then -- Factory Staff [Lv. 800]
+                                    Ms = "Factory Staff [Lv. 800]"
+                                    NaemQuest = "Area2Quest"
+                                    LevelQuest = 2
+                                    NameMon = "Factory Staff"
+                                    CFrameQuest = CFrame.new(632.698608, 73.1055908, 918.666321, -0.0319722369, 8.96074881e-10, -0.999488771, 1.36326533e-10, 1, 8.92172336e-10, 0.999488771, -1.07732087e-10, -0.0319722369)
+                                    CFrameMon = CFrame.new(296.786499, 72.9948196, -57.1298141, -0.876037002, -5.32364979e-08, 0.482243896, -3.87658332e-08, 1, 3.99718729e-08, -0.482243896, 1.63222538e-08, -0.876037002)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 875 or MyLevel <= 899 then -- Marine Lieutenant [Lv. 875]
+                                    Ms = "Marine Lieutenant [Lv. 875]"
+                                    NaemQuest = "MarineQuest3"
+                                    LevelQuest = 1
+                                    NameMon = "Marine Lieutenant"
+                                    CFrameQuest = CFrame.new(-2442.65015, 73.0511475, -3219.11523, -0.873540044, 4.2329841e-08, -0.486752301, 5.64383384e-08, 1, -1.43220786e-08, 0.486752301, -3.99823996e-08, -0.873540044)
+                                    CFrameMon = CFrame.new(-2913.26367, 73.0011826, -2971.64282, 0.910507619, 0, 0.413492233, 0, 1.00000012, 0, -0.413492233, 0, 0.910507619)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 900 or MyLevel <= 949 then -- Marine Captain [Lv. 900]
+                                    Ms = "Marine Captain [Lv. 900]"
+                                    NaemQuest = "MarineQuest3"
+                                    LevelQuest = 2
+                                    NameMon = "Marine Captain"
+                                    CFrameQuest = CFrame.new(-2442.65015, 73.0511475, -3219.11523, -0.873540044, 4.2329841e-08, -0.486752301, 5.64383384e-08, 1, -1.43220786e-08, 0.486752301, -3.99823996e-08, -0.873540044)
+                                    CFrameMon = CFrame.new(-1868.67688, 73.0011826, -3321.66333, -0.971402287, 1.06502087e-08, 0.237439692, 3.68856199e-08, 1, 1.06050372e-07, -0.237439692, 1.11775684e-07, -0.971402287)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 950 or MyLevel <= 974 then -- Zombie [Lv. 950]
+                                    Ms = "Zombie [Lv. 950]"
+                                    NaemQuest = "ZombieQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Zombie"
+                                    CFrameQuest = CFrame.new(-5492.79395, 48.5151672, -793.710571, 0.321800292, -6.24695815e-08, 0.946807742, 4.05616092e-08, 1, 5.21931227e-08, -0.946807742, 2.16082796e-08, 0.321800292)
+                                    CFrameMon = CFrame.new(-5634.83838, 126.067039, -697.665039, -0.992770672, 6.77618939e-09, 0.120025545, 1.65461245e-08, 1, 8.04023372e-08, -0.120025545, 8.18070234e-08, -0.992770672)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 975 or MyLevel <= 999 then -- Vampire [Lv. 975]
+                                    Ms = "Vampire [Lv. 975]"
+                                    NaemQuest = "ZombieQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Vampire"
+                                    CFrameQuest = CFrame.new(-5492.79395, 48.5151672, -793.710571, 0.321800292, -6.24695815e-08, 0.946807742, 4.05616092e-08, 1, 5.21931227e-08, -0.946807742, 2.16082796e-08, 0.321800292)
+                                    CFrameMon = CFrame.new(-6030.32031, 6.4377408, -1313.5564, -0.856965423, 3.9138893e-08, -0.515373945, -1.12178942e-08, 1, 9.45958547e-08, 0.515373945, 8.68467822e-08, -0.856965423)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1000 or MyLevel <= 1049 then -- Snow Trooper [Lv. 1000] **
+                                    Ms = "Snow Trooper [Lv. 1000]"
+                                    NaemQuest = "SnowMountainQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Snow Trooper"
+                                    CFrameQuest = CFrame.new(604.964966, 401.457062, -5371.69287, 0.353063971, 1.89520435e-08, -0.935599446, -5.81846002e-08, 1, -1.70033754e-09, 0.935599446, 5.50377841e-08, 0.353063971)
+                                    CFrameMon = CFrame.new(535.893433, 401.457062, -5329.6958, -0.999524176, 0, 0.0308452044, 0, 1, -0, -0.0308452044, 0, -0.999524176)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1050 or MyLevel <= 1099 then -- Winter Warrior [Lv. 1050]
+                                    Ms = "Winter Warrior [Lv. 1050]"
+                                    NaemQuest = "SnowMountainQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Winter Warrior"
+                                    CFrameQuest = CFrame.new(604.964966, 401.457062, -5371.69287, 0.353063971, 1.89520435e-08, -0.935599446, -5.81846002e-08, 1, -1.70033754e-09, 0.935599446, 5.50377841e-08, 0.353063971)
+                                    CFrameMon = CFrame.new(1223.7417, 454.575226, -5170.02148, 0.473996818, 2.56845354e-08, 0.880526543, -5.62456428e-08, 1, 1.10811016e-09, -0.880526543, -5.00510211e-08, 0.473996818)
+                                
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1100 or MyLevel <= 1124 then -- Lab Subordinate [Lv. 1100]
+                                    Ms = "Lab Subordinate [Lv. 1100]"
+                                    NaemQuest = "IceSideQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Lab Subordinate"
+                                    CFrameQuest = CFrame.new(-6060.10693, 15.9868021, -4904.7876, -0.411000341, -5.06538868e-07, 0.91163528, 1.26306062e-07, 1, 6.12581289e-07, -0.91163528, 3.66916197e-07, -0.411000341)
+                                    CFrameMon = CFrame.new(-5769.2041, 37.9288292, -4468.38721, -0.569419742, -2.49055017e-08, 0.822046936, -6.96206541e-08, 1, -1.79282633e-08, -0.822046936, -6.74401548e-08, -0.569419742)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1125 or MyLevel <= 1174 then -- Horned Warrior [Lv. 1125]
+                                    Ms = "Horned Warrior [Lv. 1125]"
+                                    NaemQuest = "IceSideQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Horned Warrior"
+                                    CFrameQuest = CFrame.new(-6060.10693, 15.9868021, -4904.7876, -0.411000341, -5.06538868e-07, 0.91163528, 1.26306062e-07, 1, 6.12581289e-07, -0.91163528, 3.66916197e-07, -0.411000341)
+                                    CFrameMon = CFrame.new(-6400.85889, 24.7645149, -5818.63574, -0.964845479, 8.65926566e-08, -0.262817472, 3.98261392e-07, 1, -1.13260398e-06, 0.262817472, -1.19745812e-06, -0.964845479)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1175 or MyLevel <= 1199 then -- Magma Ninja [Lv. 1175]
+                                    Ms = "Magma Ninja [Lv. 1175]"
+                                    NaemQuest = "FireSideQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Magma Ninja"
+                                    CFrameQuest = CFrame.new(-5431.09473, 15.9868021, -5296.53223, 0.831796765, 1.15322464e-07, -0.555080295, -1.10814341e-07, 1, 4.17010995e-08, 0.555080295, 2.68240168e-08, 0.831796765)
+                                    CFrameMon = CFrame.new(-5496.65576, 58.6890411, -5929.76855, -0.885073781, 0, -0.465450764, 0, 1.00000012, -0, 0.465450764, 0, -0.885073781)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1200 or MyLevel <= 1249 then -- Lava Pirate [Lv. 1200]
+                                    Ms = "Lava Pirate [Lv. 1200]"
+                                    NaemQuest = "FireSideQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Lava Pirate"
+                                    CFrameQuest = CFrame.new(-5431.09473, 15.9868021, -5296.53223, 0.831796765, 1.15322464e-07, -0.555080295, -1.10814341e-07, 1, 4.17010995e-08, 0.555080295, 2.68240168e-08, 0.831796765)
+                                    CFrameMon = CFrame.new(-5169.71729, 34.1234779, -4669.73633, -0.196780294, 0, 0.98044765, 0, 1.00000012, -0, -0.98044765, 0, -0.196780294)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1250 or MyLevel <= 1274 then -- Ship Deckhand [Lv. 1250]
+                                    Ms = "Ship Deckhand [Lv. 1250]"
+                                    NaemQuest = "ShipQuest1"
+                                    LevelQuest = 1
+                                    NameMon = "Ship Deckhand"
+                                    CFrameQuest = CFrame.new(1037.80127, 125.092171, 32911.6016, -0.244533166, -0, -0.969640911, -0, 1.00000012, -0, 0.96964103, 0, -0.244533136)
+                                    CFrameMon = CFrame.new(1163.80872, 138.288452, 33058.4258, -0.998580813, 5.49076979e-08, -0.0532564968, 5.57436763e-08, 1, -1.42118655e-08, 0.0532564968, -1.71604082e-08, -0.998580813)
+                                    if _G.AUTOFARM and _G.By_Pass and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+                                    end
+                                elseif MyLevel == 1275 or MyLevel <= 1299 then -- Ship Engineer [Lv. 1275]
+                                    Ms = "Ship Engineer [Lv. 1275]"
+                                    NaemQuest = "ShipQuest1"
+                                    LevelQuest = 2
+                                    NameMon = "Ship Engineer"
+                                    CFrameQuest = CFrame.new(1037.80127, 125.092171, 32911.6016, -0.244533166, -0, -0.969640911, -0, 1.00000012, -0, 0.96964103, 0, -0.244533136)
+                                    CFrameMon = CFrame.new(916.666504, 44.0920448, 32917.207, -0.99746871, -4.85034697e-08, -0.0711069331, -4.8925461e-08, 1, 4.19294288e-09, 0.0711069331, 7.66126895e-09, -0.99746871)
+                                    if _G.AUTOFARM and _G.By_Pass and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+                                    end
+                                elseif MyLevel == 1300 or MyLevel <= 1324 then -- Ship Steward [Lv. 1300]
+                                    Ms = "Ship Steward [Lv. 1300]"
+                                    NaemQuest = "ShipQuest2"
+                                    LevelQuest = 1
+                                    NameMon = "Ship Steward"
+                                    CFrameQuest = CFrame.new(968.80957, 125.092171, 33244.125, -0.869560242, 1.51905191e-08, -0.493826836, 1.44108379e-08, 1, 5.38534195e-09, 0.493826836, -2.43357912e-09, -0.869560242)
+                                    CFrameMon = CFrame.new(918.743286, 129.591064, 33443.4609, -0.999792814, -1.7070947e-07, -0.020350717, -1.72559169e-07, 1, 8.91351277e-08, 0.020350717, 9.2628369e-08, -0.999792814)
+                                    if _G.AUTOFARM and _G.By_Pass and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+                                    end
+                                elseif MyLevel == 1325 or MyLevel <= 1349 then -- Ship Officer [Lv. 1325]
+                                    Ms = "Ship Officer [Lv. 1325]"
+                                    NaemQuest = "ShipQuest2"
+                                    LevelQuest = 2
+                                    NameMon = "Ship Officer"
+                                    CFrameQuest = CFrame.new(968.80957, 125.092171, 33244.125, -0.869560242, 1.51905191e-08, -0.493826836, 1.44108379e-08, 1, 5.38534195e-09, 0.493826836, -2.43357912e-09, -0.869560242)
+                                    CFrameMon = CFrame.new(786.051941, 181.474106, 33303.2969, 0.999285698, -5.32193063e-08, 0.0377905183, 5.68968588e-08, 1, -9.62386864e-08, -0.0377905183, 9.83201005e-08, 0.999285698)
+                                    if _G.AUTOFARM and _G.By_Pass and (CFrameQuest.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("requestEntrance",Vector3.new(923.21252441406, 126.9760055542, 32852.83203125))
+                                    end
+                                elseif MyLevel == 1350 or MyLevel <= 1374 then -- Arctic Warrior [Lv. 1350]
+                                    Ms = "Arctic Warrior [Lv. 1350]"
+                                    NaemQuest = "FrostQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Arctic Warrior"
+                                    CFrameQuest = CFrame.new(5669.43506, 28.2117786, -6482.60107, 0.888092756, 1.02705066e-07, 0.459664226, -6.20391774e-08, 1, -1.03572376e-07, -0.459664226, 6.34646895e-08, 0.888092756)
+                                    CFrameMon = CFrame.new(5995.07471, 57.3188477, -6183.47314, 0.702747107, -1.53454167e-07, -0.711440146, -1.08168464e-07, 1, -3.22542007e-07, 0.711440146, 3.03620908e-07, 0.702747107)
+                                    if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 10000 then
+                                        game.Players.LocalPlayer.Character.Head:Destroy()
+                                        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                        wait(1)
+                                        game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                    end
+                                elseif MyLevel == 1375 or MyLevel <= 1424 then -- Snow Lurker [Lv. 1375]
+                                    Ms = "Snow Lurker [Lv. 1375]"
+                                    NaemQuest = "FrostQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Snow Lurker"
+                                    CFrameQuest = CFrame.new(5669.43506, 28.2117786, -6482.60107, 0.888092756, 1.02705066e-07, 0.459664226, -6.20391774e-08, 1, -1.03572376e-07, -0.459664226, 6.34646895e-08, 0.888092756)
+                                    CFrameMon = CFrame.new(5518.00684, 60.5559731, -6828.80518, -0.650781393, -3.64292951e-08, 0.759265184, -4.07668654e-09, 1, 4.44854642e-08, -0.759265184, 2.58550248e-08, -0.650781393)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1425 or MyLevel <= 1449 then -- Sea Soldier [Lv. 1425]
+                                    Ms = "Sea Soldier [Lv. 1425]"
+                                    NaemQuest = "ForgottenQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Sea Soldier"
+                                    CFrameQuest = CFrame.new(-3052.99097, 236.881363, -10148.1943, -0.997911751, 4.42321983e-08, 0.064591676, 4.90968759e-08, 1, 7.37270085e-08, -0.064591676, 7.67442998e-08, -0.997911751)
+                                    CFrameMon = CFrame.new(-3029.78467, 66.944252, -9777.38184, -0.998552859, 1.09555076e-08, 0.0537791774, 7.79564235e-09, 1, -5.89660658e-08, -0.0537791774, -5.84614881e-08, -0.998552859)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel >= 1450 then -- Water Fighter [Lv. 1450]
+                                    Ms = "Water Fighter [Lv. 1450]"
+                                    NaemQuest = "ForgottenQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Water Fighter"
+                                    CFrameQuest = CFrame.new(-3052.99097, 236.881363, -10148.1943, -0.997911751, 4.42321983e-08, 0.064591676, 4.90968759e-08, 1, 7.37270085e-08, -0.064591676, 7.67442998e-08, -0.997911751)
+                                    CFrameMon = CFrame.new(-3262.00098, 298.699615, -10553.6943, -0.233570755, -4.57538185e-08, 0.972339869, -5.80986068e-08, 1, 3.30992194e-08, -0.972339869, -4.87605725e-08, -0.233570755)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                end
+                            else
+                                local MyLevel =  game.Players.LocalPlayer.Data.Level.Value
+                                Dis = 240
+                                if MyLevel == 1500 or MyLevel <= 1524 then
+                                    Ms = "Pirate Millionaire [Lv. 1500]"
+                                    NaemQuest = "PiratePortQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Pirate Millionaire"
+                                    CFrameQuest = CFrame.new(-290.074677, 42.9034653, 5581.58984, 0.965929627, -0, -0.258804798, 0, 1, -0, 0.258804798, 0, 0.965929627)
+                                    CFrameMon = CFrame.new(81.164993286133, 43.755737304688, 5724.7021484375)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1525 or MyLevel <= 1574 then
+                                    Ms = "Pistol Billionaire [Lv. 1525]"
+                                    NaemQuest = "PiratePortQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Pistol Billionaire"
+                                    CFrameQuest = CFrame.new(-290.074677, 42.9034653, 5581.58984, 0.965929627, -0, -0.258804798, 0, 1, -0, 0.258804798, 0, 0.965929627)
+                                    CFrameMon = CFrame.new(81.164993286133, 43.755737304688, 5724.7021484375)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1575 or MyLevel <= 1599 then
+                                    Ms = "Dragon Crew Warrior [Lv. 1575]"
+                                    NaemQuest = "AmazonQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Dragon Crew Warrior"
+                                    CFrameQuest = CFrame.new(5832.83594, 51.6806107, -1101.51563, 0.898790359, -0, -0.438378751, 0, 1, -0, 0.438378751, 0, 0.898790359)
+                                    CFrameMon = CFrame.new(6241.9951171875, 51.522083282471, -1243.9771728516)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1600 or MyLevel <= 1624 then
+                                    Ms = "Dragon Crew Archer [Lv. 1600]"
+                                    NaemQuest = "AmazonQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Dragon Crew Archer"
+                                    CFrameQuest = CFrame.new(5832.83594, 51.6806107, -1101.51563, 0.898790359, -0, -0.438378751, 0, 1, -0, 0.438378751, 0, 0.898790359)
+                                    CFrameMon = CFrame.new(6488.9155273438, 383.38375854492, -110.66246032715)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1625 or MyLevel <= 1649 then
+                                    Ms = "Female Islander [Lv. 1625]"
+                                    NaemQuest = "AmazonQuest2"
+                                    LevelQuest = 1
+                                    NameMon = "Female Islander"
+                                    CFrameQuest = CFrame.new(5448.86133, 601.516174, 751.130676, 0, 0, 1, 0, 1, -0, -1, 0, 0)
+                                    CFrameMon = CFrame.new(4770.4990234375, 758.95520019531, 1069.8680419922)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1650 or MyLevel <= 1699 then
+                                    Ms = "Giant Islander [Lv. 1650]"
+                                    NaemQuest = "AmazonQuest2"
+                                    LevelQuest = 2
+                                    NameMon = "Giant Islander"
+                                    CFrameQuest = CFrame.new(5448.86133, 601.516174, 751.130676, 0, 0, 1, 0, 1, -0, -1, 0, 0)
+                                    CFrameMon = CFrame.new(4530.3540039063, 656.75695800781, -131.60952758789)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1700 or MyLevel <= 1724 then
+                                    Ms = "Marine Commodore [Lv. 1700]"
+                                    NaemQuest = "MarineTreeIsland"
+                                    LevelQuest = 1
+                                    NameMon = "Marine Commodore"
+                                    CFrameQuest = CFrame.new(2180.54126, 27.8156815, -6741.5498, -0.965929747, 0, 0.258804798, 0, 1, 0, -0.258804798, 0, -0.965929747)
+                                    CFrameMon = CFrame.new(2490.0844726563, 190.4232635498, -7160.0502929688)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1725 or MyLevel <= 1774 then
+                                    Ms = "Marine Rear Admiral [Lv. 1725]"
+                                    NaemQuest = "MarineTreeIsland"
+                                    LevelQuest = 2
+                                    NameMon = "Marine Rear Admiral"
+                                    CFrameQuest = CFrame.new(2180.54126, 27.8156815, -6741.5498, -0.965929747, 0, 0.258804798, 0, 1, 0, -0.258804798, 0, -0.965929747)
+                                    CFrameMon = CFrame.new(3951.3903808594, 229.11549377441, -6912.81640625)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1775 or MyLevel <= 1799 then
+                                    Ms = "Fishman Raider [Lv. 1775]"
+                                    NaemQuest = "DeepForestIsland3"
+                                    LevelQuest = 1
+                                    NameMon = "Fishman Raider"
+                                    CFrameQuest = CFrame.new(-10581.6563, 330.872955, -8761.18652, -0.882952213, 0, 0.469463557, 0, 1, 0, -0.469463557, 0, -0.882952213)
+                                    CFrameMon = CFrame.new(-10322.400390625, 390.94473266602, -8580.0908203125)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1800 or MyLevel <= 1824 then
+                                    Ms = "Fishman Captain [Lv. 1800]"
+                                    NaemQuest = "DeepForestIsland3"
+                                    LevelQuest = 2
+                                    NameMon = "Fishman Captain"
+                                    CFrameQuest = CFrame.new(-10581.6563, 330.872955, -8761.18652, -0.882952213, 0, 0.469463557, 0, 1, 0, -0.469463557, 0, -0.882952213)
+                                    CFrameMon = CFrame.new(-11194.541992188, 442.02795410156, -8608.806640625)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1825 or MyLevel <= 1849 then
+                                    Ms = "Forest Pirate [Lv. 1825]"
+                                    NaemQuest = "DeepForestIsland"
+                                    LevelQuest = 1
+                                    NameMon = "Forest Pirate"
+                                    CFrameQuest = CFrame.new(-13234.04, 331.488495, -7625.40137, 0.707134247, -0, -0.707079291, 0, 1, -0, 0.707079291, 0, 0.707134247)
+                                    CFrameMon = CFrame.new(-13225.809570313, 428.19387817383, -7753.1245117188)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1850 or MyLevel <= 1899 then
+                                    Ms = "Mythological Pirate [Lv. 1850]"
+                                    NaemQuest = "DeepForestIsland"
+                                    LevelQuest = 2
+                                    NameMon = "Mythological Pirate"
+                                    CFrameQuest = CFrame.new(-13234.04, 331.488495, -7625.40137, 0.707134247, -0, -0.707079291, 0, 1, -0, 0.707079291, 0, 0.707134247)
+                                    CFrameMon = CFrame.new(-13869.172851563, 564.95251464844, -7084.4135742188)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1900 or MyLevel <= 1924 then
+                                    Ms = "Jungle Pirate [Lv. 1900]"
+                                    NaemQuest = "DeepForestIsland2"
+                                    LevelQuest = 1
+                                    NameMon = "Jungle Pirate"
+                                    CFrameQuest = CFrame.new(-12680.3818, 389.971039, -9902.01953, -0.0871315002, 0, 0.996196866, 0, 1, 0, -0.996196866, 0, -0.0871315002)
+                                    CFrameMon = CFrame.new(-11982.221679688, 376.32522583008, -10451.415039063)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1925 or MyLevel <= 1974 then
+                                    Ms = "Musketeer Pirate [Lv. 1925]"
+                                    NaemQuest = "DeepForestIsland2"
+                                    LevelQuest = 2
+                                    NameMon = "Musketeer Pirate"
+                                    CFrameQuest = CFrame.new(-12680.3818, 389.971039, -9902.01953, -0.0871315002, 0, 0.996196866, 0, 1, 0, -0.996196866, 0, -0.0871315002)
+                                    CFrameMon = CFrame.new(-13282.3046875, 496.23684692383, -9565.150390625)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 1975 or MyLevel <= 1999 then
+                                    Ms = "Reborn Skeleton [Lv. 1975]"
+                                    NaemQuest = "HauntedQuest1"
+                                    LevelQuest = 1
+                                    NameMon = "Reborn Skeleton"
+                                    CFrameQuest = CFrame.new(-9479.2168, 141.215088, 5566.09277, 0, 0, 1, 0, 1, -0, -1, 0, 0)
+                                    CFrameMon = CFrame.new(-8761.3154296875, 164.85829162598, 6161.1567382813)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2000 or MyLevel <= 2024 then
+                                    Ms = "Living Zombie [Lv. 2000]"
+                                    NaemQuest = "HauntedQuest1"
+                                    LevelQuest = 2
+                                    NameMon = "Living Zombie"
+                                    CFrameQuest = CFrame.new(-9479.2168, 141.215088, 5566.09277, 0, 0, 1, 0, 1, -0, -1, 0, 0)
+                                    CFrameMon = CFrame.new(-10093.930664063, 237.38233947754, 6180.5654296875)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2025 or MyLevel <= 2049 then
+                                    Ms = "Demonic Soul [Lv. 2025]"
+                                    NaemQuest = "HauntedQuest2"
+                                    LevelQuest = 1
+                                    NameMon = "Demonic Soul"
+                                    CFrameQuest = CFrame.new(-9514.78027, 171.162918, 6078.82373, 0.301918149, 7.4535027e-09, 0.953333855, -3.22802141e-09, 1, -6.79604995e-09, -0.953333855, -1.02553133e-09, 0.301918149)
+                                    CFrameMon = CFrame.new(-9503.9921875, 272.1305847167969, 6250.5703125)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2050 or MyLevel <= 2074 then
+                                    Ms = "Posessed Mummy [Lv. 2050]" 
+                                    NaemQuest = "HauntedQuest2"
+                                    LevelQuest = 2
+                                    NameMon = "Posessed Mummy"
+                                    CFrameQuest = CFrame.new(-9514.78027, 171.162918, 6078.82373, 0.301918149, 7.4535027e-09, 0.953333855, -3.22802141e-09, 1, -6.79604995e-09, -0.953333855, -1.02553133e-09, 0.301918149)
+                                    CFrameMon = CFrame.new(-9589.93848, 4.85058546, 6190.27197)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2075 or MyLevel <= 2099 then
+                                    Ms = "Peanut Scout [Lv. 2075]"
+                                    NaemQuest = "NutsIslandQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Peanut Scout"
+                                    CFrameQuest = CFrame.new(-2075.9643554688, 38.129207611084, -10172.815429688)
+                                    CFrameMon = CFrame.new(-2150.587890625, 122.49767303467, -10358.994140625)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2100 or MyLevel <= 2124 then
+                                    Ms = "Peanut President [Lv. 2100]"
+                                    NaemQuest = "NutsIslandQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Peanut President"
+                                    CFrameQuest = CFrame.new(-2075.9643554688, 38.129207611084, -10172.815429688)
+                                    CFrameMon = CFrame.new(-2150.587890625, 122.49767303467, -10358.994140625)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2125 or MyLevel <= 2149 then
+                                    Ms = "Ice Cream Chef [Lv. 2125]"
+                                    NaemQuest = "IceCreamIslandQuest"
+                                    LevelQuest = 1
+                                    NameMon = "Ice Cream Chef"
+                                    CFrameQuest = CFrame.new(-819.84533691406, 65.845329284668, -10965.487304688)
+                                    CFrameMon = CFrame.new(-890.55895996094, 186.34135437012, -11127.306640625)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2150 or MyLevel <= 2199 then
+                                    Ms = "Ice Cream Commander [Lv. 2150]"
+                                    NaemQuest = "IceCreamIslandQuest"
+                                    LevelQuest = 2
+                                    NameMon = "Ice Cream Commander"
+                                    CFrameQuest = CFrame.new(-819.84533691406, 65.845329284668, -10965.487304688)
+                                    CFrameMon = CFrame.new(-890.55895996094, 186.34135437012, -11127.306640625)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2200 or MyLevel <= 2224 then
+                                    Ms = "Cookie Crafter [Lv. 2200]"
+                                    NaemQuest = "CakeQuest1"
+                                    LevelQuest = 1
+                                    NameMon = "Cookie Crafter"
+                                    CFrameQuest = CFrame.new(-2022.3, 36.9276, -12031)
+                                    CFrameMon = CFrame.new(-2280.569091796875, 89.83930206298828, -12041.4326171875)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2225 or MyLevel <= 2249 then
+                                    Ms = "Cake Guard [Lv. 2225]"
+                                    NaemQuest = "CakeQuest1"
+                                    LevelQuest = 2
+                                    NameMon = "Cake Guard"
+                                    CFrameQuest = CFrame.new(-2022.3, 36.9276, -12031)
+                                    CFrameMon = CFrame.new(-1621.9512939453125, 195.68287658691406, -12281.0908203125)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2250 or MyLevel <= 2274 then
+                                    Ms = "Baking Staff [Lv. 2250]"
+                                    NaemQuest = "CakeQuest2"
+                                    LevelQuest = 1
+                                    NameMon = "Baking Staff"
+                                    CFrameQuest = CFrame.new(-1928.32, 37.7297, -12840.6)
+                                    CFrameMon = CFrame.new(-1912.928955078125, 113.134033203125, -12990.53515625)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2275 or MyLevel <= 2299 then
+                                    Ms = "Head Baker [Lv. 2275]"
+                                    NaemQuest = "CakeQuest2"
+                                    LevelQuest = 2
+                                    NameMon = "Head Baker"
+                                    CFrameQuest = CFrame.new(-1927.9107666015625, 37.79813003540039, -12843.78515625)
+                                    CFrameMon = CFrame.new(-2203.302490234375, 109.90937042236328, -12788.7333984375)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2300 or MyLevel <= 2324 then
+                                    Ms = "Cocoa Warrior [Lv. 2300]"
+                                    NaemQuest = "ChocQuest1"
+                                    LevelQuest = 1
+                                    NameMon = "Cocoa Warriors"
+                                    CFrameQuest = CFrame.new(231.75, 23.9003, -12200.3)
+                                    CFrameMon = CFrame.new(89.75547790527344, 73.66654968261719, -12315.4609375)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2325 or MyLevel <= 2349 then
+                                    Ms = "Chocolate Bar Battler [Lv. 2325]"
+                                    NaemQuest = "ChocQuest1"
+                                    LevelQuest = 2
+                                    NameMon = "Chocolate Bar Battler"
+                                    CFrameQuest = CFrame.new(231.75, 23.9003, -12200.3)
+                                    CFrameMon = CFrame.new(614.6710205078125, 81.79888153076172, -12578.4521484375)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2350 or MyLevel <= 2399 then
+                                    Ms = "Sweet Thief [Lv. 2350]"
+                                    NaemQuest = "ChocQuest2"
+                                    LevelQuest = 1
+                                    NameMon = "Sweet Thiefs"
+                                    CFrameQuest = CFrame.new(147.222900390625, 24.819623947143555, -12775.2890625)
+                                    CFrameMon = CFrame.new(-92.28578186035156, 132.29556274414062, -12655.9111328125)
+                                if _G.AUTOFARM and _G.By_Pass and (CFrameMon.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude > 3000 then
+                                    game.Players.LocalPlayer.Character.Head:Destroy()
+                                    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameMon
+                                    wait(1)
+                                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint")
+                                end
+                                elseif MyLevel == 2400 or MyLevel <= 2424 then
+                                    Ms = "Candy Pirate [Lv. 2400]"
+                                    NaemQuest = "CandyQuest1"
+                                    LevelQuest = 1
+                                    NameMon = "Candy Pirates"
+                                    CFrameQuest = CFrame.new(-1145.725830078125, 14.107256889343262, -14444.6884765625)
+                                    CFrameMon = CFrame.new(-1419.528076171875, 20.38145637512207, -14322.8681640625)
+                                elseif MyLevel == 2425 or MyLevel <= 99999999999999999999999999999999999999999999999999 then
+                                    Ms = "Snow Demon [Lv. 2425]"
+                                    NaemQuest = "CandyQuest1"
+                                    LevelQuest = 2
+                                    NameMon = "Snow Demon"
+                                    CFrameQuest = CFrame.new(147.222900390625, 24.819623947143555, -12775.2890625)
+                                    CFrameMon = CFrame.new(66.337265, 27.430994, -12946.5674, -0.825375617, -7.78806708e-08, -0.564584017, -5.46535652e-08, 1, -5.80444244e-08, 0.564584017, -1.70519225e-08, -0.825375617)
+                            end
+                        end
+                    end
+        
+        local fastwait,slowwait = task.wait(),wait()
+            spawn(function()
+                while wait() do
+                    if sethiddenproperty then
+                        sethiddenproperty(game.Players.LocalPlayer,"SimulationRadius", math.huge);
+                    end 
+                    if setscriptable then
+                        setscriptable(game.Players.LocalPlayer, "SimulationRadius", true)
+                        game.Players.LocalPlayer.SimulationRadius = math.huge * math.huge, math.huge * math.huge * 1 / 0 * 1 / 0 * 1 / 0 * 1 / 0 * 1 / 0;
+                    end
+                end
+            end)
+        setfflag("HumanoidParallelRemoveNoPhysics", "False");
+        setfflag("HumanoidParallelRemoveNoPhysicsNoSimulate2", "False");
+        setfflag("CrashPadUploadToBacktraceToBacktraceBaseUrl", "");
+        setfflag("CrashUploadToBacktracePercentage", "0");
+        setfflag("CrashUploadToBacktraceBlackholeToken", "");
+        setfflag("CrashUploadToBacktraceWindowsPlayerToken", "");
+        
+        local r=game:GetService("Players").LocalPlayer
+        getgenv().ToTarget=function(p)
+            task.spawn(function()
+                pcall(function()
+                    if r:DistanceFromCharacter(p.Position)<=300 then 
+                        r.Character.HumanoidRootPart.CFrame=p
+                    else if not game.Players.LocalPlayer.Character:FindFirstChild("Root")then 
+                        local K=Instance.new("Part",game.Players.LocalPlayer.Character)
+                        K.Size=Vector3.new(1,0.5,1)
+                        K.Name="Root"
+                        K.Anchored=true
+                        K.Transparency=1
+                        K.CanCollide=false
+                        K.CFrame=game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame*CFrame.new(0,20,0)
+                    end
+        
+                    local U=(game.Players.LocalPlayer.Character.HumanoidRootPart.Position-p.Position).Magnitude
+                    local z=game:service("TweenService")
+                    local B=TweenInfo.new((p.Position-game.Players.LocalPlayer.Character.Root.Position).Magnitude/300,Enum.EasingStyle.Linear)
+                    local S,g=pcall(function()
+                        local q=z:Create(game.Players.LocalPlayer.Character.Root,B,{CFrame=p})
+        q:Play()
+        end)
+        if not S then 
+            return g
+        end
+        game.Players.LocalPlayer.Character.Root.CFrame=game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+        if S and game.Players.LocalPlayer.Character:FindFirstChild("Root")then 
+            pcall(function()
+                if(game.Players.LocalPlayer.Character.HumanoidRootPart.Position-p.Position).Magnitude>=20 then 
+                    spawn(function()
+                        pcall(function()if(game.Players.LocalPlayer.Character.Root.Position-game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude>150 then game.Players.LocalPlayer.Character.Root.CFrame=game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame
+        else game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=game.Players.LocalPlayer.Character.Root.CFrame
+        end
+        end)
+        end)
+        elseif(game.Players.LocalPlayer.Character.HumanoidRootPart.Position-p.Position).Magnitude>=10 and(game.Players.LocalPlayer.Character.HumanoidRootPart.Position-p.Position).Magnitude<20 then 
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=p
+        elseif(game.Players.LocalPlayer.Character.HumanoidRootPart.Position-p.Position).Magnitude<10 then 
+            game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame=p
+        end
+        end)
+        end
+        end
+        end)
+        end)
+        end
+        
+        spawn(function()
+            game:GetService("RunService").Heartbeat:Connect(function()
+                if _G.AUTOFARM then
+                    setfflag("HumanoidParallelRemoveNoPhysics", "False")
+                    setfflag("HumanoidParallelRemoveNoPhysicsNoSimulate2", "False")
+                    game:GetService("Players").LocalPlayer.Character.Humanoid:ChangeState(11)
+                end
+            end)
+        end)
+        
+        task.spawn(function() 
+        _G.Type=math.random(1,5);
+        while task.wait(.2) do
+        _G.Type=math.random(1,5);
+        end;
+        end);
+        
+        require(game:GetService("Players").LocalPlayer.PlayerScripts.CombatFramework.Particle.SlashHit).playAt = function() return nil end;
+        getgenv().A = require(game:GetService("ReplicatedStorage").CombatFramework.RigLib).wrapAttackAnimationAsync 
+        getgenv().B = require(game.Players.LocalPlayer.PlayerScripts.CombatFramework.Particle).play
+        spawn(function()
+            while wait() do
+                if _G.AUTOFARM then
+                    pcall(function()
+                        require(game:GetService("ReplicatedStorage").CombatFramework.RigLib).wrapAttackAnimationAsync =function(a1,a2,a3,a4,a5)
+                            local GetBladeHits = require(game:GetService("ReplicatedStorage").CombatFramework.RigLib).getBladeHits(a2,a3,a4)
+                            if GetBladeHits then
+                                require(game:GetService("ReplicatedStorage").CombatFramework.RigLib).play = function() end;
+                                a1:Play(0.1, 0.1, 0.1);
+                                a5(GetBladeHits);
+                                require(game:GetService("ReplicatedStorage").CombatFramework.RigLib).play = getgenv().B 
+                                wait(.5);
+                                a1:Stop();
+                            end;
+                        end;
+                    end);
+                end
+            end;
+        end);
+        
+        
+        getgenv().BringMobs = function(F, z)
+            coroutine.wrap(function()
+                pcall(function()
+                    for U, d in pairs(game.Workspace.Enemies:GetChildren()) do
+                        if d:FindFirstChild("Humanoid") and d:FindFirstChild("HumanoidRootPart") and (d.Name == z) then
+                            if isnetworkowner ~= nil and isnetworkowner(d:FindFirstChild("HumanoidRootPart")) then
+                                d:FindFirstChild("HumanoidRootPart").Transparency = 1
+                                d:FindFirstChild("Humanoid"):ChangeState(11)
+                                d:FindFirstChild("HumanoidRootPart").Size = Vector3.new(60,60,60)
+                                d:FindFirstChild("Humanoid").WalkSpeed = 0
+                                d:FindFirstChild("Humanoid").JumpPower = 0
+                                if not d:FindFirstChild("HumanoidRootPart"):FindFirstChild("BV") then
+                                    local m = Instance.new("BodyVelocity")
+                                    m.Parent = d:FindFirstChild("HumanoidRootPart")
+                                    m.Name = "BV"
+                                    m.MaxForce = Vector3.new(100000, 100000, 100000)
+                                    m.Velocity = Vector3.new(0, 0, 0)
+                                end
+                                if d:FindFirstChild("Humanoid"):FindFirstChild("Animator") then
+                                    d:FindFirstChild("Humanoid"):FindFirstChild("Animator"):Remove()
+                                end
+                                d:FindFirstChild("HumanoidRootPart").CFrame = F
+                                sethiddenproperty(game:GetService("Players").LocalPlayer,"SimulationRadius",math.huge)
+                            elseif (F.Position - d.HumanoidRootPart.Position).magnitude < 300 then
+                                d:FindFirstChild("HumanoidRootPart").Transparency = 1
+                                d:FindFirstChild("Humanoid"):ChangeState(11)
+                                d:FindFirstChild("HumanoidRootPart").Size = Vector3.new(60,60,60)
+                                d:FindFirstChild("Humanoid").WalkSpeed = 0
+                                d:FindFirstChild("Humanoid").JumpPower = 0
+                                if not d:FindFirstChild("HumanoidRootPart"):FindFirstChild("BV") then
+                                    local u = Instance.new("BodyVelocity")
+                                    u.Parent = d:FindFirstChild("HumanoidRootPart")
+                                    u.Name = "BV"
+                                    u.MaxForce = Vector3.new(100000, 100000, 100000)
+                                    u.Velocity = Vector3.new(0, 0, 0)
+                                end
+                                if d:FindFirstChild("Humanoid"):FindFirstChild("Animator") then
+                                    d:FindFirstChild("Humanoid"):FindFirstChild("Animator"):Remove()
+                                end
+                                d:FindFirstChild("HumanoidRootPart").CFrame = F
+                                sethiddenproperty(game:GetService("Players").LocalPlayer,"SimulationRadius",math.huge)
+                            end
+                        end
+                    end
+                end)
+            end)()
+        end
+        
+        spawn(function()
+        pcall(function()
+            while wait() do
+                if _G.AUTOFARM then
+                    if game.Players.LocalPlayer.Character.Humanoid.Health <= 0 then
+                        game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible = false
+                    end
+                end
+            end
+        end)
+        end)
+        
+        
+        
+        spawn(function()
+        while task.wait() do
+            pcall(function()
+                CheckQuest()
+                    for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                        if _G.AUTOFARM then
+                        if v.Name == Ms and v:FindFirstChild("Humanoid") and v.Humanoid.Health > 0 then
+                            if v.Name == Ms then
+                                if (v.HumanoidRootPart.Position - PosMon.Position).Magnitude <= 400 then
+                                if isnetworkowner(v.HumanoidRootPart) then
+                                    v.Head.CanCollide = false
+                                    v.HumanoidRootPart.CanCollide = false
+                                    v.HumanoidRootPart.Size = Vector3.new(60, 60, 60)
+                                    v.HumanoidRootPart.CFrame = PosMon
+                                    if v.Humanoid:FindFirstChild("Animator") then
+                                    v.Humanoid.Animator:Destroy()
+                                    end
+                                    v.Humanoid:ChangeState(14)
+                                    v.Humanoid.JumpPower = 0
+                                    v.Humanoid.WalkSpeed = 0
+                                    sethiddenproperty(game.Players.LocalPlayer, "SimulationRadius",  math.huge)
+                                    end
+                                end
+                            end
+                        elseif v.Name == "Factory Staff [Lv. 800]" then
+                                if (v.HumanoidRootPart.Position - PosMon.Position).Magnitude <= 150 then
+                                if isnetworkowner(v.HumanoidRootPart) then
+                                    v.Head.CanCollide = false
+                                    v.HumanoidRootPart.CanCollide = false
+                                    v.HumanoidRootPart.Size = Vector3.new(60, 60, 60)
+                                    v.HumanoidRootPart.CFrame = PosMon
+                                    v.Humanoid.Sit = true
+                                    v.Humanoid.PlatformStand = true
+                                    if v.Humanoid:FindFirstChild("Animator") then
+                                    v.Humanoid.Animator:Destroy()
+                                    end
+                                    v.Humanoid:ChangeState(14)
+                                    v.Humanoid.JumpPower = 0
+                                    v.Humanoid.WalkSpeed = 0
+                                    sethiddenproperty(game.Players.LocalPlayer, "SimulationRadius", math.huge)
+                                    end
+                                end
+                        elseif v.Name == "Monkey [Lv. 14]" then
+                                if (v.HumanoidRootPart.Position - PosMon.Position).Magnitude <= 100 then
+                                if isnetworkowner(v.HumanoidRootPart) then
+                                    v.Head.CanCollide = false
+                                    v.HumanoidRootPart.CanCollide = false
+                                    v.HumanoidRootPart.Size = Vector3.new(60, 60, 60)
+                                    v.HumanoidRootPart.CFrame = PosMon
+                                    v.Humanoid.Sit = true
+                                    v.Humanoid.PlatformStand = true
+                                    if v.Humanoid:FindFirstChild("Animator") then
+                                    v.Humanoid.Animator:Destroy()
+                                    end
+                                    v.Humanoid:ChangeState(14)
+                                    v.Humanoid.JumpPower = 0
+                                    v.Humanoid.WalkSpeed = 0
+                                    sethiddenproperty(game.Players.LocalPlayer, "SimulationRadius", math.huge)
+                                end
+                                elseif v.Name == "Snowman [Lv. 100]" then
+                                    if (v.HumanoidRootPart.Position - PosMon.Position).Magnitude <= 100 then
+                                    if isnetworkowner(v.HumanoidRootPart) then
+                                    v.Head.CanCollide = false
+                                    v.HumanoidRootPart.CanCollide = false
+                                    v.HumanoidRootPart.Size = Vector3.new(60, 60, 60)
+                                    v.HumanoidRootPart.CFrame = PosMon
+                                    v.Humanoid.Sit = true
+                                    v.Humanoid.PlatformStand = true
+                                    if v.Humanoid:FindFirstChild("Animator") then
+                                    v.Humanoid.Animator:Destroy()
+                                    end
+                                    v.Humanoid:ChangeState(14)
+                                    v.Humanoid.JumpPower = 0
+                                    v.Humanoid.WalkSpeed = 0
+                                    sethiddenproperty(game.Players.LocalPlayer, "SimulationRadius", math.huge)
+                                    end
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end)
+            end
+        end)
+        
+        
+        
+        spawn(function()
+            while task.wait() do
+                if _G.AUTOFARM then
+                    pcall(function()
+                    if game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == false then
+                        MagnetActive = false;
+                            CheckQuest();
+                            getgenv().ToTargets(CFrameQuest);
+                            if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - CFrameQuest.Position).Magnitude <= 20 then
+                                CheckQuest();
+                                game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrameQuest
+                                task.wait(.5);
+                                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("StartQuest", NaemQuest, LevelQuest);
+                                game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("SetSpawnPoint");
+                            end;
+                        elseif game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Visible == true then
+                            pcall(function()
+                                CheckQuest();
+                                if game:GetService("Workspace").Enemies:FindFirstChild(Ms) then
+                                    for i,v in pairs(game:GetService("Workspace").Enemies:GetChildren()) do
+                                        if v.Name == Ms and v:FindFirstChild("Humanoid") then
+                                            if v.Humanoid.Health > 0 then
+                                                repeat task.wait()
+                                                    if game:GetService("Workspace").Enemies:FindFirstChild(Ms) then
+                                                        if string.find(game:GetService("Players").LocalPlayer.PlayerGui.Main.Quest.Container.QuestTitle.Title.Text, NameMon) then
+                                                            getgenv().ToTargets(v.HumanoidRootPart.CFrame*CFrame.new(0,40,0))
+                                                            Attack()
+                                                            if isnetworkowner(v.HumanoidRootPart) then
+                                                            v.HumanoidRootPart.CanCollide = false;
+                                                            v.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                                            PosMon = v.HumanoidRootPart.CFrame
+                                                            v.Humanoid.JumpPower = 0;
+                                                            v.Humanoid.WalkSpeed = 0;
+                                                            v.HumanoidRootPart.CanCollide = false
+                                                            if v.Humanoid:FindFirstChild("Animator") then
+                                                                v.Humanoid.Animator:Destroy();
+                                                            end;
+                                                            v.Humanoid:ChangeState(14);
+                                                            else
+                                                            v.HumanoidRootPart.CanCollide = false;
+                                                            v.HumanoidRootPart.Size = Vector3.new(60, 60, 60);
+                                                            PosMon = v.HumanoidRootPart.CFrame
+                                                            v.Humanoid.JumpPower = 0;
+                                                            v.Humanoid.WalkSpeed = 0;
+                                                            v.HumanoidRootPart.CanCollide = false;
+                                                            if v.Humanoid:FindFirstChild("Animator") then
+                                                                v.Humanoid.Animator:Destroy();
+                                                            end;
+                                                            v.Humanoid:ChangeState(14);
+                                                            end;
+                                                        
+                                                            MagnetActive = true;
+                                                        else
+                                                            MagnetActive = false   ; 
+                                                            game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("AbandonQuest");
+                                                        end
+                                                    else
+                                                        MagnetActive = false;
+                                                        CheckQuest();
+                                                        getgenv().ToTargets(CFrameMon);
+                                                    end
+                                                until not v.Parent or v.Humanoid.Health <= 0 or _G.AUTOFARM == false or game.Players.LocalPlayer.PlayerGui.Main.Quest.Visible == false or not game:GetService("Workspace").Enemies:FindFirstChild(v.Name)
+                                            end;
+                                        end;
+                                    end;
+                                else
+                                    MagnetActive = false;
+                                    CheckQuest();
+                                    getgenv().ToTargets(CFrameMon);
+                                    if (game.Players.LocalPlayer.Character.HumanoidRootPart.Position - CFrameMon.Position).Magnitude <= 20 then
+                                        PUK()
+                                    end
+                                end;
+                            end);
+                        end;
+                    end);
+                end;
+            end;
+        end);
+        
+        
+        
+        function TP(gotoCFrame)
+        pcall(function()
+            game.Players.LocalPlayer.Character.Humanoid.Sit = false
+        end)
+        if (game:GetService("Players")["LocalPlayer"].Character.HumanoidRootPart.Position - gotoCFrame.Position).Magnitude <= 200 then
+            pcall(function() 
+                tween:Cancel()
+            end)
+            game:GetService("Players")["LocalPlayer"].Character.HumanoidRootPart.CFrame = gotoCFrame
+        else
+            local tween_s = game:service"TweenService"
+            local info = TweenInfo.new((game:GetService("Players")["LocalPlayer"].Character.HumanoidRootPart.Position - gotoCFrame.Position).Magnitude/300, Enum.EasingStyle.Linear)
+            local tween, err = pcall(function()
+                tween = tween_s:Create(game.Players.LocalPlayer.Character["HumanoidRootPart"], info, {CFrame = gotoCFrame})
+                tween:Play()
+            end)
+            if not tween then return err end
+        end
+        end
+        
+        
+        spawn(function()
+        while task.wait() do
+            pcall(function()
+                for i,v in pairs(game.Workspace.Enemies:GetChildren()) do
+                    if v:FindFirstChild("Humanoid") then
+                        if v.Humanoid.Health <= 0 then
+                            v.Parent = game.Workspace
+                        end
+                    end
+                end
+            end)
+        end
+        end)
+        
+        spawn(function()
+        while task.wait() do
+            pcall(function()
+                setfflag("HumanoidParallelRemoveNoPhysics", "False")
+                setfflag("HumanoidParallelRemoveNoPhysicsNoSimulate2", "False")
+            end)
+        end
+        end)
+        
+        local vu = game:GetService("VirtualUser")
+        game:GetService("Players").LocalPlayer.Idled:connect(function()
+        vu:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+        wait(1)
+        vu:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)
+        end)
+        end)
+	end    
+})
+
+Tab:AddToggle({
+	Name = "Fast Attack",
+	Default = true,
+	Callback = function(Value)
+        _G.F = Value
+
+local plr = game.Players.LocalPlayer
+
+local CbFw = debug.getupvalues(require(plr.PlayerScripts.CombatFramework))
+local CbFw2 = CbFw[2]
+
+function GetCurrentBlade() 
+local p13 = CbFw2.activeController
+local ret = p13.blades[1]
+if not ret then return end
+while ret.Parent~=game.Players.LocalPlayer.Character do ret=ret.Parent end
+return ret
+end
+function AttackNoCD() 
+local AC = CbFw2.activeController
+for i = 1, 1 do 
+local bladehit = require(game.ReplicatedStorage.CombatFramework.RigLib).getBladeHits(
+    plr.Character,
+    {plr.Character.HumanoidRootPart},
+    60
+)
+local cac = {}
+local hash = {}
+for k, v in pairs(bladehit) do
+    if v.Parent:FindFirstChild("HumanoidRootPart") and not hash[v.Parent] then
+        table.insert(cac, v.Parent.HumanoidRootPart)
+        hash[v.Parent] = true
+    end
+end
+bladehit = cac
+if #bladehit > 0 then
+    local u8 = debug.getupvalue(AC.attack, 5)
+    local u9 = debug.getupvalue(AC.attack, 6)
+    local u7 = debug.getupvalue(AC.attack, 4)
+    local u10 = debug.getupvalue(AC.attack, 7)
+    local u12 = (u8 * 798405 + u7 * 727595) % u9
+    local u13 = u7 * 798405
+    (function()
+        u12 = (u12 * u9 + u13) % 1099511627776
+        u8 = math.floor(u12 / u9)
+        u7 = u12 - u8 * u9
+    end)()
+    u10 = u10 + 1
+    debug.setupvalue(AC.attack, 5, u8)
+    debug.setupvalue(AC.attack, 6, u9)
+    debug.setupvalue(AC.attack, 4, u7)
+    debug.setupvalue(AC.attack, 7, u10)
+    pcall(function()
+        for k, v in pairs(AC.animator.anims.basic) do
+            v:Play()
+        end                  
+    end)
+    if plr.Character:FindFirstChildOfClass("Tool") and AC.blades and AC.blades[1] then 
+        game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("weaponChange",tostring(GetCurrentBlade()))
+        game.ReplicatedStorage.Remotes.Validator:FireServer(math.floor(u12 / 1099511627776 * 16777215), u10)
+        game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("hit", bladehit, i, "") 
+    end
+end
+end
+end
+
+require(game.ReplicatedStorage.Util.CameraShaker):Stop()
+spawn(function()
+while task.wait() do
+pcall(function()
+  if UseFast then
+      if _G.F then
+        AttackNoCD() 
+      end
+  end
+end)
+end
+end)
+
+local CameraShaker = require(game.ReplicatedStorage.Util.CameraShaker)
+for i,v in pairs(getreg()) do
+if typeof(v) == "function" and getfenv(v).script == game:GetService("Players").LocalPlayer.PlayerScripts.CombatFramework then
+for x,w in pairs(debug.getupvalues(v)) do
+     if typeof(w) == "table" then
+        task.spawn(function() 
+            game:GetService("RunService").RenderStepped:Connect(function()
+                if _G.F then
+                    pcall(function()
+                        if game.Players.LocalPlayer.Character:FindFirstChild("Combat") or game.Players.LocalPlayer.Character:FindFirstChild("Black Leg") or game.Players.LocalPlayer.Character:FindFirstChild("Electro") or game.Players.LocalPlayer.Character:FindFirstChild("Fishman Karate") or game.Players.LocalPlayer.Character:FindFirstChild("Dragon Claw") or game.Players.LocalPlayer.Character:FindFirstChild("Superhuman") or game.Players.LocalPlayer.Character:FindFirstChild("Sharkman Karate") then
+                            w.activeController.increment = 3
+                        else
+                            w.activeController.increment = 4
+                        end             
+                        CameraShaker:Stop()
+                        w.activeController.timeToNextAttack = -(math.huge^math.huge^math.huge)
+                        w.activeController.attacking = true
+                        w.activeController.timeToNextBlock = 0.01
+                        w.activeController.blocking = false                            
+                        w.activeController.hitboxMagnitude = 100
+                        w.activeController.humanoid.AutoRotate = true
+                          w.activeController.focusStart = 0
+                    end)
+                end
+            end)
+        end)
+    end
+end
+end
+end
+
+task.spawn(function() 
+while task.wait() do
+if _G.F then
+    pcall(function()
+        wait(0.01)
+        local AC = CbFw2.activeController
+        for i = 1,1 do 
+            local bladehit = require(game.ReplicatedStorage.CombatFramework.RigLib).getBladeHits(
+                plr.Character,
+                {plr.Character.HumanoidRootPart},
+                60
+         )
+local cac = {}
+local hash = {}
+for k, v in pairs(bladehit) do
+    if v.Parent:FindFirstChild("HumanoidRootPart") and not hash[v.Parent] then
+        table.insert(cac, v.Parent.HumanoidRootPart)
+        hash[v.Parent] = true
+    end
+end
+bladehit = cac
+if #bladehit > 0 then
+    local u8 = debug.getupvalue(AC.attack, 5)
+    local u9 = debug.getupvalue(AC.attack, 6)
+    local u7 = debug.getupvalue(AC.attack, 4)
+    local u10 = debug.getupvalue(AC.attack, 7)
+    local u12 = (u8 * 798405 + u7 * 727595) % u9
+    local u13 = u7 * 798405
+    (function()
+        u12 = (u12 * u9 + u13) % 1099511627776
+        u8 = math.floor(u12 / u9)
+        u7 = u12 - u8 * u9
+    end)()
+    u10 = u10 + 1
+    debug.setupvalue(AC.attack, 5, u8)
+    debug.setupvalue(AC.attack, 6, u9)
+    debug.setupvalue(AC.attack, 4, u7)
+    debug.setupvalue(AC.attack, 7, u10)
+    pcall(function()
+        for k, v in pairs(AC.animator.anims.basic) do
+            v:Play()
+        end                  
+    end)
+    if plr.Character:FindFirstChildOfClass("Tool") and AC.blades and AC.blades[1] then 
+        game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("weaponChange",tostring(GetCurrentBlade()))
+        game.ReplicatedStorage.Remotes.Validator:FireServer(math.floor(u12 / 1099511627776 * 16777215), u10)
+        game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("hit", bladehit, i, "") 
+                end
+            end
+        end
+    end)
+end
+end
+end)
+
+require(game.ReplicatedStorage.Util.CameraShaker):Stop()
+spawn(function()
+while task.wait() do
+pcall(function()
+  if UseFast then
+      if _G.F then
+        AttackNoCD() 
+      end
+  end
+end)
+end
+end)
+   spawn(function()
+        while task.wait(0.01) do
+            if _G.F then
+                pcall(function()
+                    local plr = game.Players.LocalPlayer
+
+                    local CbFw = debug.getupvalues(require(plr.PlayerScripts.CombatFramework))
+                    local CbFw2 = CbFw[2]
+                    
+                    function GetCurrentBlade() 
+                        local p13 = CbFw2.activeController
+                        local ret = p13.blades[1]
+                        if not ret then return end
+                        while ret.Parent~=game.Players.LocalPlayer.Character do ret=ret.Parent end
+                        return ret
+                    end
+                    function AttackNoCD() 
+                        local AC = CbFw2.activeController
+                        for i = 1, 1 do 
+                            local bladehit = require(game.ReplicatedStorage.CombatFramework.RigLib).getBladeHits(
+                                plr.Character,
+                                {plr.Character.HumanoidRootPart},
+                                60
+                            )
+                            local cac = {}
+                            local hash = {}
+                            for k, v in pairs(bladehit) do
+                                if v.Parent:FindFirstChild("HumanoidRootPart") and not hash[v.Parent] then
+                                    table.insert(cac, v.Parent.HumanoidRootPart)
+                                    hash[v.Parent] = true
+                                end
+                            end
+                            bladehit = cac
+                            if #bladehit > 0 then
+                                local u8 = debug.getupvalue(AC.attack, 5)
+                                local u9 = debug.getupvalue(AC.attack, 6)
+                                local u7 = debug.getupvalue(AC.attack, 4)
+                                local u10 = debug.getupvalue(AC.attack, 7)
+                                local u12 = (u8 * 798405 + u7 * 727595) % u9
+                                local u13 = u7 * 798405
+                                (function()
+                                    u12 = (u12 * u9 + u13) % 1099511627776
+                                    u8 = math.floor(u12 / u9)
+                                    u7 = u12 - u8 * u9
+                                end)()
+                                u10 = u10 + 1
+                                debug.setupvalue(AC.attack, 5, u8)
+                                debug.setupvalue(AC.attack, 6, u9)
+                                debug.setupvalue(AC.attack, 4, u7)
+                                debug.setupvalue(AC.attack, 7, u10)
+                                pcall(function()
+                                    for k, v in pairs(AC.animator.anims.basic) do
+                                        v:Play()
+                                    end                  
+                                end)
+                                if plr.Character:FindFirstChildOfClass("Tool") and AC.blades and AC.blades[1] then 
+                                    game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("weaponChange",tostring(GetCurrentBlade()))
+                                    game.ReplicatedStorage.Remotes.Validator:FireServer(math.floor(u12 / 1099511627776 * 16777215), u10)
+                                    game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("hit", bladehit, i, "") 
+                                end
+                            end
+                        end
+                    end
+                    function AttackNoCD2() 
+                        local AC = CbFw2.activeController
+                        for i = 1, 1 do 
+                            local bladehit = require(game.ReplicatedStorage.CombatFramework.RigLib).getBladeHits(
+                                plr.Character,
+                                {plr.Character.HumanoidRootPart},
+                                60
+                            )
+                            local cac = {}
+                            local hash = {}
+                            for k, v in pairs(bladehit) do
+                                if v.Parent:FindFirstChild("HumanoidRootPart") and not hash[v.Parent] then
+                                    table.insert(cac, v.Parent.HumanoidRootPart)
+                                    hash[v.Parent] = true
+                                end
+                            end
+                            bladehit = cac
+                            if #bladehit > 0 then
+                                local u8 = debug.getupvalue(AC.attack, 5)
+                                local u9 = debug.getupvalue(AC.attack, 6)
+                                local u7 = debug.getupvalue(AC.attack, 4)
+                                local u10 = debug.getupvalue(AC.attack, 7)
+                                local u12 = (u8 * 798405 + u7 * 727595) % u9
+                                local u13 = u7 * 798405
+                                (function()
+                                    u12 = (u12 * u9 + u13) % 1099511627776
+                                    u8 = math.floor(u12 / u9)
+                                    u7 = u12 - u8 * u9
+                                end)()
+                                u10 = u10 + 1
+                                debug.setupvalue(AC.attack, 5, u8)
+                                debug.setupvalue(AC.attack, 6, u9)
+                                debug.setupvalue(AC.attack, 4, u7)
+                                debug.setupvalue(AC.attack, 7, u10)
+                                pcall(function()
+                                    for k, v in pairs(AC.animator.anims.basic) do
+                                        v:Play()
+                                    end                  
+                                end)
+                                if plr.Character:FindFirstChildOfClass("Tool") and AC.blades and AC.blades[1] then 
+                                    game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("weaponChange",tostring(GetCurrentBlade()))
+                                    game.ReplicatedStorage.Remotes.Validator:FireServer(math.floor(u12 / 1099511627776 * 16777215), u10)
+                                    game:GetService("ReplicatedStorage").RigControllerEvent:FireServer("hit", bladehit, i, "") 
+                                end
+                            end
+                        end
+                    end
+                    spawn(function()
+                        while wait(.1) do
+                            pcall(function()
+                                if _G.F then
+                                    repeat wait(0.01)
+                                        AttackNoCD()
+                                        AttackNoCD2()
+                                    until not F
+                                end
+                            end)
+                        end
+                    end)
+                end)
+            end
+        end
+    end)
+
+	end    
+})
+
+Tab:AddToggle({
+	Name = "Part Neon",
+	Default = false,
+	Callback = function(Value)
+        _G.PartNeon = Value
+if _G.PartNeon == true then
+spawn(function()
+    pcall(function()
+       game:GetService("RunService").Heartbeat:Connect(function()
+        if _G.PartNeon then
+          if not game:GetService("Workspace"):FindFirstChild("LOL") then
+             local Paertaiteen = Instance.new("Part")
+             Paertaiteen.Name = "LOL"
+             Paertaiteen.Parent = game.Workspace
+             Paertaiteen.Anchored = true
+             Paertaiteen.Transparency = 0
+             Paertaiteen.Size = Vector3.new(30,0.5,30)
+             Paertaiteen.Material = "Neon"
+             while true do 
+ 
+                 wait(0.1) 
+                 game:GetService('TweenService'):Create(
+                     Paertaiteen,TweenInfo.new(1,Enum.EasingStyle.Linear,Enum.EasingDirection.InOut),
+                 {Color = Color3.fromRGB(255, 0, 0)}):Play() 
+                 wait(.5)
+ 
+                 game:GetService('TweenService'):Create(
+                     Paertaiteen,TweenInfo.new(1,Enum.EasingStyle.Linear,Enum.EasingDirection.InOut),
+                 {Color = Color3.fromRGB(255, 155, 0)}):Play() 
+                 wait(.5)
+ 
+                 game:GetService('TweenService'):Create(
+                     Paertaiteen,TweenInfo.new(1,Enum.EasingStyle.Linear,Enum.EasingDirection.InOut),
+                 {Color = Color3.fromRGB(255, 255, 0)}):Play() 
+                 wait(.5)
+ 
+                 game:GetService('TweenService'):Create(
+                     Paertaiteen,TweenInfo.new(1,Enum.EasingStyle.Linear,Enum.EasingDirection.InOut),
+                 {Color = Color3.fromRGB(0, 255, 0)}):Play() 
+                 wait(.5)
+ 
+                 game:GetService('TweenService'):Create(
+                     Paertaiteen,TweenInfo.new(1,Enum.EasingStyle.Linear,Enum.EasingDirection.InOut),
+                 {Color = Color3.fromRGB(0, 255, 255)}):Play() 
+                 wait(.5)
+ 
+                 game:GetService('TweenService'):Create(
+                     Paertaiteen,TweenInfo.new(1,Enum.EasingStyle.Linear,Enum.EasingDirection.InOut),
+                 {Color = Color3.fromRGB(0, 155, 255)}):Play() 
+                 wait(.5)
+ 
+                 game:GetService('TweenService'):Create(
+                     Paertaiteen,TweenInfo.new(1,Enum.EasingStyle.Linear,Enum.EasingDirection.InOut),
+                 {Color = Color3.fromRGB(255, 0, 255)}):Play() 
+                 wait(.5)
+ 
+                 game:GetService('TweenService'):Create(
+                     Paertaiteen,TweenInfo.new(1,Enum.EasingStyle.Linear,Enum.EasingDirection.InOut),
+                 {Color = Color3.fromRGB(255, 0, 155)}):Play() 
+                 wait(.5)
+             end 
+         elseif game:GetService("Workspace"):FindFirstChild("LOL") then
+             game.Workspace["LOL"].CFrame = CFrame.new(game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.X,game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Y - 3.92,game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Z)
+             
+         end
+     else
+         if _G.PartNeon == false then
+                 game:GetService("Workspace"):FindFirstChild("LOL")
+                 game:GetService("Workspace"):FindFirstChild("LOL"):Destroy()
+                 end
+        end
+        end)
+ end)
+end)
+end
+	end    
+})
