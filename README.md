@@ -1,10 +1,8 @@
 local id = game.PlaceId
 
-if id == 2753915549 then ------------Bloxfruit---------------------
+if id == 2753915549 or id == 4442272183 or id == 7449423635 then
 
-elseif id == 4442272183 then ------------Bloxfruit---------------------
-
-elseif id == 7449423635 then ------------Bloxfruit---------------------
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PeomPokkao/Free-UPC-New-Generation-First/main/README.md"))()
 
 elseif id == 16621055020 then ------------ราชาขาสั้น [BETA]---------------------
 
